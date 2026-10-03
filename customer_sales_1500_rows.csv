@@ -1,0 +1,1501 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Region,Segment,Category,Product,Quantity,Sales,Discount,Profit,Payment_Mode
+ORD00001,13-04-2025,CUST0379,Customer 0379,West,Small Business,Office Supplies,Office Chair,1,1542.13,0.1,451.46,Net Banking
+ORD00002,15-12-2025,CUST0359,Customer 0359,North,Consumer,Accessories,USB Hub,1,1902.17,0.1,435.07,UPI
+ORD00003,28-09-2025,CUST0193,Customer 0193,North,Small Business,Technology,Laptop,1,12523.68,0.05,3326.81,Net Banking
+ORD00004,17-04-2025,CUST0198,Customer 0198,East,Small Business,Technology,Mouse,2,15057.71,0.25,2908.66,Cash
+ORD00005,13-03-2025,CUST0243,Customer 0243,South,Consumer,Furniture,Office Sofa,2,17747.72,0,4006.14,Net Banking
+ORD00006,08-07-2025,CUST0009,Customer 0009,South,Small Business,Accessories,Backpack,1,2084.82,0.1,575.04,Debit Card
+ORD00007,21-01-2025,CUST0269,Customer 0269,North,Consumer,Technology,Keyboard,9,145648.08,0.2,31422.58,Credit Card
+ORD00008,13-04-2025,CUST0137,Customer 0137,South,Consumer,Technology,Printer,10,161782.41,0.15,36414.91,UPI
+ORD00009,02-05-2025,CUST0389,Customer 0389,South,Consumer,Office Supplies,Office Chair,6,16330.92,0,5216.88,Cash
+ORD00010,03-08-2025,CUST0224,Customer 0224,East,Consumer,Technology,Printer,10,133436.95,0.15,29940.3,Net Banking
+ORD00011,27-11-2025,CUST0336,Customer 0336,North,Corporate,Furniture,Conference Table,9,71803.62,0.05,16012.86,UPI
+ORD00012,29-03-2025,CUST0007,Customer 0007,Central,Small Business,Furniture,Cabinet,10,77175.72,0.2,10072.55,Net Banking
+ORD00013,10-04-2025,CUST0356,Customer 0356,Central,Corporate,Technology,Monitor,7,72827.02,0,14757.91,Debit Card
+ORD00014,26-12-2025,CUST0188,Customer 0188,Central,Consumer,Technology,Monitor,3,27070.1,0.05,4651.8,Credit Card
+ORD00015,01-06-2025,CUST0060,Customer 0060,Central,Consumer,Accessories,Headset,6,24271.57,0.15,5018.96,Credit Card
+ORD00016,11-05-2025,CUST0394,Customer 0394,South,Consumer,Furniture,Desk,8,36221.12,0.2,8234.83,Cash
+ORD00017,30-05-2025,CUST0381,Customer 0381,Central,Consumer,Furniture,Conference Table,1,7469.37,0.1,1546.46,Debit Card
+ORD00018,05-11-2025,CUST0285,Customer 0285,East,Small Business,Office Supplies,Pen Set,9,9826.6,0.15,2941.77,UPI
+ORD00019,15-09-2025,CUST0022,Customer 0022,East,Consumer,Technology,Mouse,1,21185.31,0,5150.72,Cash
+ORD00020,10-12-2025,CUST0262,Customer 0262,Central,Corporate,Accessories,Headset,3,7447.27,0.1,2028.95,Debit Card
+ORD00021,21-10-2025,CUST0281,Customer 0281,South,Corporate,Technology,Laptop,8,75463.75,0.05,13516.8,UPI
+ORD00022,11-07-2025,CUST0199,Customer 0199,West,Corporate,Office Supplies,Pen Set,5,9867.39,0.25,2452.5,Credit Card
+ORD00023,04-10-2025,CUST0382,Customer 0382,West,Corporate,Technology,Laptop,9,85109.5,0.1,15015.09,Debit Card
+ORD00024,10-06-2025,CUST0064,Customer 0064,Central,Consumer,Technology,Keyboard,2,31007.51,0.1,8293.58,Debit Card
+ORD00025,10-11-2025,CUST0289,Customer 0289,North,Small Business,Furniture,Desk,8,82318.83,0.15,11902.66,UPI
+ORD00026,22-01-2025,CUST0148,Customer 0148,South,Consumer,Office Supplies,File Folder,1,1921.88,0,509.42,UPI
+ORD00027,10-09-2025,CUST0166,Customer 0166,South,Corporate,Technology,Monitor,2,38400.34,0,9102.36,Cash
+ORD00028,24-08-2025,CUST0390,Customer 0390,North,Corporate,Technology,Keyboard,7,108270.1,0.05,28531.36,Cash
+ORD00029,11-12-2025,CUST0318,Customer 0318,East,Corporate,Furniture,Cabinet,4,35626.95,0.15,7424.06,Credit Card
+ORD00030,18-02-2025,CUST0362,Customer 0362,South,Consumer,Technology,Mouse,6,81630.1,0.15,17789.47,Debit Card
+ORD00031,28-02-2025,CUST0173,Customer 0173,Central,Consumer,Office Supplies,File Folder,7,7106.13,0.05,1649.23,Debit Card
+ORD00032,19-06-2025,CUST0059,Customer 0059,South,Corporate,Office Supplies,Notebook,3,6643.23,0,1548.31,UPI
+ORD00033,07-07-2025,CUST0159,Customer 0159,West,Consumer,Office Supplies,Desk Organizer,5,7257.07,0.1,2385.87,UPI
+ORD00034,28-09-2025,CUST0250,Customer 0250,West,Corporate,Accessories,Backpack,2,6243.62,0.15,1657.69,Cash
+ORD00035,09-07-2025,CUST0268,Customer 0268,South,Consumer,Technology,Printer,8,147470.19,0.05,36513.62,Credit Card
+ORD00036,24-06-2025,CUST0014,Customer 0014,Central,Small Business,Furniture,Bookshelf,5,26467.93,0.1,3698.61,Credit Card
+ORD00037,20-02-2025,CUST0084,Customer 0084,North,Corporate,Furniture,Desk,9,123414.27,0.05,24148.92,Credit Card
+ORD00038,30-12-2025,CUST0301,Customer 0301,East,Consumer,Furniture,Cabinet,10,56270.58,0.05,10239.97,Credit Card
+ORD00039,24-02-2025,CUST0133,Customer 0133,East,Consumer,Accessories,Backpack,1,2311.28,0.1,549.94,Debit Card
+ORD00040,01-09-2025,CUST0165,Customer 0165,West,Corporate,Office Supplies,File Folder,8,13079.28,0.2,3277.46,UPI
+ORD00041,16-11-2025,CUST0293,Customer 0293,Central,Small Business,Technology,Monitor,1,8468.58,0.1,2230.52,Credit Card
+ORD00042,11-05-2025,CUST0276,Customer 0276,East,Small Business,Office Supplies,File Folder,2,2357.45,0.25,678.97,UPI
+ORD00043,03-11-2025,CUST0294,Customer 0294,Central,Consumer,Office Supplies,File Folder,4,8582.02,0.05,2551.8,Cash
+ORD00044,15-05-2025,CUST0352,Customer 0352,South,Consumer,Technology,Printer,1,15546.89,0.2,3705.21,Credit Card
+ORD00045,21-01-2025,CUST0076,Customer 0076,North,Consumer,Furniture,Desk,4,44277.13,0.05,8673.38,Credit Card
+ORD00046,25-11-2025,CUST0220,Customer 0220,North,Consumer,Furniture,Bookshelf,1,7272.5,0.2,1514.41,Debit Card
+ORD00047,16-06-2025,CUST0098,Customer 0098,West,Consumer,Furniture,Cabinet,6,45060.66,0.2,9813.72,Credit Card
+ORD00048,01-10-2025,CUST0344,Customer 0344,North,Consumer,Accessories,Backpack,5,12594.04,0.1,3017.75,Debit Card
+ORD00049,30-03-2025,CUST0305,Customer 0305,East,Consumer,Office Supplies,Notebook,6,5720.94,0.15,1698.1,Debit Card
+ORD00050,12-11-2025,CUST0085,Customer 0085,South,Small Business,Office Supplies,Office Chair,6,12651,0.2,3047.52,UPI
+ORD00051,14-01-2025,CUST0228,Customer 0228,South,Corporate,Office Supplies,File Folder,5,6712,0,1978.35,Net Banking
+ORD00052,30-08-2025,CUST0051,Customer 0051,Central,Consumer,Technology,Keyboard,6,59415.75,0.05,13768.72,Credit Card
+ORD00053,22-09-2025,CUST0239,Customer 0239,South,Consumer,Furniture,Office Sofa,4,43353.14,0.1,9870.32,Net Banking
+ORD00054,12-12-2025,CUST0074,Customer 0074,North,Corporate,Office Supplies,File Folder,10,10587.29,0.2,2884.54,UPI
+ORD00055,22-02-2025,CUST0376,Customer 0376,East,Consumer,Accessories,Headset,7,23949.78,0.1,6211.47,Net Banking
+ORD00056,06-12-2025,CUST0121,Customer 0121,North,Corporate,Furniture,Bookshelf,10,68882.65,0.1,13996.67,Net Banking
+ORD00057,02-04-2025,CUST0146,Customer 0146,South,Corporate,Furniture,Desk,1,8789.85,0.05,1349.45,Net Banking
+ORD00058,21-09-2025,CUST0150,Customer 0150,East,Consumer,Office Supplies,Desk Organizer,7,13127.47,0.05,3532.48,Debit Card
+ORD00059,04-02-2025,CUST0320,Customer 0320,Central,Consumer,Office Supplies,Pen Set,2,3091.99,0.1,933.04,Debit Card
+ORD00060,25-07-2025,CUST0302,Customer 0302,South,Consumer,Accessories,Headset,6,20581.78,0.05,4279.81,UPI
+ORD00061,22-03-2025,CUST0073,Customer 0073,East,Consumer,Accessories,Webcam,6,17375.93,0,4377.1,UPI
+ORD00062,19-02-2025,CUST0160,Customer 0160,South,Consumer,Accessories,Webcam,3,9356.76,0.1,2182.93,Debit Card
+ORD00063,26-12-2025,CUST0102,Customer 0102,South,Corporate,Accessories,USB Hub,7,22740.61,0,5826.82,Cash
+ORD00064,02-01-2025,CUST0311,Customer 0311,North,Consumer,Technology,Laptop,7,115203.61,0.1,27244.64,Net Banking
+ORD00065,23-02-2025,CUST0279,Customer 0279,Central,Consumer,Accessories,Power Bank,4,17015.05,0.1,4835.73,Credit Card
+ORD00066,16-04-2025,CUST0231,Customer 0231,Central,Small Business,Furniture,Bookshelf,6,40430.33,0,5731.6,UPI
+ORD00067,17-09-2025,CUST0341,Customer 0341,North,Consumer,Office Supplies,Notebook,9,13734.03,0.2,3542.97,Cash
+ORD00068,06-11-2025,CUST0143,Customer 0143,Central,Small Business,Accessories,Webcam,4,7767.15,0.2,1643.81,Net Banking
+ORD00069,10-07-2025,CUST0158,Customer 0158,East,Corporate,Office Supplies,Pen Set,7,10768.96,0,2910.83,UPI
+ORD00070,06-08-2025,CUST0206,Customer 0206,South,Small Business,Furniture,Bookshelf,9,86581.32,0.1,13971.87,Debit Card
+ORD00071,13-02-2025,CUST0387,Customer 0387,North,Small Business,Technology,Printer,5,42321,0.1,9336.47,UPI
+ORD00072,11-06-2025,CUST0288,Customer 0288,West,Consumer,Technology,Mouse,4,55412.65,0,12971.14,UPI
+ORD00073,21-07-2025,CUST0151,Customer 0151,East,Consumer,Furniture,Cabinet,5,56890.06,0.1,7726.6,Cash
+ORD00074,27-09-2025,CUST0083,Customer 0083,Central,Consumer,Technology,Laptop,9,159523.72,0.05,29954.83,Debit Card
+ORD00075,17-12-2025,CUST0103,Customer 0103,Central,Consumer,Furniture,Cabinet,7,48695.46,0.05,9523.49,Net Banking
+ORD00076,31-10-2025,CUST0116,Customer 0116,Central,Consumer,Furniture,Office Sofa,3,23540.53,0.1,5008.34,Debit Card
+ORD00077,28-09-2025,CUST0062,Customer 0062,Central,Consumer,Furniture,Bookshelf,10,111095.48,0.05,21318.65,Credit Card
+ORD00078,03-08-2025,CUST0213,Customer 0213,Central,Consumer,Accessories,Power Bank,4,11204.33,0.05,2964.77,Credit Card
+ORD00079,09-09-2025,CUST0282,Customer 0282,South,Consumer,Technology,Printer,4,37769.55,0.15,9482.75,Debit Card
+ORD00080,09-07-2025,CUST0021,Customer 0021,North,Small Business,Accessories,USB Hub,9,15964.62,0.15,4698.12,Net Banking
+ORD00081,23-10-2025,CUST0010,Customer 0010,West,Small Business,Technology,Laptop,8,96292.65,0.15,22718.85,Net Banking
+ORD00082,01-08-2025,CUST0343,Customer 0343,East,Consumer,Furniture,Desk,5,55037.79,0.1,10898.74,UPI
+ORD00083,27-07-2025,CUST0385,Customer 0385,East,Consumer,Technology,Keyboard,8,59025.54,0.1,12322.14,Credit Card
+ORD00084,25-08-2025,CUST0399,Customer 0399,East,Small Business,Accessories,Headset,3,6951.45,0,1849.3,Net Banking
+ORD00085,04-12-2025,CUST0337,Customer 0337,North,Consumer,Technology,Mouse,9,111553.17,0.05,20318.14,Debit Card
+ORD00086,22-02-2025,CUST0217,Customer 0217,South,Consumer,Furniture,Desk,10,121721.46,0.05,27752.13,Debit Card
+ORD00087,07-10-2025,CUST0226,Customer 0226,North,Consumer,Furniture,Cabinet,8,87288.4,0,14629.47,Debit Card
+ORD00088,05-08-2025,CUST0278,Customer 0278,West,Consumer,Office Supplies,Pen Set,5,9930.46,0.1,2296.63,Cash
+ORD00089,09-09-2025,CUST0268,Customer 0268,South,Small Business,Furniture,Desk,5,55790.54,0.1,11950.33,Debit Card
+ORD00090,07-07-2025,CUST0224,Customer 0224,East,Consumer,Furniture,Cabinet,9,127171.68,0,18628.3,UPI
+ORD00091,10-02-2025,CUST0050,Customer 0050,East,Consumer,Furniture,Conference Table,7,78609.49,0.15,14481.73,Debit Card
+ORD00092,06-06-2025,CUST0023,Customer 0023,West,Corporate,Office Supplies,Office Chair,9,20178.16,0.05,5572.31,UPI
+ORD00093,15-01-2025,CUST0003,Customer 0003,East,Small Business,Technology,Printer,10,152152.6,0.1,37160.96,Net Banking
+ORD00094,28-10-2025,CUST0112,Customer 0112,West,Corporate,Furniture,Bookshelf,4,17933.92,0.15,2394.74,Debit Card
+ORD00095,06-03-2025,CUST0377,Customer 0377,East,Corporate,Technology,Monitor,7,89992.14,0.1,16420.99,Credit Card
+ORD00096,11-12-2025,CUST0024,Customer 0024,South,Consumer,Furniture,Bookshelf,5,57619.5,0,8518.31,UPI
+ORD00097,23-11-2025,CUST0057,Customer 0057,North,Consumer,Technology,Mouse,7,125619.95,0.1,30442.8,UPI
+ORD00098,09-01-2025,CUST0388,Customer 0388,South,Consumer,Technology,Mouse,2,32260.08,0,6523.34,Debit Card
+ORD00099,10-12-2025,CUST0076,Customer 0076,Central,Corporate,Technology,Printer,4,53790.36,0.1,9937.51,Credit Card
+ORD00100,09-05-2025,CUST0319,Customer 0319,East,Consumer,Office Supplies,Pen Set,9,20422.47,0.15,5557.46,Debit Card
+ORD00101,16-05-2025,CUST0399,Customer 0399,West,Consumer,Furniture,Conference Table,7,63413.83,0.15,9413.63,Credit Card
+ORD00102,04-03-2025,CUST0107,Customer 0107,Central,Consumer,Office Supplies,Desk Organizer,6,10958.49,0.05,3551.29,UPI
+ORD00103,19-05-2025,CUST0069,Customer 0069,Central,Corporate,Office Supplies,Office Chair,4,8765.13,0.1,2439.31,UPI
+ORD00104,22-03-2025,CUST0129,Customer 0129,West,Corporate,Technology,Monitor,6,48460.96,0.05,8874.9,Credit Card
+ORD00105,12-06-2025,CUST0036,Customer 0036,West,Consumer,Accessories,Backpack,10,25298.49,0.05,5684.52,Cash
+ORD00106,16-10-2025,CUST0217,Customer 0217,West,Corporate,Technology,Monitor,9,130733.97,0,23043.87,Cash
+ORD00107,18-09-2025,CUST0178,Customer 0178,South,Consumer,Technology,Mouse,8,116861.31,0.05,30175.18,Credit Card
+ORD00108,19-08-2025,CUST0165,Customer 0165,South,Small Business,Accessories,Backpack,5,18303.45,0.05,4695.44,Credit Card
+ORD00109,10-02-2025,CUST0161,Customer 0161,West,Consumer,Accessories,Headset,10,17376.45,0.15,4422.49,Cash
+ORD00110,28-01-2025,CUST0043,Customer 0043,North,Consumer,Technology,Mouse,1,15466.57,0.05,3939.21,Credit Card
+ORD00111,15-05-2025,CUST0066,Customer 0066,East,Consumer,Technology,Laptop,7,107352.32,0,23751.73,Net Banking
+ORD00112,20-07-2025,CUST0319,Customer 0319,Central,Consumer,Office Supplies,Office Chair,4,6700.47,0.15,2046.4,UPI
+ORD00113,24-11-2025,CUST0092,Customer 0092,Central,Consumer,Technology,Mouse,9,118900.52,0.15,26847.51,Debit Card
+ORD00114,25-09-2025,CUST0044,Customer 0044,West,Consumer,Technology,Keyboard,3,23400.41,0.15,5901.83,Credit Card
+ORD00115,02-02-2025,CUST0267,Customer 0267,South,Consumer,Furniture,Conference Table,8,54079.11,0.15,10153.86,Debit Card
+ORD00116,17-02-2025,CUST0042,Customer 0042,West,Consumer,Furniture,Bookshelf,2,13174.78,0.2,2906.54,UPI
+ORD00117,03-03-2025,CUST0220,Customer 0220,Central,Consumer,Accessories,Backpack,5,13468.4,0.15,2806.09,Net Banking
+ORD00118,04-08-2025,CUST0063,Customer 0063,Central,Consumer,Accessories,Backpack,5,18362.67,0.1,5503.44,Cash
+ORD00119,20-10-2025,CUST0325,Customer 0325,North,Corporate,Furniture,Conference Table,4,38588.35,0.2,5322.9,Debit Card
+ORD00120,09-04-2025,CUST0265,Customer 0265,South,Corporate,Technology,Printer,6,95274.36,0.1,20685.66,Net Banking
+ORD00121,21-06-2025,CUST0216,Customer 0216,East,Consumer,Office Supplies,Desk Organizer,10,14298.12,0,3413.22,Debit Card
+ORD00122,26-12-2025,CUST0041,Customer 0041,South,Corporate,Office Supplies,Pen Set,10,18853.19,0.1,5424.53,Debit Card
+ORD00123,02-08-2025,CUST0289,Customer 0289,South,Consumer,Accessories,Webcam,2,5535.49,0,1484.43,UPI
+ORD00124,04-02-2025,CUST0247,Customer 0247,East,Consumer,Furniture,Desk,4,51131.55,0.05,8489.77,UPI
+ORD00125,15-08-2025,CUST0302,Customer 0302,West,Corporate,Furniture,Office Sofa,1,10627.22,0.15,2088.23,UPI
+ORD00126,11-04-2025,CUST0219,Customer 0219,East,Corporate,Accessories,Webcam,2,5743.04,0.1,1645.13,Credit Card
+ORD00127,11-05-2025,CUST0084,Customer 0084,South,Consumer,Office Supplies,Office Chair,6,7171.52,0.2,1859.02,Cash
+ORD00128,14-09-2025,CUST0284,Customer 0284,North,Consumer,Furniture,Desk,7,61198.25,0.15,10708.73,UPI
+ORD00129,05-01-2025,CUST0286,Customer 0286,North,Consumer,Technology,Mouse,8,74711.03,0.2,13255.54,UPI
+ORD00130,06-08-2025,CUST0196,Customer 0196,West,Consumer,Furniture,Desk,8,97624.7,0.1,16014.41,Cash
+ORD00131,12-09-2025,CUST0062,Customer 0062,West,Corporate,Furniture,Office Sofa,3,19810.64,0.15,3711.22,Debit Card
+ORD00132,25-12-2025,CUST0172,Customer 0172,Central,Consumer,Technology,Printer,9,156326.03,0.15,39539.34,Net Banking
+ORD00133,10-10-2025,CUST0343,Customer 0343,West,Consumer,Office Supplies,Desk Organizer,6,9038.59,0.15,2622.93,Net Banking
+ORD00134,26-07-2025,CUST0307,Customer 0307,North,Consumer,Office Supplies,Desk Organizer,3,3826.93,0.1,920.08,Credit Card
+ORD00135,15-01-2025,CUST0194,Customer 0194,East,Consumer,Office Supplies,File Folder,7,18360.07,0.05,4970.02,Net Banking
+ORD00136,12-12-2025,CUST0268,Customer 0268,East,Corporate,Technology,Printer,8,79516.75,0.1,17099.8,Credit Card
+ORD00137,11-02-2025,CUST0237,Customer 0237,North,Consumer,Furniture,Conference Table,6,80035.75,0,17074.16,Net Banking
+ORD00138,28-06-2025,CUST0245,Customer 0245,South,Corporate,Technology,Printer,6,112020.58,0.1,20019.12,Debit Card
+ORD00139,04-03-2025,CUST0059,Customer 0059,North,Consumer,Technology,Keyboard,7,86927.43,0.15,23407.96,UPI
+ORD00140,18-12-2025,CUST0168,Customer 0168,West,Consumer,Technology,Laptop,8,138764.57,0.15,32025.55,Credit Card
+ORD00141,19-08-2025,CUST0250,Customer 0250,North,Corporate,Accessories,Headset,7,22714.89,0.2,4635.11,Net Banking
+ORD00142,29-08-2025,CUST0161,Customer 0161,South,Consumer,Technology,Mouse,5,42274.58,0.1,10362.25,UPI
+ORD00143,21-02-2025,CUST0258,Customer 0258,North,Corporate,Technology,Laptop,10,108518.48,0.15,18558.08,Debit Card
+ORD00144,06-04-2025,CUST0039,Customer 0039,West,Small Business,Accessories,Backpack,6,10299.78,0.2,2128.39,Credit Card
+ORD00145,10-08-2025,CUST0268,Customer 0268,North,Consumer,Technology,Laptop,7,110465.59,0,20137.91,Debit Card
+ORD00146,19-08-2025,CUST0294,Customer 0294,East,Corporate,Office Supplies,Notebook,2,3434.03,0,976.14,Net Banking
+ORD00147,25-08-2025,CUST0354,Customer 0354,East,Consumer,Furniture,Cabinet,9,75486.81,0.1,14208.12,Credit Card
+ORD00148,23-05-2025,CUST0380,Customer 0380,South,Corporate,Furniture,Cabinet,8,46229.59,0.15,6216.86,Net Banking
+ORD00149,20-06-2025,CUST0157,Customer 0157,South,Consumer,Accessories,Webcam,3,8549.8,0,2060.18,Credit Card
+ORD00150,29-01-2025,CUST0392,Customer 0392,West,Consumer,Furniture,Office Sofa,8,105201.66,0.1,20916.98,UPI
+ORD00151,05-02-2025,CUST0067,Customer 0067,West,Small Business,Office Supplies,Office Chair,10,10601.93,0,2849.78,UPI
+ORD00152,13-01-2025,CUST0125,Customer 0125,South,Consumer,Technology,Keyboard,5,87285.25,0.1,18109.98,Credit Card
+ORD00153,09-06-2025,CUST0201,Customer 0201,Central,Small Business,Office Supplies,Pen Set,4,3137.06,0.25,964.19,Cash
+ORD00154,23-11-2025,CUST0162,Customer 0162,Central,Consumer,Office Supplies,Desk Organizer,7,11231.6,0.1,2874.54,UPI
+ORD00155,06-07-2025,CUST0021,Customer 0021,West,Small Business,Technology,Mouse,3,25534.14,0.15,6893.49,UPI
+ORD00156,31-08-2025,CUST0273,Customer 0273,South,Corporate,Accessories,Headset,8,19057.91,0.15,4691,Debit Card
+ORD00157,27-03-2025,CUST0145,Customer 0145,East,Corporate,Technology,Printer,5,72394.6,0.1,15626.13,UPI
+ORD00158,11-10-2025,CUST0005,Customer 0005,West,Corporate,Furniture,Cabinet,9,97613,0.2,14142.13,Credit Card
+ORD00159,07-03-2025,CUST0308,Customer 0308,South,Small Business,Accessories,Headset,4,10163.13,0.05,2806.85,Credit Card
+ORD00160,19-06-2025,CUST0242,Customer 0242,Central,Corporate,Office Supplies,Notebook,2,3039.97,0.15,878.98,Net Banking
+ORD00161,14-02-2025,CUST0328,Customer 0328,North,Small Business,Office Supplies,Notebook,1,2011.64,0.2,475.24,Net Banking
+ORD00162,03-03-2025,CUST0189,Customer 0189,South,Small Business,Office Supplies,Desk Organizer,6,11362.29,0.15,3400.2,UPI
+ORD00163,14-05-2025,CUST0194,Customer 0194,East,Consumer,Technology,Mouse,8,102680.64,0.15,27626.7,UPI
+ORD00164,11-10-2025,CUST0065,Customer 0065,Central,Consumer,Accessories,Webcam,1,1980.89,0,581.81,Net Banking
+ORD00165,28-01-2025,CUST0164,Customer 0164,North,Corporate,Accessories,Backpack,2,3615.26,0.1,870.23,UPI
+ORD00166,18-04-2025,CUST0398,Customer 0398,Central,Corporate,Office Supplies,Office Chair,2,2001.92,0,634.4,Debit Card
+ORD00167,13-02-2025,CUST0234,Customer 0234,West,Consumer,Technology,Monitor,2,15697.13,0.1,3132.03,UPI
+ORD00168,06-12-2025,CUST0118,Customer 0118,Central,Consumer,Technology,Keyboard,7,64643.22,0.15,17317.8,Debit Card
+ORD00169,13-10-2025,CUST0281,Customer 0281,North,Consumer,Office Supplies,Notebook,7,11941.97,0.1,3446.29,Debit Card
+ORD00170,27-11-2025,CUST0014,Customer 0014,West,Consumer,Technology,Monitor,5,80560.53,0.15,17885.81,UPI
+ORD00171,08-05-2025,CUST0012,Customer 0012,South,Consumer,Furniture,Bookshelf,2,22186.52,0.15,3486.72,Credit Card
+ORD00172,14-12-2025,CUST0349,Customer 0349,North,Consumer,Technology,Laptop,7,99954.11,0.1,20394.34,Cash
+ORD00173,19-08-2025,CUST0139,Customer 0139,East,Corporate,Technology,Mouse,3,37463.47,0.2,8510.99,Cash
+ORD00174,09-07-2025,CUST0177,Customer 0177,West,Consumer,Accessories,Webcam,3,5216.6,0.15,1300.92,Credit Card
+ORD00175,13-08-2025,CUST0175,Customer 0175,Central,Consumer,Furniture,Bookshelf,5,61210.42,0.15,13777.07,Debit Card
+ORD00176,10-10-2025,CUST0340,Customer 0340,West,Corporate,Technology,Printer,5,37685.72,0.1,10012.34,Credit Card
+ORD00177,01-05-2025,CUST0256,Customer 0256,West,Consumer,Office Supplies,Pen Set,9,8294.43,0.15,2253.19,Net Banking
+ORD00178,26-04-2025,CUST0329,Customer 0329,North,Small Business,Accessories,Backpack,4,13358.61,0.15,3066.2,UPI
+ORD00179,21-08-2025,CUST0003,Customer 0003,West,Consumer,Furniture,Bookshelf,5,52676.29,0.1,9898.8,UPI
+ORD00180,16-09-2025,CUST0313,Customer 0313,South,Corporate,Technology,Printer,5,45785.19,0.2,7850.76,Credit Card
+ORD00181,25-12-2025,CUST0356,Customer 0356,East,Small Business,Office Supplies,Notebook,9,18752.8,0.1,6012.27,UPI
+ORD00182,17-07-2025,CUST0228,Customer 0228,South,Consumer,Furniture,Desk,6,67321.45,0.1,10550.97,UPI
+ORD00183,17-05-2025,CUST0283,Customer 0283,South,Corporate,Technology,Mouse,9,80223.81,0.05,13778.86,UPI
+ORD00184,14-11-2025,CUST0007,Customer 0007,West,Consumer,Furniture,Bookshelf,5,42623.84,0.25,9151.6,UPI
+ORD00185,14-06-2025,CUST0217,Customer 0217,Central,Consumer,Accessories,Backpack,6,10787.75,0.2,2923.63,Cash
+ORD00186,13-08-2025,CUST0079,Customer 0079,West,Consumer,Furniture,Office Sofa,10,80669.87,0.25,12416.37,Credit Card
+ORD00187,03-11-2025,CUST0143,Customer 0143,North,Corporate,Furniture,Conference Table,1,6997.82,0.05,1008.25,Debit Card
+ORD00188,22-08-2025,CUST0339,Customer 0339,Central,Consumer,Furniture,Office Sofa,8,81119.3,0.1,16014.01,UPI
+ORD00189,21-06-2025,CUST0102,Customer 0102,West,Consumer,Office Supplies,File Folder,9,19830.74,0.15,4684.42,UPI
+ORD00190,01-06-2025,CUST0361,Customer 0361,North,Consumer,Technology,Mouse,2,20275.62,0.15,4165.15,Cash
+ORD00191,11-11-2025,CUST0078,Customer 0078,Central,Consumer,Accessories,USB Hub,3,6184.08,0.1,1366.18,UPI
+ORD00192,09-06-2025,CUST0333,Customer 0333,West,Consumer,Accessories,Webcam,6,10753.14,0.15,2686.39,Credit Card
+ORD00193,06-04-2025,CUST0332,Customer 0332,North,Consumer,Accessories,Backpack,2,7318.79,0,1919.24,Cash
+ORD00194,21-08-2025,CUST0285,Customer 0285,South,Small Business,Technology,Keyboard,1,19027.71,0.1,5094.3,Net Banking
+ORD00195,29-06-2025,CUST0094,Customer 0094,North,Corporate,Technology,Mouse,4,53078.06,0.15,11671.31,UPI
+ORD00196,23-04-2025,CUST0156,Customer 0156,East,Consumer,Technology,Printer,5,48640.78,0.1,12393.88,Debit Card
+ORD00197,14-11-2025,CUST0155,Customer 0155,East,Consumer,Technology,Printer,10,193033.95,0.05,51927.8,Cash
+ORD00198,21-02-2025,CUST0093,Customer 0093,East,Consumer,Office Supplies,Notebook,4,4613.2,0,1087.65,Credit Card
+ORD00199,25-09-2025,CUST0274,Customer 0274,Central,Small Business,Technology,Laptop,4,56641.6,0.1,14428.15,Cash
+ORD00200,22-10-2025,CUST0116,Customer 0116,East,Consumer,Accessories,Headset,9,16961.18,0,3689.43,Net Banking
+ORD00201,23-04-2025,CUST0068,Customer 0068,East,Corporate,Technology,Printer,8,113912.95,0.1,28008.65,UPI
+ORD00202,11-04-2025,CUST0040,Customer 0040,West,Consumer,Office Supplies,Pen Set,7,11638.65,0.1,2915.11,Debit Card
+ORD00203,23-04-2025,CUST0112,Customer 0112,West,Small Business,Technology,Keyboard,9,109448.2,0.05,28232.13,Credit Card
+ORD00204,22-03-2025,CUST0040,Customer 0040,West,Consumer,Technology,Keyboard,2,33362.44,0.1,8423.31,Credit Card
+ORD00205,06-07-2025,CUST0248,Customer 0248,Central,Consumer,Office Supplies,Desk Organizer,5,7628.77,0.1,2160.49,Debit Card
+ORD00206,23-04-2025,CUST0313,Customer 0313,Central,Small Business,Technology,Printer,4,43703.33,0,10617.05,Cash
+ORD00207,02-01-2025,CUST0239,Customer 0239,Central,Consumer,Technology,Mouse,7,90915.07,0.2,22892.66,UPI
+ORD00208,10-05-2025,CUST0382,Customer 0382,West,Consumer,Technology,Laptop,7,64181.69,0.15,14392.56,UPI
+ORD00209,08-08-2025,CUST0202,Customer 0202,South,Consumer,Office Supplies,Pen Set,9,11275.52,0.15,3136.7,Credit Card
+ORD00210,23-02-2025,CUST0123,Customer 0123,North,Corporate,Accessories,Backpack,1,3825.81,0.05,1137.19,Credit Card
+ORD00211,09-12-2025,CUST0198,Customer 0198,South,Small Business,Technology,Keyboard,7,123521.6,0.1,21379.83,UPI
+ORD00212,12-08-2025,CUST0308,Customer 0308,North,Consumer,Technology,Mouse,1,15196.98,0.15,4022.78,Credit Card
+ORD00213,13-08-2025,CUST0032,Customer 0032,West,Consumer,Office Supplies,File Folder,2,1732.15,0.15,419.94,Net Banking
+ORD00214,06-05-2025,CUST0189,Customer 0189,East,Consumer,Furniture,Bookshelf,3,32221.36,0.1,5931.1,Credit Card
+ORD00215,10-05-2025,CUST0240,Customer 0240,East,Corporate,Office Supplies,Desk Organizer,3,4855.82,0.05,1537.01,UPI
+ORD00216,22-02-2025,CUST0376,Customer 0376,North,Corporate,Office Supplies,Pen Set,5,5029.22,0.1,1627.1,Net Banking
+ORD00217,21-06-2025,CUST0210,Customer 0210,West,Consumer,Accessories,Webcam,1,3340.53,0.05,770.59,Credit Card
+ORD00218,06-08-2025,CUST0005,Customer 0005,Central,Corporate,Furniture,Desk,6,40892.85,0.1,5659.24,Credit Card
+ORD00219,09-06-2025,CUST0047,Customer 0047,North,Consumer,Furniture,Conference Table,4,39453.78,0.15,5914.09,Credit Card
+ORD00220,17-07-2025,CUST0029,Customer 0029,South,Consumer,Furniture,Cabinet,9,130846.53,0,23797.07,UPI
+ORD00221,04-09-2025,CUST0318,Customer 0318,South,Corporate,Accessories,Power Bank,10,34418.37,0.05,8672.41,UPI
+ORD00222,20-11-2025,CUST0345,Customer 0345,South,Corporate,Furniture,Bookshelf,8,68785.1,0.25,13094.19,UPI
+ORD00223,22-07-2025,CUST0041,Customer 0041,West,Consumer,Technology,Mouse,3,41899.26,0.15,8243.27,UPI
+ORD00224,03-07-2025,CUST0266,Customer 0266,North,Consumer,Accessories,Webcam,4,10233.91,0,2224.94,UPI
+ORD00225,03-05-2025,CUST0079,Customer 0079,East,Consumer,Office Supplies,Desk Organizer,5,5757.64,0.15,1727.95,Debit Card
+ORD00226,12-09-2025,CUST0301,Customer 0301,North,Corporate,Office Supplies,Notebook,9,12153.09,0.25,3280.16,Net Banking
+ORD00227,21-10-2025,CUST0330,Customer 0330,South,Consumer,Technology,Laptop,3,60482.4,0,15164.08,Net Banking
+ORD00228,07-10-2025,CUST0073,Customer 0073,East,Consumer,Accessories,Webcam,8,17952.12,0.1,4794.43,Debit Card
+ORD00229,21-11-2025,CUST0245,Customer 0245,West,Small Business,Technology,Laptop,1,10166.61,0.05,1980.01,UPI
+ORD00230,08-04-2025,CUST0318,Customer 0318,East,Corporate,Office Supplies,Office Chair,2,2987.93,0.1,951.64,Credit Card
+ORD00231,17-07-2025,CUST0174,Customer 0174,North,Consumer,Office Supplies,Desk Organizer,7,14604.98,0.1,3459.13,Credit Card
+ORD00232,28-08-2025,CUST0345,Customer 0345,West,Consumer,Accessories,Webcam,1,3931.34,0.15,1095.82,Credit Card
+ORD00233,24-05-2025,CUST0123,Customer 0123,South,Corporate,Furniture,Conference Table,8,64118.44,0.15,14338.68,UPI
+ORD00234,07-04-2025,CUST0186,Customer 0186,West,Consumer,Accessories,Webcam,6,20210.52,0,5034.63,Cash
+ORD00235,20-07-2025,CUST0242,Customer 0242,Central,Consumer,Technology,Keyboard,5,74845.25,0.2,18312.96,Debit Card
+ORD00236,04-05-2025,CUST0291,Customer 0291,North,Corporate,Accessories,Webcam,4,16986.94,0.1,4337.41,UPI
+ORD00237,06-07-2025,CUST0052,Customer 0052,Central,Small Business,Furniture,Bookshelf,7,40754.4,0.2,8502.83,Debit Card
+ORD00238,22-11-2025,CUST0295,Customer 0295,North,Consumer,Office Supplies,Pen Set,5,13082.03,0,4093.2,Credit Card
+ORD00239,15-12-2025,CUST0087,Customer 0087,East,Corporate,Office Supplies,Desk Organizer,9,8668.43,0.05,2391.78,Credit Card
+ORD00240,16-09-2025,CUST0112,Customer 0112,North,Consumer,Furniture,Cabinet,7,31201.36,0.15,6341.37,Credit Card
+ORD00241,28-05-2025,CUST0209,Customer 0209,South,Consumer,Technology,Laptop,3,29920.09,0.1,5401.61,UPI
+ORD00242,09-09-2025,CUST0011,Customer 0011,East,Consumer,Office Supplies,File Folder,6,6233.39,0.25,1817.84,Debit Card
+ORD00243,12-12-2025,CUST0019,Customer 0019,South,Corporate,Office Supplies,Notebook,1,1220.94,0.1,347.56,Debit Card
+ORD00244,27-05-2025,CUST0048,Customer 0048,Central,Corporate,Technology,Printer,7,57713.74,0.15,11001.69,Credit Card
+ORD00245,28-05-2025,CUST0305,Customer 0305,North,Small Business,Accessories,USB Hub,1,2973.02,0.2,794.76,Credit Card
+ORD00246,18-12-2025,CUST0282,Customer 0282,North,Consumer,Accessories,Webcam,6,22005.11,0.1,6240.91,Net Banking
+ORD00247,18-07-2025,CUST0364,Customer 0364,North,Consumer,Accessories,Webcam,7,21307.54,0.05,6083.25,Net Banking
+ORD00248,04-11-2025,CUST0030,Customer 0030,South,Corporate,Office Supplies,Desk Organizer,3,4262.42,0.05,998.25,Credit Card
+ORD00249,08-05-2025,CUST0335,Customer 0335,North,Consumer,Technology,Mouse,1,7863.73,0.1,1968.93,Credit Card
+ORD00250,08-02-2025,CUST0234,Customer 0234,East,Consumer,Accessories,Webcam,3,7780.5,0.1,1609.56,Credit Card
+ORD00251,04-12-2025,CUST0331,Customer 0331,East,Corporate,Office Supplies,File Folder,2,3925.86,0.1,905.03,Net Banking
+ORD00252,26-12-2025,CUST0136,Customer 0136,South,Consumer,Furniture,Desk,5,45788.38,0.1,9054.53,Net Banking
+ORD00253,09-05-2025,CUST0192,Customer 0192,East,Corporate,Technology,Keyboard,7,106941.08,0.1,22358.76,UPI
+ORD00254,24-09-2025,CUST0277,Customer 0277,West,Corporate,Technology,Keyboard,10,134328,0.15,24937.68,Credit Card
+ORD00255,31-05-2025,CUST0313,Customer 0313,East,Consumer,Furniture,Conference Table,2,14817.73,0.2,2677.65,UPI
+ORD00256,25-10-2025,CUST0178,Customer 0178,South,Consumer,Technology,Monitor,7,100752.25,0.15,19867.8,Debit Card
+ORD00257,09-04-2025,CUST0222,Customer 0222,Central,Consumer,Technology,Keyboard,5,82768.62,0.05,18997.91,UPI
+ORD00258,20-09-2025,CUST0279,Customer 0279,West,Small Business,Furniture,Cabinet,10,106785.12,0.1,18498.88,UPI
+ORD00259,09-09-2025,CUST0096,Customer 0096,Central,Consumer,Technology,Printer,8,134053.06,0.15,28539.69,UPI
+ORD00260,24-05-2025,CUST0104,Customer 0104,South,Corporate,Office Supplies,Desk Organizer,2,3738.25,0.2,1124.03,Cash
+ORD00261,12-12-2025,CUST0299,Customer 0299,East,Small Business,Accessories,Headset,10,16004.7,0.1,4115.07,Credit Card
+ORD00262,22-04-2025,CUST0187,Customer 0187,East,Corporate,Office Supplies,Office Chair,5,7038.16,0,2156.74,Debit Card
+ORD00263,01-03-2025,CUST0355,Customer 0355,Central,Small Business,Furniture,Conference Table,5,40712.32,0.1,5574.85,Debit Card
+ORD00264,02-01-2025,CUST0074,Customer 0074,North,Consumer,Furniture,Bookshelf,4,34032.33,0.2,5714.46,Credit Card
+ORD00265,31-10-2025,CUST0389,Customer 0389,West,Small Business,Furniture,Conference Table,2,18232.54,0.2,3674.04,Debit Card
+ORD00266,11-09-2025,CUST0189,Customer 0189,South,Corporate,Technology,Keyboard,8,158716.03,0.05,34923.23,Debit Card
+ORD00267,20-05-2025,CUST0182,Customer 0182,East,Consumer,Furniture,Desk,1,9576.47,0.15,1416.7,Debit Card
+ORD00268,06-02-2025,CUST0093,Customer 0093,South,Small Business,Office Supplies,Notebook,4,8894.85,0,2198.3,Credit Card
+ORD00269,09-06-2025,CUST0222,Customer 0222,West,Small Business,Office Supplies,File Folder,8,17320.72,0.2,4996.16,Net Banking
+ORD00270,09-01-2025,CUST0075,Customer 0075,East,Corporate,Furniture,Bookshelf,6,71400.49,0,10929.95,Cash
+ORD00271,21-08-2025,CUST0007,Customer 0007,East,Consumer,Furniture,Conference Table,8,48233.82,0.15,7652.39,Net Banking
+ORD00272,09-04-2025,CUST0293,Customer 0293,North,Small Business,Accessories,Headset,8,32439.23,0.15,6902.86,Credit Card
+ORD00273,27-05-2025,CUST0273,Customer 0273,Central,Small Business,Office Supplies,File Folder,3,5057.62,0.15,1373.76,UPI
+ORD00274,31-10-2025,CUST0358,Customer 0358,West,Small Business,Office Supplies,Pen Set,5,7289.2,0.25,1797.53,UPI
+ORD00275,27-07-2025,CUST0110,Customer 0110,Central,Corporate,Technology,Keyboard,8,72317.84,0.05,14863.63,Debit Card
+ORD00276,11-05-2025,CUST0282,Customer 0282,South,Corporate,Technology,Printer,6,112889.78,0.05,20125.28,Credit Card
+ORD00277,01-06-2025,CUST0302,Customer 0302,Central,Corporate,Office Supplies,File Folder,6,12933,0.1,3377.7,UPI
+ORD00278,23-02-2025,CUST0065,Customer 0065,South,Consumer,Technology,Laptop,9,151442.82,0.05,31254.91,UPI
+ORD00279,30-04-2025,CUST0371,Customer 0371,North,Small Business,Office Supplies,Pen Set,10,13994.78,0.1,4394.51,Cash
+ORD00280,10-06-2025,CUST0218,Customer 0218,South,Consumer,Accessories,Headset,9,27023.39,0.1,7669.86,Credit Card
+ORD00281,26-04-2025,CUST0400,Customer 0400,West,Consumer,Accessories,USB Hub,9,24511.12,0.2,7083.43,Net Banking
+ORD00282,16-03-2025,CUST0188,Customer 0188,West,Consumer,Office Supplies,Desk Organizer,7,15875.68,0.15,4095,UPI
+ORD00283,23-04-2025,CUST0222,Customer 0222,East,Small Business,Accessories,Power Bank,6,25092.97,0.05,7345.02,Cash
+ORD00284,14-04-2025,CUST0006,Customer 0006,East,Consumer,Office Supplies,Notebook,10,16513.03,0,4717.42,Net Banking
+ORD00285,06-12-2025,CUST0345,Customer 0345,Central,Consumer,Furniture,Cabinet,10,86560.21,0.15,17759.35,Debit Card
+ORD00286,11-09-2025,CUST0276,Customer 0276,North,Consumer,Furniture,Desk,6,39504.68,0.15,5923.75,UPI
+ORD00287,15-08-2025,CUST0109,Customer 0109,East,Small Business,Technology,Keyboard,10,158961.7,0.15,27125.79,Net Banking
+ORD00288,22-04-2025,CUST0246,Customer 0246,North,Consumer,Furniture,Bookshelf,7,88887.55,0.1,17849.7,Credit Card
+ORD00289,09-04-2025,CUST0112,Customer 0112,East,Consumer,Furniture,Office Sofa,4,41725.11,0.1,8651.92,UPI
+ORD00290,02-06-2025,CUST0313,Customer 0313,North,Consumer,Furniture,Desk,3,35298.6,0.05,5774.88,Credit Card
+ORD00291,15-12-2025,CUST0392,Customer 0392,West,Consumer,Furniture,Desk,1,10475.96,0.05,1420.04,Debit Card
+ORD00292,04-12-2025,CUST0221,Customer 0221,South,Small Business,Furniture,Desk,6,25953.49,0.2,4735.83,Net Banking
+ORD00293,13-07-2025,CUST0344,Customer 0344,East,Consumer,Technology,Keyboard,2,27280.24,0.2,5361.92,Debit Card
+ORD00294,06-11-2025,CUST0038,Customer 0038,East,Small Business,Furniture,Cabinet,4,46535.32,0.05,7360.1,Cash
+ORD00295,12-06-2025,CUST0105,Customer 0105,West,Consumer,Technology,Laptop,3,32579.04,0.1,5795.61,Credit Card
+ORD00296,27-07-2025,CUST0304,Customer 0304,West,Corporate,Technology,Monitor,8,150090.84,0.1,28494.61,UPI
+ORD00297,18-06-2025,CUST0287,Customer 0287,Central,Consumer,Technology,Mouse,9,175148.95,0.05,29863.36,UPI
+ORD00298,10-06-2025,CUST0360,Customer 0360,East,Corporate,Accessories,Headset,8,29754.79,0.15,6116.41,UPI
+ORD00299,09-03-2025,CUST0044,Customer 0044,South,Consumer,Technology,Printer,7,112471.61,0.2,29345.81,Credit Card
+ORD00300,16-10-2025,CUST0246,Customer 0246,East,Consumer,Furniture,Desk,10,87688.57,0.2,18611.85,UPI
+ORD00301,04-10-2025,CUST0294,Customer 0294,South,Corporate,Office Supplies,File Folder,10,10512.47,0.15,3082.51,Debit Card
+ORD00302,31-10-2025,CUST0363,Customer 0363,West,Consumer,Office Supplies,Notebook,2,1888.86,0.2,533.25,Debit Card
+ORD00303,15-05-2025,CUST0345,Customer 0345,East,Small Business,Office Supplies,Pen Set,5,5838.63,0,1553.98,UPI
+ORD00304,14-07-2025,CUST0073,Customer 0073,South,Small Business,Furniture,Office Sofa,1,10091.37,0.15,2183.23,UPI
+ORD00305,08-05-2025,CUST0379,Customer 0379,Central,Corporate,Accessories,Power Bank,6,15888.3,0.15,3228.15,Net Banking
+ORD00306,02-02-2025,CUST0247,Customer 0247,North,Consumer,Technology,Monitor,1,13405.46,0.05,3101.98,UPI
+ORD00307,25-06-2025,CUST0335,Customer 0335,East,Corporate,Office Supplies,Pen Set,8,10199.58,0,2914.34,UPI
+ORD00308,22-01-2025,CUST0262,Customer 0262,Central,Corporate,Accessories,Power Bank,6,21409.94,0.15,4872.38,UPI
+ORD00309,26-08-2025,CUST0058,Customer 0058,North,Corporate,Technology,Printer,2,14683.01,0.1,3094.81,UPI
+ORD00310,07-06-2025,CUST0388,Customer 0388,Central,Corporate,Furniture,Bookshelf,7,64349.86,0,12308.81,Cash
+ORD00311,07-02-2025,CUST0100,Customer 0100,South,Corporate,Furniture,Desk,8,59484.2,0.1,13082.12,Cash
+ORD00312,18-08-2025,CUST0141,Customer 0141,Central,Consumer,Office Supplies,File Folder,4,7965.56,0,2554.75,UPI
+ORD00313,31-12-2025,CUST0194,Customer 0194,East,Corporate,Technology,Printer,9,86995.45,0.2,15226.07,Credit Card
+ORD00314,20-02-2025,CUST0313,Customer 0313,South,Consumer,Office Supplies,Desk Organizer,6,9926.28,0.15,2708.34,Debit Card
+ORD00315,21-09-2025,CUST0151,Customer 0151,South,Corporate,Accessories,Power Bank,4,15184.84,0.1,3695.64,UPI
+ORD00316,10-10-2025,CUST0229,Customer 0229,East,Small Business,Office Supplies,Notebook,3,6327.26,0.15,1896.09,Credit Card
+ORD00317,27-01-2025,CUST0389,Customer 0389,East,Small Business,Technology,Keyboard,6,51589.79,0.1,11965.44,Credit Card
+ORD00318,14-08-2025,CUST0316,Customer 0316,North,Consumer,Furniture,Desk,2,10189.89,0.2,1509.31,Debit Card
+ORD00319,04-10-2025,CUST0256,Customer 0256,North,Small Business,Technology,Mouse,2,18167.6,0.1,4464.29,Net Banking
+ORD00320,13-10-2025,CUST0094,Customer 0094,North,Consumer,Technology,Monitor,9,129775.07,0.15,24177.34,UPI
+ORD00321,07-04-2025,CUST0214,Customer 0214,North,Small Business,Technology,Printer,2,37206.89,0.1,6513.52,UPI
+ORD00322,11-10-2025,CUST0187,Customer 0187,North,Corporate,Office Supplies,Pen Set,10,18441.31,0.1,6037.32,Credit Card
+ORD00323,13-11-2025,CUST0079,Customer 0079,West,Consumer,Technology,Keyboard,1,9724.45,0.1,1905.4,UPI
+ORD00324,31-10-2025,CUST0284,Customer 0284,West,Consumer,Technology,Mouse,5,42129.41,0.05,10332.1,UPI
+ORD00325,27-05-2025,CUST0285,Customer 0285,West,Consumer,Office Supplies,Desk Organizer,4,4353.57,0.15,1351.97,Net Banking
+ORD00326,04-01-2025,CUST0281,Customer 0281,West,Consumer,Technology,Mouse,2,22811.24,0.15,4007.21,UPI
+ORD00327,04-02-2025,CUST0141,Customer 0141,Central,Consumer,Office Supplies,Pen Set,4,8271.86,0.2,2148.44,UPI
+ORD00328,11-07-2025,CUST0239,Customer 0239,West,Corporate,Office Supplies,File Folder,9,17748.43,0,4162.53,Debit Card
+ORD00329,18-02-2025,CUST0324,Customer 0324,South,Consumer,Office Supplies,Pen Set,10,16111.36,0.1,3894.57,UPI
+ORD00330,17-01-2025,CUST0341,Customer 0341,East,Small Business,Office Supplies,Office Chair,5,10675.84,0.1,2932.06,Debit Card
+ORD00331,21-06-2025,CUST0107,Customer 0107,East,Consumer,Furniture,Office Sofa,7,36715.62,0.15,6695.46,UPI
+ORD00332,08-08-2025,CUST0348,Customer 0348,West,Consumer,Office Supplies,Office Chair,5,11246.36,0.05,3560.1,UPI
+ORD00333,07-06-2025,CUST0171,Customer 0171,East,Small Business,Technology,Monitor,3,43785.47,0.15,10084.45,Debit Card
+ORD00334,15-02-2025,CUST0166,Customer 0166,Central,Consumer,Office Supplies,File Folder,10,21244.26,0.05,6214.65,Debit Card
+ORD00335,06-01-2025,CUST0246,Customer 0246,North,Consumer,Technology,Printer,4,70077.46,0,18899.26,UPI
+ORD00336,09-04-2025,CUST0073,Customer 0073,North,Consumer,Furniture,Cabinet,10,57001.78,0.05,7568.99,Debit Card
+ORD00337,21-08-2025,CUST0164,Customer 0164,East,Consumer,Office Supplies,File Folder,2,3277.33,0.25,770.31,Net Banking
+ORD00338,06-02-2025,CUST0359,Customer 0359,South,Consumer,Office Supplies,Desk Organizer,5,9322.39,0.1,2999.26,Credit Card
+ORD00339,07-10-2025,CUST0173,Customer 0173,Central,Consumer,Technology,Mouse,4,58236.26,0.1,14777.63,Debit Card
+ORD00340,15-12-2025,CUST0123,Customer 0123,Central,Consumer,Furniture,Office Sofa,4,31617.23,0.05,5508.88,UPI
+ORD00341,29-10-2025,CUST0087,Customer 0087,West,Corporate,Furniture,Desk,1,10499.54,0.2,2047.19,UPI
+ORD00342,30-06-2025,CUST0206,Customer 0206,North,Consumer,Office Supplies,Office Chair,5,10223.31,0.1,2611.53,UPI
+ORD00343,05-04-2025,CUST0251,Customer 0251,Central,Corporate,Office Supplies,Desk Organizer,9,14296.33,0.2,3837.2,Debit Card
+ORD00344,09-04-2025,CUST0089,Customer 0089,North,Consumer,Accessories,Webcam,4,8806.6,0,2492.02,Cash
+ORD00345,07-07-2025,CUST0016,Customer 0016,East,Small Business,Office Supplies,Pen Set,1,1409.44,0.1,369.04,Credit Card
+ORD00346,26-04-2025,CUST0112,Customer 0112,East,Consumer,Accessories,Power Bank,3,11679.52,0,3004.72,UPI
+ORD00347,10-07-2025,CUST0275,Customer 0275,Central,Corporate,Accessories,Webcam,9,21631.31,0.1,5661.14,Net Banking
+ORD00348,10-09-2025,CUST0200,Customer 0200,East,Small Business,Technology,Mouse,10,112794.06,0.05,27877.19,Debit Card
+ORD00349,10-06-2025,CUST0268,Customer 0268,East,Consumer,Accessories,Webcam,10,21649.03,0.2,5462.51,UPI
+ORD00350,13-09-2025,CUST0230,Customer 0230,West,Corporate,Office Supplies,File Folder,1,2473.79,0.1,602.54,Net Banking
+ORD00351,19-11-2025,CUST0324,Customer 0324,South,Consumer,Technology,Printer,6,83648.73,0.1,21843.52,UPI
+ORD00352,08-05-2025,CUST0269,Customer 0269,North,Corporate,Office Supplies,Notebook,4,7942.3,0.1,2427.37,Credit Card
+ORD00353,18-01-2025,CUST0215,Customer 0215,South,Corporate,Office Supplies,Notebook,9,15031,0,3967.14,Credit Card
+ORD00354,08-10-2025,CUST0273,Customer 0273,West,Consumer,Technology,Mouse,8,172010.2,0,39802.81,Debit Card
+ORD00355,11-08-2025,CUST0320,Customer 0320,South,Corporate,Office Supplies,Pen Set,7,11328.33,0.25,2777.06,Credit Card
+ORD00356,23-02-2025,CUST0306,Customer 0306,West,Consumer,Furniture,Office Sofa,1,5786.85,0.1,846.42,Debit Card
+ORD00357,27-02-2025,CUST0260,Customer 0260,South,Corporate,Technology,Monitor,9,81722.87,0,15970.78,UPI
+ORD00358,19-11-2025,CUST0283,Customer 0283,North,Corporate,Office Supplies,Office Chair,2,2079.61,0.2,594.43,Net Banking
+ORD00359,26-12-2025,CUST0017,Customer 0017,South,Consumer,Office Supplies,Desk Organizer,7,12598.32,0.05,3294.47,Net Banking
+ORD00360,23-06-2025,CUST0018,Customer 0018,Central,Consumer,Accessories,Headset,1,2095.44,0.25,487.33,Credit Card
+ORD00361,07-10-2025,CUST0101,Customer 0101,Central,Consumer,Furniture,Conference Table,9,117375.43,0.05,24483.64,Debit Card
+ORD00362,24-04-2025,CUST0332,Customer 0332,North,Corporate,Office Supplies,Desk Organizer,5,7572.4,0.15,2030.12,UPI
+ORD00363,15-10-2025,CUST0210,Customer 0210,Central,Consumer,Furniture,Conference Table,10,94294.85,0,19995.11,Net Banking
+ORD00364,08-12-2025,CUST0098,Customer 0098,South,Corporate,Furniture,Desk,6,52126.77,0.1,6852.41,UPI
+ORD00365,31-05-2025,CUST0224,Customer 0224,North,Consumer,Accessories,Headset,9,13156.33,0.2,3716.47,Net Banking
+ORD00366,07-05-2025,CUST0330,Customer 0330,South,Consumer,Technology,Keyboard,7,92339.72,0.05,17401.04,UPI
+ORD00367,04-06-2025,CUST0111,Customer 0111,Central,Small Business,Office Supplies,File Folder,3,7354.19,0.05,1834.25,Credit Card
+ORD00368,30-09-2025,CUST0045,Customer 0045,Central,Corporate,Technology,Keyboard,3,50980.8,0.15,13559.83,UPI
+ORD00369,14-04-2025,CUST0278,Customer 0278,Central,Consumer,Technology,Monitor,1,10476.66,0.15,2256.96,Credit Card
+ORD00370,26-10-2025,CUST0188,Customer 0188,North,Consumer,Accessories,Backpack,4,8718.14,0.25,2340.22,Cash
+ORD00371,03-09-2025,CUST0043,Customer 0043,South,Corporate,Technology,Printer,9,68654.16,0.1,16929.92,Credit Card
+ORD00372,25-06-2025,CUST0068,Customer 0068,South,Consumer,Furniture,Cabinet,3,38931.64,0.1,8810.85,UPI
+ORD00373,08-02-2025,CUST0025,Customer 0025,South,Consumer,Office Supplies,Desk Organizer,2,3977.25,0.1,1103.72,Cash
+ORD00374,19-06-2025,CUST0111,Customer 0111,East,Consumer,Technology,Monitor,3,61546.33,0.05,15843.92,Net Banking
+ORD00375,04-09-2025,CUST0193,Customer 0193,East,Consumer,Technology,Laptop,2,36188.45,0.05,8799.45,Credit Card
+ORD00376,26-01-2025,CUST0253,Customer 0253,Central,Consumer,Office Supplies,File Folder,10,22034.11,0.15,6080.63,Debit Card
+ORD00377,21-12-2025,CUST0310,Customer 0310,West,Consumer,Furniture,Cabinet,3,25612.98,0.05,3736.26,Cash
+ORD00378,02-11-2025,CUST0065,Customer 0065,East,Consumer,Accessories,Power Bank,7,20841.46,0.1,4914.02,Debit Card
+ORD00379,13-01-2025,CUST0313,Customer 0313,East,Consumer,Office Supplies,Notebook,2,1783.16,0.2,455.52,Credit Card
+ORD00380,12-11-2025,CUST0134,Customer 0134,Central,Consumer,Technology,Keyboard,9,144182.69,0.15,33307.76,Credit Card
+ORD00381,09-11-2025,CUST0246,Customer 0246,North,Consumer,Technology,Printer,9,83093.98,0.1,17578.65,Cash
+ORD00382,05-02-2025,CUST0075,Customer 0075,East,Corporate,Technology,Printer,7,110137.36,0,19064.02,Debit Card
+ORD00383,22-06-2025,CUST0035,Customer 0035,West,Small Business,Office Supplies,Desk Organizer,9,7420.44,0.2,2134.95,Net Banking
+ORD00384,20-01-2025,CUST0211,Customer 0211,East,Corporate,Furniture,Conference Table,9,91144.44,0.05,14298.72,UPI
+ORD00385,17-11-2025,CUST0345,Customer 0345,Central,Corporate,Technology,Monitor,10,69146.21,0.2,12981,Debit Card
+ORD00386,21-09-2025,CUST0244,Customer 0244,West,Corporate,Furniture,Desk,9,88864.89,0.1,19225.74,Credit Card
+ORD00387,22-05-2025,CUST0272,Customer 0272,North,Consumer,Technology,Laptop,4,59833.93,0.15,15004.66,Net Banking
+ORD00388,23-05-2025,CUST0109,Customer 0109,North,Corporate,Accessories,Headset,8,27382.78,0.1,5632.96,UPI
+ORD00389,02-04-2025,CUST0298,Customer 0298,Central,Small Business,Technology,Printer,5,46949.45,0.15,11549.59,Credit Card
+ORD00390,20-12-2025,CUST0151,Customer 0151,South,Consumer,Office Supplies,Desk Organizer,3,7368.16,0.05,1806.59,Credit Card
+ORD00391,18-11-2025,CUST0130,Customer 0130,South,Small Business,Technology,Printer,7,98462.2,0.15,20351.76,UPI
+ORD00392,15-10-2025,CUST0192,Customer 0192,East,Corporate,Technology,Mouse,3,36066.48,0.2,9060.18,Net Banking
+ORD00393,03-08-2025,CUST0035,Customer 0035,North,Corporate,Furniture,Cabinet,3,38636.39,0.1,6333.43,UPI
+ORD00394,08-12-2025,CUST0072,Customer 0072,West,Consumer,Office Supplies,Office Chair,3,6927.87,0.1,2188.31,Net Banking
+ORD00395,20-02-2025,CUST0006,Customer 0006,Central,Corporate,Furniture,Desk,9,43879.15,0.15,6719.13,UPI
+ORD00396,02-06-2025,CUST0387,Customer 0387,Central,Consumer,Office Supplies,File Folder,3,7301.6,0.1,2162.96,Net Banking
+ORD00397,05-07-2025,CUST0112,Customer 0112,East,Consumer,Accessories,Headset,7,12979.32,0.15,3558.9,Debit Card
+ORD00398,04-03-2025,CUST0387,Customer 0387,East,Consumer,Technology,Keyboard,1,11485.33,0.2,2392.85,UPI
+ORD00399,09-07-2025,CUST0178,Customer 0178,Central,Consumer,Accessories,Power Bank,9,22236.1,0.1,6210.68,Cash
+ORD00400,05-05-2025,CUST0116,Customer 0116,Central,Consumer,Accessories,Webcam,1,2596.9,0.05,678.31,Credit Card
+ORD00401,30-05-2025,CUST0271,Customer 0271,East,Small Business,Office Supplies,Office Chair,9,8289.8,0.25,2389.64,Cash
+ORD00402,10-11-2025,CUST0001,Customer 0001,West,Consumer,Accessories,Power Bank,9,19742.88,0.05,4861.87,UPI
+ORD00403,27-02-2025,CUST0038,Customer 0038,East,Consumer,Technology,Laptop,6,77414.87,0.1,19889.23,Credit Card
+ORD00404,08-12-2025,CUST0245,Customer 0245,Central,Corporate,Office Supplies,Desk Organizer,2,3883.94,0.1,1071.2,UPI
+ORD00405,01-11-2025,CUST0350,Customer 0350,North,Corporate,Furniture,Office Sofa,5,38456.16,0,6446.85,Debit Card
+ORD00406,29-06-2025,CUST0185,Customer 0185,East,Consumer,Office Supplies,Pen Set,4,7270.78,0.05,2270.1,Net Banking
+ORD00407,19-06-2025,CUST0018,Customer 0018,North,Corporate,Furniture,Desk,1,5721.15,0.1,943.32,Credit Card
+ORD00408,22-11-2025,CUST0106,Customer 0106,West,Consumer,Furniture,Cabinet,6,35632.27,0.05,7305.54,UPI
+ORD00409,28-09-2025,CUST0182,Customer 0182,Central,Consumer,Furniture,Bookshelf,7,72621.84,0.2,15055.84,Debit Card
+ORD00410,23-02-2025,CUST0314,Customer 0314,South,Consumer,Technology,Monitor,10,147953.11,0.05,36729.36,Net Banking
+ORD00411,11-04-2025,CUST0363,Customer 0363,South,Consumer,Office Supplies,Pen Set,9,8120.8,0.1,2058.42,Net Banking
+ORD00412,21-09-2025,CUST0328,Customer 0328,North,Consumer,Office Supplies,Office Chair,1,1410.42,0,350.79,Debit Card
+ORD00413,22-02-2025,CUST0062,Customer 0062,East,Consumer,Technology,Keyboard,4,64634.4,0.15,14458.98,Net Banking
+ORD00414,01-03-2025,CUST0247,Customer 0247,North,Small Business,Office Supplies,Pen Set,8,8231.37,0.15,1995.16,UPI
+ORD00415,18-04-2025,CUST0385,Customer 0385,Central,Corporate,Accessories,Power Bank,6,9041.13,0.25,2031.51,Net Banking
+ORD00416,05-01-2025,CUST0054,Customer 0054,West,Consumer,Technology,Printer,1,17468.9,0.1,2994.84,Net Banking
+ORD00417,13-04-2025,CUST0327,Customer 0327,South,Consumer,Accessories,Power Bank,4,15028.27,0.1,3895.66,Debit Card
+ORD00418,15-07-2025,CUST0140,Customer 0140,North,Corporate,Technology,Laptop,4,67948.3,0,14279.32,Net Banking
+ORD00419,19-09-2025,CUST0279,Customer 0279,Central,Small Business,Technology,Laptop,7,59602.52,0.25,14511.48,Debit Card
+ORD00420,31-12-2025,CUST0185,Customer 0185,South,Corporate,Accessories,Webcam,7,27803.68,0.1,7285.23,Credit Card
+ORD00421,16-12-2025,CUST0079,Customer 0079,Central,Corporate,Office Supplies,Office Chair,2,3240.92,0.1,987.09,Net Banking
+ORD00422,16-02-2025,CUST0391,Customer 0391,Central,Corporate,Furniture,Conference Table,4,40549.07,0.1,5873.56,Debit Card
+ORD00423,21-12-2025,CUST0209,Customer 0209,East,Consumer,Accessories,Headset,10,28528.52,0.2,7378.94,Credit Card
+ORD00424,07-11-2025,CUST0209,Customer 0209,East,Consumer,Furniture,Cabinet,2,17485.01,0.1,3177.54,Credit Card
+ORD00425,04-11-2025,CUST0278,Customer 0278,South,Consumer,Technology,Mouse,1,16703.49,0.15,3441.58,UPI
+ORD00426,24-05-2025,CUST0145,Customer 0145,North,Consumer,Technology,Laptop,2,25197.42,0.05,6330.41,Credit Card
+ORD00427,26-09-2025,CUST0368,Customer 0368,South,Corporate,Technology,Monitor,5,61413.93,0.2,13842.66,Credit Card
+ORD00428,04-05-2025,CUST0101,Customer 0101,North,Corporate,Technology,Mouse,9,181469.81,0,30919.5,Credit Card
+ORD00429,16-04-2025,CUST0108,Customer 0108,East,Consumer,Furniture,Conference Table,5,67574.73,0,12078.2,Debit Card
+ORD00430,07-06-2025,CUST0338,Customer 0338,East,Corporate,Technology,Laptop,2,34919.85,0.15,6981.29,Credit Card
+ORD00431,27-05-2025,CUST0363,Customer 0363,South,Corporate,Office Supplies,Office Chair,3,7049.18,0.15,2045.24,Credit Card
+ORD00432,25-05-2025,CUST0310,Customer 0310,North,Consumer,Office Supplies,Desk Organizer,9,13107.34,0.15,3604.98,Debit Card
+ORD00433,30-04-2025,CUST0336,Customer 0336,East,Corporate,Office Supplies,File Folder,10,12894.5,0.05,3931.03,Credit Card
+ORD00434,15-11-2025,CUST0068,Customer 0068,East,Corporate,Technology,Mouse,2,24623.05,0.1,6396.96,Credit Card
+ORD00435,02-10-2025,CUST0236,Customer 0236,West,Consumer,Furniture,Bookshelf,4,22943.71,0,3803.98,Credit Card
+ORD00436,02-04-2025,CUST0130,Customer 0130,East,Consumer,Office Supplies,File Folder,3,4784.44,0.15,1509.76,Credit Card
+ORD00437,27-02-2025,CUST0238,Customer 0238,West,Consumer,Office Supplies,File Folder,6,5686.46,0.2,1657.11,Credit Card
+ORD00438,12-12-2025,CUST0262,Customer 0262,Central,Consumer,Technology,Keyboard,5,74300.71,0.2,13982.04,Credit Card
+ORD00439,17-08-2025,CUST0293,Customer 0293,East,Consumer,Technology,Printer,6,63986.65,0,12938.53,Debit Card
+ORD00440,27-04-2025,CUST0035,Customer 0035,South,Consumer,Accessories,Power Bank,6,19655.2,0.05,4034.87,Debit Card
+ORD00441,14-11-2025,CUST0257,Customer 0257,West,Corporate,Technology,Keyboard,10,90248.17,0.1,20912.25,Cash
+ORD00442,06-10-2025,CUST0012,Customer 0012,South,Corporate,Furniture,Bookshelf,6,35951.03,0.15,6914.75,Debit Card
+ORD00443,07-05-2025,CUST0139,Customer 0139,West,Consumer,Office Supplies,Pen Set,10,23309.82,0.05,7166.42,Credit Card
+ORD00444,09-05-2025,CUST0342,Customer 0342,South,Corporate,Office Supplies,Pen Set,7,16368.21,0.1,4235.9,Debit Card
+ORD00445,27-02-2025,CUST0044,Customer 0044,South,Consumer,Accessories,Power Bank,7,13236.92,0,3472.73,UPI
+ORD00446,02-05-2025,CUST0248,Customer 0248,North,Consumer,Office Supplies,Desk Organizer,7,11719.87,0.1,2783.35,UPI
+ORD00447,01-01-2025,CUST0283,Customer 0283,North,Consumer,Accessories,USB Hub,4,8908.74,0.25,2197.12,Net Banking
+ORD00448,27-08-2025,CUST0287,Customer 0287,North,Consumer,Office Supplies,Desk Organizer,5,7208.01,0,1941.31,Debit Card
+ORD00449,17-10-2025,CUST0246,Customer 0246,Central,Corporate,Accessories,Power Bank,5,8833.13,0.15,2620.15,Cash
+ORD00450,06-04-2025,CUST0296,Customer 0296,South,Consumer,Accessories,Power Bank,3,11264.79,0.05,2479.9,UPI
+ORD00451,06-05-2025,CUST0280,Customer 0280,North,Consumer,Technology,Mouse,8,72768.79,0.1,13568.46,UPI
+ORD00452,28-04-2025,CUST0090,Customer 0090,South,Consumer,Office Supplies,Office Chair,10,18745.5,0.2,5705.07,Credit Card
+ORD00453,17-02-2025,CUST0258,Customer 0258,South,Consumer,Accessories,Headset,10,34220.22,0.05,8834.71,Net Banking
+ORD00454,30-03-2025,CUST0397,Customer 0397,South,Corporate,Office Supplies,Desk Organizer,4,8026.78,0.05,2094.74,UPI
+ORD00455,25-08-2025,CUST0355,Customer 0355,West,Consumer,Accessories,Headset,5,14029.6,0.05,3782.09,Cash
+ORD00456,29-09-2025,CUST0237,Customer 0237,East,Consumer,Accessories,Power Bank,7,16153.59,0.05,3559.5,Net Banking
+ORD00457,08-07-2025,CUST0362,Customer 0362,West,Consumer,Office Supplies,Desk Organizer,10,19679.84,0.2,4697,Credit Card
+ORD00458,11-07-2025,CUST0312,Customer 0312,South,Consumer,Accessories,Headset,2,6663.29,0.2,1783.51,Credit Card
+ORD00459,10-03-2025,CUST0181,Customer 0181,North,Consumer,Accessories,Headset,8,28294.36,0.25,5750.69,UPI
+ORD00460,05-10-2025,CUST0083,Customer 0083,South,Consumer,Office Supplies,Desk Organizer,6,14072.45,0.15,4246.61,Cash
+ORD00461,15-12-2025,CUST0101,Customer 0101,Central,Consumer,Office Supplies,File Folder,5,5260.73,0.2,1325.06,Credit Card
+ORD00462,04-09-2025,CUST0349,Customer 0349,Central,Corporate,Furniture,Cabinet,2,23327.28,0.05,3168.91,UPI
+ORD00463,17-03-2025,CUST0273,Customer 0273,East,Consumer,Office Supplies,Pen Set,8,13055.7,0.2,3200.92,Debit Card
+ORD00464,03-06-2025,CUST0059,Customer 0059,South,Consumer,Furniture,Cabinet,1,10026.89,0.15,1342,Credit Card
+ORD00465,24-05-2025,CUST0299,Customer 0299,North,Consumer,Accessories,Webcam,10,30792.31,0.15,8820.04,Credit Card
+ORD00466,27-03-2025,CUST0195,Customer 0195,South,Corporate,Office Supplies,File Folder,9,22552.48,0.1,5437.74,UPI
+ORD00467,04-07-2025,CUST0186,Customer 0186,Central,Corporate,Furniture,Cabinet,4,17231.39,0.25,3123.39,UPI
+ORD00468,12-10-2025,CUST0045,Customer 0045,West,Consumer,Office Supplies,Desk Organizer,4,6833.06,0.25,1709.23,UPI
+ORD00469,08-08-2025,CUST0034,Customer 0034,South,Corporate,Technology,Keyboard,10,123092.29,0,26467.75,UPI
+ORD00470,10-03-2025,CUST0392,Customer 0392,North,Consumer,Office Supplies,Office Chair,7,12701.1,0.15,3021.86,UPI
+ORD00471,16-02-2025,CUST0296,Customer 0296,East,Consumer,Technology,Mouse,4,62268.37,0,14380.92,Debit Card
+ORD00472,04-04-2025,CUST0378,Customer 0378,North,Consumer,Furniture,Cabinet,1,11415.87,0.1,2563.29,UPI
+ORD00473,26-08-2025,CUST0182,Customer 0182,Central,Small Business,Accessories,Headset,8,23552.61,0.1,6953.07,Net Banking
+ORD00474,23-07-2025,CUST0387,Customer 0387,East,Corporate,Furniture,Office Sofa,9,72497.08,0.15,12018.24,UPI
+ORD00475,06-08-2025,CUST0109,Customer 0109,East,Small Business,Technology,Mouse,5,62767.82,0.2,10709.34,Net Banking
+ORD00476,07-12-2025,CUST0042,Customer 0042,North,Small Business,Accessories,USB Hub,1,1653.24,0.1,444.45,Debit Card
+ORD00477,08-02-2025,CUST0373,Customer 0373,North,Small Business,Technology,Monitor,7,88970.57,0.05,23821.48,Net Banking
+ORD00478,10-04-2025,CUST0196,Customer 0196,Central,Consumer,Office Supplies,Desk Organizer,2,1960.11,0.15,476.96,Net Banking
+ORD00479,16-10-2025,CUST0129,Customer 0129,West,Consumer,Accessories,Backpack,9,34519.73,0.1,9644.86,Debit Card
+ORD00480,11-09-2025,CUST0148,Customer 0148,North,Consumer,Office Supplies,File Folder,1,1344.05,0.05,334.05,UPI
+ORD00481,10-08-2025,CUST0220,Customer 0220,North,Small Business,Office Supplies,Office Chair,2,4339.02,0.15,1309.52,Credit Card
+ORD00482,23-12-2025,CUST0393,Customer 0393,East,Small Business,Technology,Keyboard,3,41593.28,0.1,9941.31,Net Banking
+ORD00483,23-01-2025,CUST0204,Customer 0204,West,Consumer,Office Supplies,File Folder,6,5671.4,0.2,1383.24,Debit Card
+ORD00484,07-09-2025,CUST0133,Customer 0133,South,Corporate,Technology,Monitor,6,99327.55,0.1,24626.93,Credit Card
+ORD00485,10-01-2025,CUST0196,Customer 0196,North,Consumer,Furniture,Desk,3,32983.75,0,6520.47,UPI
+ORD00486,03-09-2025,CUST0179,Customer 0179,West,Consumer,Furniture,Bookshelf,6,71502.6,0.1,10851.15,UPI
+ORD00487,21-11-2025,CUST0332,Customer 0332,North,Consumer,Accessories,Webcam,7,14407.41,0.2,3010.52,Debit Card
+ORD00488,10-04-2025,CUST0325,Customer 0325,North,Corporate,Technology,Keyboard,3,23161.13,0.2,5956.08,Credit Card
+ORD00489,17-10-2025,CUST0168,Customer 0168,East,Corporate,Office Supplies,Desk Organizer,8,12924.53,0.15,4081.98,Net Banking
+ORD00490,29-06-2025,CUST0232,Customer 0232,North,Consumer,Office Supplies,Notebook,9,21246.33,0.15,5366.48,UPI
+ORD00491,11-08-2025,CUST0323,Customer 0323,South,Consumer,Accessories,Webcam,8,29895.55,0.2,6136.28,UPI
+ORD00492,07-09-2025,CUST0120,Customer 0120,North,Consumer,Office Supplies,Desk Organizer,8,12010.02,0.15,2764.8,UPI
+ORD00493,27-05-2025,CUST0184,Customer 0184,West,Consumer,Office Supplies,Desk Organizer,2,3580.66,0,984.42,UPI
+ORD00494,06-04-2025,CUST0226,Customer 0226,North,Consumer,Accessories,Headset,7,17094.77,0.1,3698.55,Credit Card
+ORD00495,14-09-2025,CUST0214,Customer 0214,West,Corporate,Furniture,Bookshelf,1,11178.42,0.15,2175.78,Credit Card
+ORD00496,21-11-2025,CUST0166,Customer 0166,Central,Consumer,Office Supplies,Pen Set,3,4095.3,0.1,996.56,Debit Card
+ORD00497,04-01-2025,CUST0016,Customer 0016,East,Consumer,Furniture,Desk,2,24403.88,0.1,4312.8,UPI
+ORD00498,16-01-2025,CUST0231,Customer 0231,Central,Corporate,Furniture,Office Sofa,10,105729.56,0.05,18448.11,Net Banking
+ORD00499,07-10-2025,CUST0226,Customer 0226,South,Small Business,Technology,Printer,3,51308.22,0.05,12001.55,Credit Card
+ORD00500,02-12-2025,CUST0064,Customer 0064,East,Corporate,Accessories,Webcam,1,4954.24,0,1101.33,Credit Card
+ORD00501,04-09-2025,CUST0091,Customer 0091,South,Consumer,Office Supplies,Pen Set,1,1724.05,0.1,440.51,Net Banking
+ORD00502,15-09-2025,CUST0191,Customer 0191,South,Consumer,Furniture,Cabinet,10,51736.18,0.1,9152.26,Cash
+ORD00503,09-06-2025,CUST0164,Customer 0164,North,Consumer,Furniture,Cabinet,6,62580.71,0.25,12277.15,Net Banking
+ORD00504,06-12-2025,CUST0230,Customer 0230,South,Consumer,Furniture,Bookshelf,8,57691.14,0.15,8091.35,UPI
+ORD00505,01-06-2025,CUST0376,Customer 0376,East,Small Business,Technology,Printer,5,84451.46,0.15,18588.11,Debit Card
+ORD00506,27-06-2025,CUST0395,Customer 0395,North,Consumer,Technology,Laptop,5,76964.59,0.1,15040.88,Debit Card
+ORD00507,12-06-2025,CUST0264,Customer 0264,South,Corporate,Technology,Mouse,9,115352.07,0.15,27497.49,Net Banking
+ORD00508,02-02-2025,CUST0084,Customer 0084,Central,Consumer,Furniture,Cabinet,6,76836.94,0.1,10948.27,Credit Card
+ORD00509,28-06-2025,CUST0225,Customer 0225,North,Consumer,Technology,Printer,8,152869.14,0.1,29968.51,Net Banking
+ORD00510,11-04-2025,CUST0389,Customer 0389,South,Small Business,Furniture,Office Sofa,4,26931.67,0.15,4324.72,Net Banking
+ORD00511,25-09-2025,CUST0153,Customer 0153,East,Consumer,Furniture,Bookshelf,6,54688.25,0.15,11383.15,Debit Card
+ORD00512,19-11-2025,CUST0150,Customer 0150,West,Corporate,Accessories,Headset,1,1639.2,0.1,333.25,Cash
+ORD00513,06-03-2025,CUST0046,Customer 0046,West,Corporate,Technology,Keyboard,10,144700.44,0,37928.07,Cash
+ORD00514,17-06-2025,CUST0243,Customer 0243,North,Consumer,Technology,Keyboard,2,27219.69,0.15,5469.7,Credit Card
+ORD00515,26-11-2025,CUST0075,Customer 0075,North,Consumer,Office Supplies,Pen Set,10,8718.41,0.2,2404.37,UPI
+ORD00516,12-02-2025,CUST0357,Customer 0357,South,Small Business,Accessories,Backpack,9,31838.37,0.05,8104.99,Debit Card
+ORD00517,13-02-2025,CUST0001,Customer 0001,East,Consumer,Technology,Printer,6,63237.72,0.15,14005.79,Credit Card
+ORD00518,12-10-2025,CUST0022,Customer 0022,Central,Consumer,Technology,Keyboard,4,70056.95,0.1,12517.66,UPI
+ORD00519,12-01-2025,CUST0022,Customer 0022,West,Consumer,Technology,Laptop,7,55631.66,0,10415.35,Credit Card
+ORD00520,05-04-2025,CUST0073,Customer 0073,North,Consumer,Office Supplies,Office Chair,5,6600.81,0,1826.46,Debit Card
+ORD00521,29-10-2025,CUST0002,Customer 0002,East,Consumer,Technology,Monitor,5,86127.75,0.1,18855.42,UPI
+ORD00522,10-09-2025,CUST0337,Customer 0337,South,Consumer,Technology,Printer,1,19987.7,0.05,4645.37,Credit Card
+ORD00523,30-08-2025,CUST0029,Customer 0029,North,Corporate,Accessories,Backpack,6,24372.25,0,5789.19,Debit Card
+ORD00524,04-02-2025,CUST0231,Customer 0231,East,Consumer,Technology,Mouse,3,56600.26,0.05,9883.52,Debit Card
+ORD00525,03-08-2025,CUST0058,Customer 0058,North,Consumer,Accessories,Headset,6,10831.03,0.1,2901.51,UPI
+ORD00526,03-12-2025,CUST0236,Customer 0236,Central,Corporate,Technology,Monitor,9,65519.75,0.15,14556.74,UPI
+ORD00527,31-03-2025,CUST0185,Customer 0185,North,Consumer,Furniture,Bookshelf,10,81176.46,0.1,14729.97,Debit Card
+ORD00528,21-09-2025,CUST0311,Customer 0311,South,Consumer,Accessories,Webcam,6,11064.85,0.05,2855.58,Cash
+ORD00529,03-04-2025,CUST0058,Customer 0058,South,Consumer,Office Supplies,Desk Organizer,8,9382.57,0.1,2755.94,UPI
+ORD00530,31-03-2025,CUST0397,Customer 0397,North,Consumer,Office Supplies,Office Chair,8,12020.5,0.15,3480.43,Net Banking
+ORD00531,25-04-2025,CUST0011,Customer 0011,South,Corporate,Office Supplies,Pen Set,2,2499.52,0,579.06,Net Banking
+ORD00532,15-04-2025,CUST0255,Customer 0255,South,Consumer,Technology,Monitor,9,180637.38,0.05,43666.79,Debit Card
+ORD00533,15-07-2025,CUST0215,Customer 0215,South,Small Business,Office Supplies,Office Chair,3,5767.28,0,1570.25,Debit Card
+ORD00534,10-11-2025,CUST0097,Customer 0097,South,Consumer,Office Supplies,Office Chair,8,9629.46,0.15,3013.96,Credit Card
+ORD00535,24-04-2025,CUST0161,Customer 0161,North,Consumer,Technology,Printer,2,17951.3,0.15,3695.71,Cash
+ORD00536,16-03-2025,CUST0241,Customer 0241,North,Corporate,Office Supplies,Notebook,6,13129.95,0.1,3963.54,Debit Card
+ORD00537,05-08-2025,CUST0273,Customer 0273,Central,Consumer,Office Supplies,Pen Set,10,23730.44,0.1,7717.77,Credit Card
+ORD00538,04-10-2025,CUST0151,Customer 0151,South,Consumer,Furniture,Conference Table,9,90258.81,0.1,18755.65,UPI
+ORD00539,06-09-2025,CUST0269,Customer 0269,South,Small Business,Technology,Monitor,2,17015.8,0.1,2940.72,Net Banking
+ORD00540,13-06-2025,CUST0323,Customer 0323,North,Consumer,Office Supplies,Notebook,4,8165.95,0.25,2114.52,Credit Card
+ORD00541,23-12-2025,CUST0063,Customer 0063,West,Consumer,Accessories,Headset,9,24101.83,0.05,7201.66,Credit Card
+ORD00542,11-07-2025,CUST0174,Customer 0174,West,Corporate,Furniture,Bookshelf,10,126118.02,0.1,17702.39,Debit Card
+ORD00543,15-08-2025,CUST0166,Customer 0166,South,Small Business,Technology,Monitor,3,42844.04,0.15,7418.5,UPI
+ORD00544,26-06-2025,CUST0393,Customer 0393,Central,Corporate,Furniture,Bookshelf,9,45537.99,0.2,6554.29,Credit Card
+ORD00545,09-04-2025,CUST0017,Customer 0017,South,Small Business,Technology,Mouse,4,34299.32,0.2,6575.53,Credit Card
+ORD00546,05-02-2025,CUST0393,Customer 0393,Central,Small Business,Accessories,Power Bank,3,9654.71,0.1,2862.55,UPI
+ORD00547,06-04-2025,CUST0220,Customer 0220,East,Consumer,Office Supplies,Office Chair,7,8651.31,0.15,2002.24,UPI
+ORD00548,01-06-2025,CUST0389,Customer 0389,Central,Small Business,Furniture,Bookshelf,4,39860.78,0,7910.11,Credit Card
+ORD00549,31-05-2025,CUST0323,Customer 0323,East,Corporate,Furniture,Desk,5,57429.18,0.15,8368.6,Cash
+ORD00550,09-07-2025,CUST0278,Customer 0278,North,Consumer,Office Supplies,Desk Organizer,6,11079.36,0.25,3104.29,Credit Card
+ORD00551,12-08-2025,CUST0212,Customer 0212,South,Consumer,Furniture,Bookshelf,4,29426.72,0.2,6344.85,UPI
+ORD00552,06-02-2025,CUST0137,Customer 0137,South,Consumer,Technology,Mouse,2,34909.13,0,6891.64,Credit Card
+ORD00553,25-09-2025,CUST0305,Customer 0305,West,Consumer,Furniture,Bookshelf,10,53654.44,0.05,9396.42,UPI
+ORD00554,02-07-2025,CUST0270,Customer 0270,North,Corporate,Office Supplies,Desk Organizer,9,10813.57,0.1,2878.02,Credit Card
+ORD00555,13-01-2025,CUST0181,Customer 0181,Central,Consumer,Office Supplies,Office Chair,2,2996.1,0.2,938.36,Credit Card
+ORD00556,06-10-2025,CUST0017,Customer 0017,East,Small Business,Office Supplies,Desk Organizer,8,13432.82,0.1,3233.04,UPI
+ORD00557,05-08-2025,CUST0400,Customer 0400,Central,Consumer,Accessories,Webcam,1,1685.26,0.1,428.75,Debit Card
+ORD00558,21-12-2025,CUST0021,Customer 0021,West,Small Business,Office Supplies,Notebook,1,1189.79,0.1,306.48,Debit Card
+ORD00559,27-12-2025,CUST0317,Customer 0317,West,Consumer,Technology,Printer,6,59696.82,0.15,15791.64,Cash
+ORD00560,13-10-2025,CUST0026,Customer 0026,South,Corporate,Furniture,Office Sofa,6,33450.52,0.2,5783.21,UPI
+ORD00561,30-09-2025,CUST0398,Customer 0398,South,Consumer,Technology,Laptop,8,125476.38,0.25,26052.15,Cash
+ORD00562,03-03-2025,CUST0037,Customer 0037,West,Corporate,Office Supplies,Pen Set,3,7895.71,0.05,2346.65,UPI
+ORD00563,25-03-2025,CUST0235,Customer 0235,North,Small Business,Technology,Keyboard,7,93467.84,0.1,17303.37,UPI
+ORD00564,05-08-2025,CUST0114,Customer 0114,West,Consumer,Office Supplies,Desk Organizer,2,3581.9,0.15,1074.35,UPI
+ORD00565,08-12-2025,CUST0331,Customer 0331,South,Consumer,Accessories,Webcam,8,31028.3,0.15,6727.3,Credit Card
+ORD00566,06-07-2025,CUST0393,Customer 0393,West,Small Business,Office Supplies,Office Chair,3,3241.74,0,806.33,UPI
+ORD00567,19-01-2025,CUST0015,Customer 0015,Central,Consumer,Furniture,Conference Table,4,30727.44,0.05,5138.57,UPI
+ORD00568,26-06-2025,CUST0121,Customer 0121,Central,Small Business,Office Supplies,Notebook,5,6229.63,0,1822.69,UPI
+ORD00569,10-04-2025,CUST0006,Customer 0006,East,Consumer,Accessories,USB Hub,4,12921.74,0.1,3518.66,Credit Card
+ORD00570,21-08-2025,CUST0142,Customer 0142,North,Consumer,Office Supplies,File Folder,6,8692.42,0.05,2125.84,Debit Card
+ORD00571,17-03-2025,CUST0168,Customer 0168,East,Small Business,Furniture,Bookshelf,6,38221.86,0.05,8187.86,UPI
+ORD00572,22-09-2025,CUST0199,Customer 0199,South,Consumer,Technology,Mouse,6,58024.62,0.15,15241.13,Credit Card
+ORD00573,11-10-2025,CUST0280,Customer 0280,Central,Corporate,Office Supplies,File Folder,5,7702.86,0.1,2366.97,Net Banking
+ORD00574,25-07-2025,CUST0293,Customer 0293,West,Corporate,Technology,Monitor,7,89838.75,0,20916.32,UPI
+ORD00575,11-08-2025,CUST0364,Customer 0364,West,Consumer,Accessories,USB Hub,5,16782.31,0.05,3992.01,Net Banking
+ORD00576,21-02-2025,CUST0360,Customer 0360,Central,Small Business,Furniture,Conference Table,7,38594.22,0.1,7875.19,Net Banking
+ORD00577,05-12-2025,CUST0234,Customer 0234,West,Consumer,Furniture,Office Sofa,9,82346.7,0.05,13484.08,UPI
+ORD00578,24-05-2025,CUST0147,Customer 0147,Central,Corporate,Office Supplies,Office Chair,1,2321.17,0.1,654.5,UPI
+ORD00579,10-03-2025,CUST0204,Customer 0204,East,Small Business,Office Supplies,Pen Set,8,16698.39,0.2,4960.87,Debit Card
+ORD00580,09-04-2025,CUST0226,Customer 0226,Central,Small Business,Office Supplies,Pen Set,6,7901.85,0.2,1971.47,Net Banking
+ORD00581,25-01-2025,CUST0257,Customer 0257,North,Corporate,Office Supplies,Office Chair,8,9959.29,0,2823.92,UPI
+ORD00582,22-02-2025,CUST0242,Customer 0242,Central,Small Business,Office Supplies,Office Chair,6,12252.37,0.2,3247.11,UPI
+ORD00583,31-05-2025,CUST0176,Customer 0176,East,Consumer,Furniture,Conference Table,3,34060.88,0.1,5937.24,Credit Card
+ORD00584,24-05-2025,CUST0383,Customer 0383,West,Consumer,Office Supplies,File Folder,6,8407.45,0.05,2718.48,Debit Card
+ORD00585,26-02-2025,CUST0197,Customer 0197,East,Consumer,Office Supplies,Desk Organizer,9,14741.88,0,4019.07,Credit Card
+ORD00586,08-02-2025,CUST0195,Customer 0195,South,Corporate,Furniture,Desk,9,50497.54,0.25,8515.74,UPI
+ORD00587,19-04-2025,CUST0056,Customer 0056,Central,Corporate,Office Supplies,Notebook,8,8019.89,0.15,2354.18,Net Banking
+ORD00588,30-06-2025,CUST0331,Customer 0331,South,Corporate,Accessories,Power Bank,7,23927.81,0,6147.6,Cash
+ORD00589,11-02-2025,CUST0233,Customer 0233,Central,Small Business,Accessories,Backpack,7,13602.32,0.2,3952.86,Credit Card
+ORD00590,05-07-2025,CUST0284,Customer 0284,North,Corporate,Furniture,Bookshelf,4,47349.7,0.15,7067.85,Debit Card
+ORD00591,11-08-2025,CUST0333,Customer 0333,Central,Corporate,Furniture,Desk,5,57678.85,0.2,10962.07,Credit Card
+ORD00592,02-05-2025,CUST0047,Customer 0047,East,Consumer,Technology,Keyboard,7,69119.59,0.15,12359.57,Credit Card
+ORD00593,13-05-2025,CUST0298,Customer 0298,East,Consumer,Furniture,Desk,8,60228.67,0.2,11950.63,Net Banking
+ORD00594,12-06-2025,CUST0016,Customer 0016,East,Consumer,Technology,Mouse,8,88610.64,0.1,19601.46,Cash
+ORD00595,03-08-2025,CUST0332,Customer 0332,North,Consumer,Technology,Mouse,7,85976.85,0.1,22486.52,Net Banking
+ORD00596,09-08-2025,CUST0236,Customer 0236,East,Consumer,Office Supplies,Pen Set,2,2631.77,0.1,646.6,Cash
+ORD00597,23-08-2025,CUST0244,Customer 0244,East,Corporate,Furniture,Bookshelf,10,122404.82,0.1,25394.75,Debit Card
+ORD00598,27-11-2025,CUST0314,Customer 0314,East,Consumer,Office Supplies,Notebook,4,3564.82,0.15,1012.12,Cash
+ORD00599,26-05-2025,CUST0054,Customer 0054,South,Corporate,Office Supplies,Office Chair,7,8122.98,0,2273.76,Debit Card
+ORD00600,27-08-2025,CUST0131,Customer 0131,West,Consumer,Technology,Printer,2,36459.15,0.15,9418.1,Cash
+ORD00601,17-03-2025,CUST0045,Customer 0045,East,Consumer,Office Supplies,Pen Set,1,2014.02,0.15,629.16,Debit Card
+ORD00602,09-01-2025,CUST0357,Customer 0357,West,Corporate,Accessories,USB Hub,5,17374.86,0.15,4100.1,Credit Card
+ORD00603,15-03-2025,CUST0180,Customer 0180,North,Consumer,Accessories,USB Hub,1,3507.53,0.05,845.6,UPI
+ORD00604,10-09-2025,CUST0116,Customer 0116,North,Consumer,Accessories,Power Bank,7,14694.68,0.15,3234.56,UPI
+ORD00605,18-08-2025,CUST0329,Customer 0329,West,Consumer,Office Supplies,Office Chair,4,7589.78,0.05,2010.43,Cash
+ORD00606,07-01-2025,CUST0396,Customer 0396,East,Consumer,Technology,Laptop,2,19137.33,0.1,4664.19,Debit Card
+ORD00607,23-06-2025,CUST0016,Customer 0016,Central,Corporate,Office Supplies,Desk Organizer,1,1958.05,0.15,466.02,Credit Card
+ORD00608,21-05-2025,CUST0203,Customer 0203,Central,Small Business,Accessories,Backpack,10,19012.53,0.05,5075.04,Net Banking
+ORD00609,17-06-2025,CUST0324,Customer 0324,North,Consumer,Office Supplies,Office Chair,9,23351.68,0.05,6526.39,UPI
+ORD00610,19-06-2025,CUST0262,Customer 0262,West,Consumer,Office Supplies,Office Chair,1,1405.01,0.1,364.54,UPI
+ORD00611,10-10-2025,CUST0366,Customer 0366,Central,Corporate,Technology,Keyboard,10,99559.1,0.1,18755.07,Debit Card
+ORD00612,02-05-2025,CUST0006,Customer 0006,Central,Corporate,Technology,Mouse,6,70796.57,0.1,16014.97,UPI
+ORD00613,13-07-2025,CUST0337,Customer 0337,West,Consumer,Technology,Mouse,8,100255.36,0.2,26486.52,Debit Card
+ORD00614,05-01-2025,CUST0150,Customer 0150,East,Consumer,Technology,Monitor,1,11131.92,0.05,2289,UPI
+ORD00615,29-01-2025,CUST0319,Customer 0319,East,Consumer,Furniture,Conference Table,1,8045.56,0.15,1805.8,UPI
+ORD00616,14-06-2025,CUST0202,Customer 0202,West,Consumer,Office Supplies,Pen Set,6,13307.33,0.15,3320.66,UPI
+ORD00617,05-12-2025,CUST0134,Customer 0134,South,Corporate,Furniture,Office Sofa,6,58759.47,0.15,10122.51,UPI
+ORD00618,16-05-2025,CUST0246,Customer 0246,North,Corporate,Office Supplies,Desk Organizer,4,6018.06,0,1592.17,Debit Card
+ORD00619,31-12-2025,CUST0052,Customer 0052,Central,Consumer,Office Supplies,File Folder,2,5392.31,0,1486.34,Debit Card
+ORD00620,17-11-2025,CUST0188,Customer 0188,East,Corporate,Technology,Monitor,6,115290.86,0.05,24333.27,Net Banking
+ORD00621,08-12-2025,CUST0050,Customer 0050,South,Consumer,Accessories,Backpack,2,5293.37,0.05,1185.38,Credit Card
+ORD00622,25-05-2025,CUST0133,Customer 0133,South,Consumer,Technology,Monitor,8,99978.85,0.1,24459.35,Net Banking
+ORD00623,23-11-2025,CUST0278,Customer 0278,North,Consumer,Furniture,Cabinet,1,9092.37,0.2,1219.87,Net Banking
+ORD00624,05-08-2025,CUST0152,Customer 0152,South,Small Business,Office Supplies,Desk Organizer,6,12367.77,0.05,3913.66,Credit Card
+ORD00625,28-10-2025,CUST0054,Customer 0054,West,Consumer,Furniture,Bookshelf,3,15085.79,0.15,2289.69,Debit Card
+ORD00626,12-05-2025,CUST0026,Customer 0026,Central,Corporate,Accessories,USB Hub,10,26855.55,0.1,5437.87,UPI
+ORD00627,19-10-2025,CUST0110,Customer 0110,North,Corporate,Technology,Monitor,4,52125.97,0.15,13569.82,UPI
+ORD00628,11-03-2025,CUST0204,Customer 0204,North,Consumer,Technology,Monitor,6,48334.1,0.1,9332.03,UPI
+ORD00629,09-09-2025,CUST0211,Customer 0211,Central,Corporate,Furniture,Office Sofa,1,9084.94,0.15,1196.75,Credit Card
+ORD00630,02-10-2025,CUST0188,Customer 0188,North,Consumer,Accessories,Headset,10,27195.74,0.05,6970.71,Cash
+ORD00631,30-12-2025,CUST0344,Customer 0344,North,Small Business,Technology,Keyboard,10,78925.97,0.15,20219.6,Credit Card
+ORD00632,01-07-2025,CUST0393,Customer 0393,East,Consumer,Accessories,Power Bank,9,36718.02,0,9246.77,Debit Card
+ORD00633,16-06-2025,CUST0281,Customer 0281,South,Consumer,Technology,Mouse,9,100170.54,0.05,18629.21,UPI
+ORD00634,01-04-2025,CUST0062,Customer 0062,West,Small Business,Technology,Laptop,4,61750.93,0.05,12271.4,Credit Card
+ORD00635,21-07-2025,CUST0307,Customer 0307,South,Consumer,Accessories,Headset,5,12040.99,0.25,2474.12,Credit Card
+ORD00636,12-12-2025,CUST0271,Customer 0271,Central,Consumer,Office Supplies,Notebook,4,8206.54,0.2,2548.21,Net Banking
+ORD00637,19-01-2025,CUST0266,Customer 0266,North,Consumer,Office Supplies,Desk Organizer,1,2117.59,0.05,540.97,Cash
+ORD00638,08-02-2025,CUST0369,Customer 0369,East,Consumer,Technology,Laptop,10,115318.72,0.1,28695.9,Net Banking
+ORD00639,06-05-2025,CUST0205,Customer 0205,Central,Consumer,Accessories,Power Bank,6,11559.79,0,3231.59,Credit Card
+ORD00640,22-06-2025,CUST0356,Customer 0356,North,Small Business,Technology,Mouse,3,47619.87,0.1,10573.15,Cash
+ORD00641,21-05-2025,CUST0130,Customer 0130,South,Consumer,Accessories,USB Hub,1,2444.8,0.2,510.72,Credit Card
+ORD00642,30-08-2025,CUST0114,Customer 0114,East,Consumer,Accessories,Power Bank,5,11408.22,0.15,2956.27,Debit Card
+ORD00643,08-08-2025,CUST0366,Customer 0366,South,Consumer,Furniture,Desk,7,56460.07,0.15,7744.83,UPI
+ORD00644,06-05-2025,CUST0275,Customer 0275,North,Corporate,Accessories,Backpack,6,14312.75,0.15,3256.42,Cash
+ORD00645,27-02-2025,CUST0056,Customer 0056,East,Small Business,Furniture,Bookshelf,10,70749.03,0.05,14256.9,Credit Card
+ORD00646,28-05-2025,CUST0156,Customer 0156,North,Consumer,Office Supplies,Notebook,5,7179.1,0.1,1855.73,Credit Card
+ORD00647,13-11-2025,CUST0156,Customer 0156,North,Consumer,Technology,Monitor,9,70888.94,0.1,18108.26,UPI
+ORD00648,27-12-2025,CUST0045,Customer 0045,East,Corporate,Accessories,Headset,2,6965.9,0.1,1725.49,Net Banking
+ORD00649,01-01-2025,CUST0310,Customer 0310,South,Consumer,Furniture,Desk,10,74390.09,0.1,11379.57,UPI
+ORD00650,14-12-2025,CUST0236,Customer 0236,North,Consumer,Technology,Keyboard,4,60565.75,0.2,13221.9,Credit Card
+ORD00651,09-07-2025,CUST0276,Customer 0276,East,Consumer,Accessories,Webcam,4,9516.7,0.2,2488.95,Credit Card
+ORD00652,10-07-2025,CUST0213,Customer 0213,West,Small Business,Accessories,Webcam,4,11961.78,0.15,2849.58,UPI
+ORD00653,08-11-2025,CUST0102,Customer 0102,West,Corporate,Furniture,Bookshelf,10,51585.34,0.2,9157.28,Credit Card
+ORD00654,27-04-2025,CUST0382,Customer 0382,South,Consumer,Furniture,Bookshelf,9,102991.53,0.15,13872.59,Debit Card
+ORD00655,14-05-2025,CUST0251,Customer 0251,South,Small Business,Furniture,Office Sofa,1,8753.26,0.1,1144.14,Net Banking
+ORD00656,27-02-2025,CUST0177,Customer 0177,East,Corporate,Office Supplies,Office Chair,1,1751.77,0.1,569.97,Debit Card
+ORD00657,13-02-2025,CUST0301,Customer 0301,West,Corporate,Technology,Laptop,10,161236.13,0,34074.71,Credit Card
+ORD00658,22-06-2025,CUST0052,Customer 0052,North,Corporate,Office Supplies,Notebook,3,3616.47,0.1,1169.86,Net Banking
+ORD00659,09-06-2025,CUST0055,Customer 0055,Central,Consumer,Accessories,Power Bank,4,15577.38,0.1,4196.35,UPI
+ORD00660,22-06-2025,CUST0338,Customer 0338,North,Small Business,Accessories,Backpack,7,26241.76,0,5738.48,Net Banking
+ORD00661,13-11-2025,CUST0376,Customer 0376,East,Consumer,Furniture,Desk,5,26295.27,0.15,4072.42,UPI
+ORD00662,30-10-2025,CUST0130,Customer 0130,East,Corporate,Technology,Monitor,5,32839.82,0.2,5823.51,Net Banking
+ORD00663,29-05-2025,CUST0193,Customer 0193,East,Consumer,Technology,Mouse,9,141801.58,0.1,25188.25,Debit Card
+ORD00664,21-03-2025,CUST0243,Customer 0243,South,Corporate,Furniture,Cabinet,4,36685.64,0.15,6404.32,Net Banking
+ORD00665,01-08-2025,CUST0229,Customer 0229,North,Small Business,Technology,Mouse,5,56216.03,0.15,10403.4,Cash
+ORD00666,22-07-2025,CUST0352,Customer 0352,North,Consumer,Office Supplies,File Folder,1,1493.4,0.2,422.22,Cash
+ORD00667,09-09-2025,CUST0144,Customer 0144,North,Corporate,Office Supplies,Pen Set,10,21035.87,0.2,5932.6,Debit Card
+ORD00668,17-08-2025,CUST0072,Customer 0072,East,Consumer,Furniture,Conference Table,10,62664.91,0.1,10856.3,Debit Card
+ORD00669,13-06-2025,CUST0093,Customer 0093,North,Consumer,Technology,Monitor,1,15695.3,0,3072.84,Credit Card
+ORD00670,15-08-2025,CUST0380,Customer 0380,Central,Consumer,Office Supplies,Pen Set,8,14694.44,0.05,3435.52,Cash
+ORD00671,27-05-2025,CUST0065,Customer 0065,West,Consumer,Office Supplies,File Folder,10,16451.76,0.2,3855.73,UPI
+ORD00672,20-01-2025,CUST0053,Customer 0053,South,Small Business,Accessories,Headset,6,15584.09,0,3160.75,UPI
+ORD00673,16-02-2025,CUST0158,Customer 0158,East,Consumer,Accessories,Headset,2,7529.48,0.05,2098.98,Credit Card
+ORD00674,21-08-2025,CUST0381,Customer 0381,Central,Corporate,Office Supplies,Pen Set,8,12488.1,0.2,3384.3,Credit Card
+ORD00675,01-11-2025,CUST0057,Customer 0057,East,Consumer,Technology,Laptop,2,20983.22,0.1,4975.76,UPI
+ORD00676,14-01-2025,CUST0235,Customer 0235,North,Small Business,Office Supplies,Pen Set,7,13775.78,0.15,4072.4,Credit Card
+ORD00677,23-05-2025,CUST0377,Customer 0377,Central,Corporate,Office Supplies,Pen Set,5,8933.77,0.15,2147.64,Cash
+ORD00678,01-01-2025,CUST0107,Customer 0107,West,Consumer,Accessories,Webcam,9,27686.11,0.15,6674.94,Debit Card
+ORD00679,23-02-2025,CUST0123,Customer 0123,East,Corporate,Furniture,Desk,6,70732.55,0.05,15596.26,Net Banking
+ORD00680,16-09-2025,CUST0219,Customer 0219,South,Consumer,Office Supplies,Desk Organizer,8,13039.05,0.1,3422.37,Cash
+ORD00681,24-05-2025,CUST0349,Customer 0349,North,Consumer,Technology,Keyboard,3,43189.08,0.1,9509.96,Debit Card
+ORD00682,12-01-2025,CUST0146,Customer 0146,Central,Consumer,Office Supplies,Notebook,7,17196.29,0.05,4341.31,Credit Card
+ORD00683,26-11-2025,CUST0056,Customer 0056,South,Corporate,Technology,Keyboard,6,44527.34,0.2,8387.08,UPI
+ORD00684,12-08-2025,CUST0250,Customer 0250,South,Small Business,Office Supplies,File Folder,9,23039.01,0,7267.1,Net Banking
+ORD00685,29-09-2025,CUST0313,Customer 0313,East,Consumer,Technology,Printer,9,172752.91,0.1,38709.74,Cash
+ORD00686,24-12-2025,CUST0073,Customer 0073,North,Consumer,Technology,Printer,8,109016.1,0,23355.54,UPI
+ORD00687,05-06-2025,CUST0060,Customer 0060,South,Consumer,Office Supplies,File Folder,9,12753.27,0.2,4088.17,UPI
+ORD00688,08-01-2025,CUST0165,Customer 0165,East,Consumer,Office Supplies,Office Chair,7,16910.87,0.05,5263.36,Net Banking
+ORD00689,02-05-2025,CUST0366,Customer 0366,South,Small Business,Accessories,USB Hub,1,1921.62,0,522.75,Credit Card
+ORD00690,14-12-2025,CUST0118,Customer 0118,Central,Consumer,Technology,Laptop,2,25148.43,0.1,6527.64,UPI
+ORD00691,13-06-2025,CUST0048,Customer 0048,North,Consumer,Technology,Monitor,5,38351.1,0.15,8843.82,Debit Card
+ORD00692,31-03-2025,CUST0357,Customer 0357,North,Consumer,Technology,Keyboard,1,16549.95,0.2,3731.73,Credit Card
+ORD00693,16-05-2025,CUST0281,Customer 0281,South,Corporate,Accessories,Backpack,10,39325.57,0.15,9237.78,Cash
+ORD00694,05-07-2025,CUST0366,Customer 0366,North,Consumer,Accessories,Backpack,1,1511.9,0.2,428.32,UPI
+ORD00695,12-11-2025,CUST0293,Customer 0293,North,Small Business,Furniture,Bookshelf,7,31393.9,0.15,7134.66,Debit Card
+ORD00696,27-06-2025,CUST0214,Customer 0214,North,Consumer,Technology,Laptop,3,29677.19,0.05,7235.75,UPI
+ORD00697,28-01-2025,CUST0237,Customer 0237,Central,Consumer,Office Supplies,Notebook,5,7056.52,0,1812.47,Debit Card
+ORD00698,08-08-2025,CUST0292,Customer 0292,North,Corporate,Office Supplies,File Folder,3,4884.06,0.1,1468.46,Cash
+ORD00699,23-12-2025,CUST0035,Customer 0035,Central,Consumer,Office Supplies,Notebook,10,9577.7,0.15,2371.52,Debit Card
+ORD00700,10-02-2025,CUST0356,Customer 0356,South,Consumer,Furniture,Cabinet,1,11567.16,0.05,2493.47,Credit Card
+ORD00701,16-08-2025,CUST0002,Customer 0002,East,Consumer,Technology,Keyboard,10,112828.92,0.05,21026.89,Credit Card
+ORD00702,11-07-2025,CUST0054,Customer 0054,South,Consumer,Technology,Laptop,7,94109.55,0.15,18660.85,Net Banking
+ORD00703,25-05-2025,CUST0176,Customer 0176,West,Corporate,Technology,Printer,5,40671.93,0.05,10554.5,Debit Card
+ORD00704,20-07-2025,CUST0337,Customer 0337,Central,Corporate,Technology,Monitor,4,53583.77,0.1,10892.16,UPI
+ORD00705,31-07-2025,CUST0311,Customer 0311,North,Consumer,Technology,Mouse,5,50862.87,0.15,13041.01,UPI
+ORD00706,08-08-2025,CUST0320,Customer 0320,Central,Consumer,Technology,Monitor,4,47394.97,0.1,10280.81,Credit Card
+ORD00707,28-08-2025,CUST0074,Customer 0074,South,Corporate,Technology,Keyboard,1,13434.36,0.05,2566.46,UPI
+ORD00708,15-02-2025,CUST0285,Customer 0285,West,Consumer,Accessories,Power Bank,10,38169.56,0.1,10510.41,Cash
+ORD00709,04-02-2025,CUST0233,Customer 0233,Central,Consumer,Furniture,Office Sofa,5,28483.2,0.1,4947.95,UPI
+ORD00710,10-09-2025,CUST0029,Customer 0029,West,Small Business,Furniture,Desk,3,25848.66,0.05,4024.88,Credit Card
+ORD00711,23-03-2025,CUST0379,Customer 0379,North,Consumer,Office Supplies,Notebook,6,12729.17,0.15,3709.5,Credit Card
+ORD00712,13-09-2025,CUST0112,Customer 0112,Central,Consumer,Accessories,Backpack,4,15582.92,0,4474.72,Credit Card
+ORD00713,16-07-2025,CUST0087,Customer 0087,Central,Corporate,Office Supplies,Pen Set,1,2055.91,0.2,669.78,Net Banking
+ORD00714,30-10-2025,CUST0189,Customer 0189,West,Consumer,Accessories,Power Bank,2,4149.23,0.15,1038.81,Net Banking
+ORD00715,10-01-2025,CUST0132,Customer 0132,North,Corporate,Accessories,Headset,9,16641.09,0.15,4903.09,Credit Card
+ORD00716,08-11-2025,CUST0161,Customer 0161,West,Small Business,Office Supplies,Pen Set,5,7045.98,0.25,2162.86,Credit Card
+ORD00717,13-10-2025,CUST0012,Customer 0012,North,Corporate,Office Supplies,Pen Set,3,4014.45,0.15,1187.39,Cash
+ORD00718,30-08-2025,CUST0387,Customer 0387,South,Corporate,Accessories,Power Bank,8,32163.04,0.1,7308.22,Credit Card
+ORD00719,08-09-2025,CUST0085,Customer 0085,West,Corporate,Accessories,Webcam,8,21995.22,0.1,4821.07,UPI
+ORD00720,31-12-2025,CUST0233,Customer 0233,North,Consumer,Furniture,Bookshelf,9,54896.88,0.2,11000.99,Cash
+ORD00721,05-01-2025,CUST0264,Customer 0264,Central,Consumer,Office Supplies,File Folder,9,10769.26,0.1,3046.18,Net Banking
+ORD00722,29-04-2025,CUST0037,Customer 0037,North,Consumer,Furniture,Conference Table,7,56413.88,0.1,12028.79,UPI
+ORD00723,16-10-2025,CUST0019,Customer 0019,North,Small Business,Furniture,Bookshelf,10,72507.36,0.1,11048.52,Cash
+ORD00724,06-03-2025,CUST0097,Customer 0097,Central,Corporate,Office Supplies,Office Chair,6,5656.18,0.05,1603.27,Debit Card
+ORD00725,26-05-2025,CUST0125,Customer 0125,North,Consumer,Office Supplies,Pen Set,6,16135.16,0,5082.85,Cash
+ORD00726,12-08-2025,CUST0136,Customer 0136,North,Consumer,Accessories,Power Bank,10,22605.21,0.15,4920.44,Debit Card
+ORD00727,27-08-2025,CUST0381,Customer 0381,North,Corporate,Accessories,USB Hub,7,24525.44,0.05,7083.46,Net Banking
+ORD00728,26-06-2025,CUST0029,Customer 0029,North,Consumer,Office Supplies,File Folder,5,12321.88,0.1,3894.99,Debit Card
+ORD00729,24-09-2025,CUST0033,Customer 0033,South,Consumer,Technology,Keyboard,8,145120.49,0.1,37748.42,Net Banking
+ORD00730,07-12-2025,CUST0056,Customer 0056,East,Consumer,Office Supplies,Notebook,5,10956.16,0,2877.77,Debit Card
+ORD00731,09-10-2025,CUST0333,Customer 0333,South,Consumer,Technology,Monitor,7,75661.75,0.05,18076.68,Credit Card
+ORD00732,04-03-2025,CUST0258,Customer 0258,South,Corporate,Technology,Laptop,5,85707.94,0.15,21529.06,Net Banking
+ORD00733,05-08-2025,CUST0095,Customer 0095,East,Consumer,Technology,Printer,7,100053.26,0.2,20000.77,Credit Card
+ORD00734,08-12-2025,CUST0208,Customer 0208,South,Corporate,Furniture,Conference Table,5,36027.99,0.15,6706.09,Net Banking
+ORD00735,11-11-2025,CUST0154,Customer 0154,North,Small Business,Office Supplies,File Folder,5,5612.07,0,1816.94,Credit Card
+ORD00736,10-10-2025,CUST0349,Customer 0349,South,Consumer,Furniture,Conference Table,1,9454.36,0.15,1767.51,Debit Card
+ORD00737,26-06-2025,CUST0292,Customer 0292,North,Corporate,Technology,Keyboard,9,102002.06,0.2,26495.67,UPI
+ORD00738,08-04-2025,CUST0078,Customer 0078,West,Corporate,Furniture,Office Sofa,7,32844.24,0.15,6772.59,Credit Card
+ORD00739,15-04-2025,CUST0077,Customer 0077,West,Consumer,Accessories,Power Bank,6,21731.81,0,4660.56,Debit Card
+ORD00740,09-04-2025,CUST0333,Customer 0333,West,Consumer,Technology,Printer,3,30551.2,0,6926.06,Cash
+ORD00741,07-11-2025,CUST0209,Customer 0209,East,Small Business,Technology,Keyboard,8,61290.21,0.25,12780,Credit Card
+ORD00742,06-01-2025,CUST0090,Customer 0090,West,Consumer,Accessories,Power Bank,8,13680.48,0.15,2960.36,Debit Card
+ORD00743,16-07-2025,CUST0281,Customer 0281,Central,Consumer,Office Supplies,Pen Set,2,5032.25,0.05,1381.75,Net Banking
+ORD00744,17-12-2025,CUST0170,Customer 0170,North,Corporate,Accessories,Backpack,2,8766.27,0.05,2291.37,UPI
+ORD00745,13-05-2025,CUST0057,Customer 0057,South,Small Business,Office Supplies,File Folder,6,10022.67,0,3025.87,Credit Card
+ORD00746,24-12-2025,CUST0285,Customer 0285,South,Consumer,Furniture,Desk,3,14767.79,0.1,3106.12,Net Banking
+ORD00747,16-09-2025,CUST0198,Customer 0198,North,Consumer,Office Supplies,Pen Set,8,10933.48,0.1,3446.7,Credit Card
+ORD00748,23-01-2025,CUST0381,Customer 0381,West,Consumer,Furniture,Conference Table,10,97082.82,0.15,12627.73,Cash
+ORD00749,22-02-2025,CUST0254,Customer 0254,Central,Consumer,Technology,Mouse,9,138409.29,0.1,28806.16,Cash
+ORD00750,14-06-2025,CUST0044,Customer 0044,South,Corporate,Technology,Monitor,9,103374.39,0.15,22547.9,Credit Card
+ORD00751,21-07-2025,CUST0380,Customer 0380,Central,Corporate,Office Supplies,Office Chair,2,3016.92,0.1,913.4,Credit Card
+ORD00752,24-03-2025,CUST0267,Customer 0267,North,Consumer,Accessories,Webcam,4,7843.89,0.05,1893.1,UPI
+ORD00753,25-05-2025,CUST0387,Customer 0387,North,Corporate,Accessories,Backpack,9,28986.83,0.1,5992.28,Credit Card
+ORD00754,26-03-2025,CUST0144,Customer 0144,Central,Consumer,Accessories,Webcam,4,7271.78,0.15,1636.21,Net Banking
+ORD00755,19-03-2025,CUST0194,Customer 0194,Central,Corporate,Office Supplies,Desk Organizer,8,9389.56,0.05,2211.55,UPI
+ORD00756,01-01-2025,CUST0185,Customer 0185,West,Consumer,Technology,Mouse,10,102905.81,0.25,20558.05,Debit Card
+ORD00757,20-02-2025,CUST0296,Customer 0296,South,Small Business,Furniture,Desk,2,17792.51,0.05,3004.5,Credit Card
+ORD00758,22-06-2025,CUST0017,Customer 0017,East,Consumer,Furniture,Bookshelf,6,65760.1,0.1,14762.93,Credit Card
+ORD00759,24-07-2025,CUST0247,Customer 0247,Central,Consumer,Office Supplies,Notebook,6,8925.22,0.2,2929.86,Credit Card
+ORD00760,17-09-2025,CUST0097,Customer 0097,Central,Consumer,Office Supplies,Office Chair,1,2636.98,0.05,816.43,Credit Card
+ORD00761,15-10-2025,CUST0184,Customer 0184,East,Consumer,Office Supplies,Office Chair,1,1881.48,0.15,577.42,Credit Card
+ORD00762,03-02-2025,CUST0244,Customer 0244,West,Consumer,Office Supplies,Desk Organizer,6,5439.64,0.2,1392.91,Net Banking
+ORD00763,14-12-2025,CUST0142,Customer 0142,Central,Corporate,Accessories,Backpack,8,13532.61,0.1,2859.62,Credit Card
+ORD00764,05-04-2025,CUST0182,Customer 0182,North,Small Business,Accessories,USB Hub,1,2831.48,0.05,743.25,Debit Card
+ORD00765,13-03-2025,CUST0258,Customer 0258,South,Small Business,Accessories,Power Bank,8,27335.14,0.2,7964.82,Net Banking
+ORD00766,08-02-2025,CUST0250,Customer 0250,West,Corporate,Accessories,Webcam,8,15643.67,0.1,4064.71,UPI
+ORD00767,03-06-2025,CUST0211,Customer 0211,East,Small Business,Technology,Printer,3,33987.04,0,5899.79,Cash
+ORD00768,07-09-2025,CUST0297,Customer 0297,Central,Corporate,Office Supplies,Notebook,3,6352.44,0.05,1739.73,Net Banking
+ORD00769,11-06-2025,CUST0061,Customer 0061,Central,Corporate,Furniture,Conference Table,9,84601.67,0.2,16146.93,Debit Card
+ORD00770,28-04-2025,CUST0336,Customer 0336,North,Consumer,Accessories,Webcam,2,3560.37,0.15,956.77,UPI
+ORD00771,16-09-2025,CUST0279,Customer 0279,West,Consumer,Accessories,Backpack,2,7958.46,0,2259.73,Credit Card
+ORD00772,02-11-2025,CUST0236,Customer 0236,South,Corporate,Furniture,Conference Table,6,59904.39,0.1,13143.57,Credit Card
+ORD00773,25-09-2025,CUST0029,Customer 0029,East,Consumer,Accessories,Headset,2,8367.4,0.05,2112.3,Net Banking
+ORD00774,23-02-2025,CUST0243,Customer 0243,Central,Consumer,Office Supplies,Pen Set,9,21779.02,0,5600.22,Net Banking
+ORD00775,24-08-2025,CUST0263,Customer 0263,South,Small Business,Office Supplies,File Folder,2,5176.29,0,1575.73,Net Banking
+ORD00776,10-08-2025,CUST0076,Customer 0076,North,Consumer,Technology,Laptop,3,22858.68,0.25,5470.47,Net Banking
+ORD00777,08-09-2025,CUST0133,Customer 0133,West,Consumer,Office Supplies,File Folder,7,14145.84,0.05,4595.5,UPI
+ORD00778,09-11-2025,CUST0066,Customer 0066,North,Consumer,Accessories,Backpack,1,2308.34,0.05,491.65,Debit Card
+ORD00779,22-04-2025,CUST0186,Customer 0186,South,Corporate,Technology,Laptop,10,130543.25,0.1,24044.04,UPI
+ORD00780,12-09-2025,CUST0048,Customer 0048,South,Consumer,Technology,Mouse,4,39801.34,0.1,7683.02,Debit Card
+ORD00781,30-10-2025,CUST0259,Customer 0259,Central,Consumer,Technology,Printer,1,8932.72,0.2,2200.12,Credit Card
+ORD00782,26-07-2025,CUST0394,Customer 0394,South,Consumer,Accessories,Headset,4,14060.34,0.15,3514.55,Credit Card
+ORD00783,17-08-2025,CUST0110,Customer 0110,East,Consumer,Accessories,Backpack,2,7789.11,0.05,1691.57,Credit Card
+ORD00784,07-12-2025,CUST0085,Customer 0085,North,Consumer,Technology,Printer,4,46664.61,0,8525.33,Cash
+ORD00785,07-03-2025,CUST0354,Customer 0354,South,Corporate,Accessories,Webcam,6,26281.23,0.1,7047.21,UPI
+ORD00786,16-03-2025,CUST0093,Customer 0093,South,Consumer,Office Supplies,Notebook,10,15640.99,0.1,3654.06,Debit Card
+ORD00787,13-04-2025,CUST0187,Customer 0187,North,Consumer,Furniture,Conference Table,3,33091.08,0.05,7265.65,UPI
+ORD00788,11-07-2025,CUST0330,Customer 0330,East,Small Business,Furniture,Conference Table,5,44036.35,0.1,8904.05,Cash
+ORD00789,09-09-2025,CUST0318,Customer 0318,East,Consumer,Technology,Keyboard,1,15299.58,0.2,3345.09,UPI
+ORD00790,14-08-2025,CUST0008,Customer 0008,East,Consumer,Furniture,Desk,5,23043.25,0.2,3674.74,UPI
+ORD00791,21-10-2025,CUST0312,Customer 0312,North,Small Business,Technology,Monitor,10,123243.08,0,22617.36,Debit Card
+ORD00792,02-11-2025,CUST0241,Customer 0241,Central,Consumer,Technology,Monitor,8,106339.57,0.15,18107.95,Cash
+ORD00793,08-04-2025,CUST0229,Customer 0229,North,Corporate,Technology,Monitor,1,7667.56,0.1,1424.37,UPI
+ORD00794,04-12-2025,CUST0252,Customer 0252,West,Corporate,Furniture,Office Sofa,10,95146.99,0.1,15176.98,Debit Card
+ORD00795,13-10-2025,CUST0263,Customer 0263,North,Consumer,Accessories,USB Hub,10,31717.94,0.1,6742.61,Debit Card
+ORD00796,01-12-2025,CUST0071,Customer 0071,Central,Corporate,Office Supplies,Desk Organizer,5,9583.45,0.15,2807.1,UPI
+ORD00797,13-12-2025,CUST0184,Customer 0184,Central,Consumer,Furniture,Bookshelf,6,63321.06,0.1,12460.36,UPI
+ORD00798,04-11-2025,CUST0222,Customer 0222,West,Consumer,Office Supplies,File Folder,4,5545.95,0.2,1415.22,Cash
+ORD00799,06-09-2025,CUST0056,Customer 0056,East,Consumer,Furniture,Office Sofa,10,137893.03,0,22337.01,Debit Card
+ORD00800,15-06-2025,CUST0304,Customer 0304,West,Corporate,Furniture,Office Sofa,6,70049.52,0.1,10043.43,Net Banking
+ORD00801,01-12-2025,CUST0211,Customer 0211,North,Consumer,Furniture,Bookshelf,9,94123.36,0.05,14361,UPI
+ORD00802,30-01-2025,CUST0139,Customer 0139,Central,Consumer,Furniture,Bookshelf,10,92893.19,0.2,16229.93,Credit Card
+ORD00803,04-09-2025,CUST0037,Customer 0037,West,Corporate,Furniture,Office Sofa,10,94291.34,0.15,12525.07,Net Banking
+ORD00804,16-04-2025,CUST0190,Customer 0190,Central,Corporate,Furniture,Desk,1,6779.01,0.05,1110.23,Credit Card
+ORD00805,20-02-2025,CUST0379,Customer 0379,Central,Consumer,Office Supplies,Pen Set,10,18712.65,0.1,4862.8,Net Banking
+ORD00806,22-03-2025,CUST0063,Customer 0063,North,Consumer,Furniture,Cabinet,8,51715.45,0.1,7059.16,Net Banking
+ORD00807,13-05-2025,CUST0356,Customer 0356,Central,Small Business,Technology,Mouse,5,58417.4,0.15,12632.51,Cash
+ORD00808,12-10-2025,CUST0341,Customer 0341,East,Corporate,Office Supplies,Pen Set,7,5669.25,0.2,1329.49,Debit Card
+ORD00809,18-05-2025,CUST0108,Customer 0108,East,Consumer,Accessories,USB Hub,4,16156.1,0.1,3550,Credit Card
+ORD00810,03-07-2025,CUST0157,Customer 0157,North,Consumer,Technology,Printer,9,163114.36,0.05,31536.47,Credit Card
+ORD00811,26-11-2025,CUST0348,Customer 0348,West,Consumer,Office Supplies,Pen Set,1,2103.02,0,516.57,Credit Card
+ORD00812,30-09-2025,CUST0099,Customer 0099,South,Consumer,Office Supplies,Pen Set,10,13403.02,0.1,3297.95,Credit Card
+ORD00813,06-12-2025,CUST0343,Customer 0343,West,Small Business,Office Supplies,Office Chair,6,14828.13,0.1,4292.81,UPI
+ORD00814,10-03-2025,CUST0083,Customer 0083,North,Corporate,Furniture,Conference Table,4,38978.73,0.1,8413.07,Cash
+ORD00815,03-02-2025,CUST0375,Customer 0375,South,Corporate,Office Supplies,Pen Set,7,13935.59,0.2,3795.96,UPI
+ORD00816,19-09-2025,CUST0385,Customer 0385,West,Consumer,Technology,Keyboard,3,39987.1,0.05,6989.58,Net Banking
+ORD00817,22-02-2025,CUST0131,Customer 0131,West,Consumer,Office Supplies,Notebook,10,9602.09,0.05,2505.44,UPI
+ORD00818,24-07-2025,CUST0205,Customer 0205,East,Consumer,Accessories,Backpack,5,7859.76,0.2,2327.67,UPI
+ORD00819,06-05-2025,CUST0212,Customer 0212,East,Consumer,Office Supplies,Office Chair,5,4884.67,0.1,1250.51,Debit Card
+ORD00820,23-08-2025,CUST0080,Customer 0080,North,Consumer,Technology,Laptop,3,33315.99,0.2,6135.51,Debit Card
+ORD00821,12-02-2025,CUST0144,Customer 0144,Central,Consumer,Office Supplies,Notebook,8,9450.81,0.2,3114.61,UPI
+ORD00822,28-08-2025,CUST0175,Customer 0175,North,Consumer,Office Supplies,Office Chair,2,2180.7,0,699.53,Debit Card
+ORD00823,21-04-2025,CUST0303,Customer 0303,Central,Consumer,Furniture,Desk,9,74604.08,0.1,9963.99,UPI
+ORD00824,06-09-2025,CUST0378,Customer 0378,West,Consumer,Furniture,Desk,8,88075.89,0.2,19090.25,UPI
+ORD00825,31-05-2025,CUST0161,Customer 0161,North,Consumer,Office Supplies,Desk Organizer,3,4736.04,0.1,1222.2,Cash
+ORD00826,02-07-2025,CUST0262,Customer 0262,Central,Consumer,Technology,Keyboard,6,102023.57,0.2,26363.66,Credit Card
+ORD00827,02-12-2025,CUST0236,Customer 0236,North,Consumer,Accessories,Power Bank,5,21215.51,0.1,6038.35,Credit Card
+ORD00828,05-04-2025,CUST0037,Customer 0037,South,Consumer,Office Supplies,Desk Organizer,10,9274.57,0.1,2857.83,Debit Card
+ORD00829,08-01-2025,CUST0043,Customer 0043,North,Corporate,Furniture,Office Sofa,10,78869.07,0.05,17253.11,Credit Card
+ORD00830,26-12-2025,CUST0197,Customer 0197,East,Consumer,Accessories,Headset,8,21843.18,0.1,6122.74,Credit Card
+ORD00831,03-07-2025,CUST0240,Customer 0240,Central,Small Business,Office Supplies,File Folder,1,1560.38,0.1,464.92,UPI
+ORD00832,08-10-2025,CUST0093,Customer 0093,West,Corporate,Furniture,Conference Table,9,82500.39,0.2,14728.64,Credit Card
+ORD00833,14-07-2025,CUST0133,Customer 0133,North,Consumer,Accessories,Power Bank,9,25657.23,0.05,5820.55,Net Banking
+ORD00834,18-12-2025,CUST0245,Customer 0245,Central,Consumer,Technology,Keyboard,9,73201.7,0.05,18069.26,Net Banking
+ORD00835,14-07-2025,CUST0063,Customer 0063,South,Consumer,Technology,Laptop,9,152811.32,0.1,30710.21,UPI
+ORD00836,04-06-2025,CUST0301,Customer 0301,Central,Consumer,Furniture,Office Sofa,1,7675.93,0.1,1500.94,Credit Card
+ORD00837,03-04-2025,CUST0328,Customer 0328,East,Consumer,Furniture,Bookshelf,9,84314.65,0.05,14077.54,Credit Card
+ORD00838,09-06-2025,CUST0314,Customer 0314,West,Small Business,Office Supplies,Pen Set,10,11658.73,0,2869.33,Cash
+ORD00839,02-03-2025,CUST0259,Customer 0259,West,Corporate,Technology,Laptop,2,34014.02,0.1,6665.42,Credit Card
+ORD00840,02-05-2025,CUST0278,Customer 0278,Central,Small Business,Office Supplies,Pen Set,3,5870.78,0.2,1618.59,Debit Card
+ORD00841,20-02-2025,CUST0280,Customer 0280,Central,Consumer,Furniture,Conference Table,4,27874.19,0.1,4875.61,Credit Card
+ORD00842,04-10-2025,CUST0250,Customer 0250,East,Consumer,Technology,Mouse,3,57105.52,0.1,10348.08,Credit Card
+ORD00843,05-01-2025,CUST0375,Customer 0375,South,Consumer,Office Supplies,File Folder,2,3187.26,0.1,744.42,Credit Card
+ORD00844,02-04-2025,CUST0166,Customer 0166,South,Consumer,Office Supplies,Pen Set,3,7680.49,0.05,2148.73,UPI
+ORD00845,19-06-2025,CUST0019,Customer 0019,West,Corporate,Technology,Monitor,3,29141.05,0,7309.03,UPI
+ORD00846,13-11-2025,CUST0028,Customer 0028,Central,Consumer,Furniture,Bookshelf,7,44172.81,0.1,8650.29,UPI
+ORD00847,22-01-2025,CUST0342,Customer 0342,East,Corporate,Technology,Monitor,7,100501.32,0.1,22847.99,Cash
+ORD00848,22-11-2025,CUST0214,Customer 0214,Central,Corporate,Accessories,Backpack,6,10082.44,0.15,2829.1,UPI
+ORD00849,01-01-2025,CUST0227,Customer 0227,North,Small Business,Furniture,Office Sofa,5,55125.31,0.2,10929.85,Debit Card
+ORD00850,13-05-2025,CUST0172,Customer 0172,North,Corporate,Furniture,Cabinet,1,6538.57,0.1,1035.78,UPI
+ORD00851,21-08-2025,CUST0328,Customer 0328,West,Consumer,Furniture,Cabinet,2,11969.67,0,2263.17,Debit Card
+ORD00852,12-01-2025,CUST0061,Customer 0061,North,Consumer,Office Supplies,Pen Set,4,8493.09,0.1,2744.6,Debit Card
+ORD00853,12-12-2025,CUST0334,Customer 0334,South,Corporate,Furniture,Desk,3,20019.69,0.1,3022.76,Credit Card
+ORD00854,15-02-2025,CUST0158,Customer 0158,North,Consumer,Technology,Printer,4,32004.79,0.2,7975.47,UPI
+ORD00855,03-02-2025,CUST0047,Customer 0047,East,Consumer,Office Supplies,Notebook,6,5706.15,0.1,1714.58,Credit Card
+ORD00856,19-03-2025,CUST0362,Customer 0362,West,Corporate,Technology,Mouse,10,89907.93,0.1,19350.66,UPI
+ORD00857,06-08-2025,CUST0227,Customer 0227,Central,Corporate,Technology,Printer,1,12604.75,0.15,2592.02,Credit Card
+ORD00858,28-10-2025,CUST0111,Customer 0111,South,Consumer,Technology,Mouse,3,39413.09,0.1,7279.24,Debit Card
+ORD00859,14-03-2025,CUST0014,Customer 0014,South,Corporate,Furniture,Cabinet,7,50643.84,0.2,8337.32,Debit Card
+ORD00860,09-10-2025,CUST0367,Customer 0367,East,Consumer,Furniture,Office Sofa,7,31614.45,0.25,4511.96,UPI
+ORD00861,06-09-2025,CUST0336,Customer 0336,Central,Corporate,Accessories,USB Hub,6,22716.31,0.15,4683.1,Debit Card
+ORD00862,16-02-2025,CUST0383,Customer 0383,Central,Corporate,Technology,Monitor,5,80222.24,0.15,16464.03,UPI
+ORD00863,01-05-2025,CUST0025,Customer 0025,West,Consumer,Office Supplies,Desk Organizer,2,2382.73,0.1,784.45,Debit Card
+ORD00864,02-08-2025,CUST0342,Customer 0342,North,Consumer,Technology,Laptop,9,166728.89,0.1,44926.08,Credit Card
+ORD00865,27-08-2025,CUST0094,Customer 0094,South,Consumer,Furniture,Desk,10,113938.96,0.15,14957.41,Debit Card
+ORD00866,25-02-2025,CUST0028,Customer 0028,South,Corporate,Office Supplies,Office Chair,3,6496.4,0.05,1558.12,Cash
+ORD00867,16-12-2025,CUST0315,Customer 0315,Central,Corporate,Office Supplies,Office Chair,1,2135.84,0.2,686.49,Credit Card
+ORD00868,17-04-2025,CUST0217,Customer 0217,West,Consumer,Office Supplies,File Folder,2,2086.99,0.2,542.24,Debit Card
+ORD00869,15-11-2025,CUST0087,Customer 0087,West,Consumer,Office Supplies,Notebook,9,10324.49,0.1,2395.81,Credit Card
+ORD00870,17-02-2025,CUST0136,Customer 0136,South,Consumer,Office Supplies,Desk Organizer,2,3923.81,0.15,1244.81,UPI
+ORD00871,02-03-2025,CUST0217,Customer 0217,West,Small Business,Technology,Laptop,1,17989.76,0,4609.16,Net Banking
+ORD00872,03-12-2025,CUST0166,Customer 0166,South,Corporate,Furniture,Desk,7,60777.85,0.2,10070.28,UPI
+ORD00873,26-01-2025,CUST0390,Customer 0390,South,Corporate,Office Supplies,Pen Set,4,3674.91,0.2,988.28,Credit Card
+ORD00874,19-10-2025,CUST0313,Customer 0313,Central,Small Business,Office Supplies,File Folder,7,7712.42,0.2,2535.13,Debit Card
+ORD00875,14-09-2025,CUST0343,Customer 0343,Central,Consumer,Technology,Printer,4,27446.28,0.15,5253.92,Credit Card
+ORD00876,08-01-2025,CUST0201,Customer 0201,Central,Corporate,Furniture,Conference Table,9,90641.01,0.2,16601.81,UPI
+ORD00877,23-04-2025,CUST0068,Customer 0068,North,Corporate,Office Supplies,Notebook,6,6120.15,0.1,1746.89,Credit Card
+ORD00878,21-12-2025,CUST0173,Customer 0173,North,Corporate,Furniture,Cabinet,8,76708.97,0.15,10059.54,Debit Card
+ORD00879,10-09-2025,CUST0096,Customer 0096,North,Corporate,Office Supplies,File Folder,3,4115.19,0.05,1086.57,Credit Card
+ORD00880,29-06-2025,CUST0341,Customer 0341,Central,Corporate,Technology,Mouse,4,66391.1,0.2,14774.41,Debit Card
+ORD00881,26-07-2025,CUST0070,Customer 0070,North,Consumer,Office Supplies,Pen Set,9,16449.59,0.1,4736.72,UPI
+ORD00882,30-10-2025,CUST0083,Customer 0083,Central,Consumer,Office Supplies,Notebook,6,5648.61,0.2,1321.14,Debit Card
+ORD00883,07-05-2025,CUST0087,Customer 0087,East,Consumer,Technology,Keyboard,10,179244.33,0.1,44953.86,Credit Card
+ORD00884,25-02-2025,CUST0026,Customer 0026,East,Consumer,Technology,Monitor,9,64835.18,0.1,13562.04,Debit Card
+ORD00885,02-08-2025,CUST0010,Customer 0010,Central,Small Business,Furniture,Cabinet,6,50008.82,0.1,9820.72,Credit Card
+ORD00886,14-01-2025,CUST0356,Customer 0356,South,Small Business,Office Supplies,File Folder,7,6668.87,0.2,2198.84,UPI
+ORD00887,28-01-2025,CUST0295,Customer 0295,West,Small Business,Office Supplies,Office Chair,8,13876.06,0.05,3892.27,UPI
+ORD00888,19-03-2025,CUST0209,Customer 0209,Central,Corporate,Technology,Monitor,6,81319.99,0.2,19666.81,Credit Card
+ORD00889,04-08-2025,CUST0377,Customer 0377,Central,Corporate,Technology,Laptop,2,32703.13,0.1,7958.71,Debit Card
+ORD00890,31-12-2025,CUST0352,Customer 0352,West,Consumer,Accessories,Headset,2,3547.29,0.15,1019.43,UPI
+ORD00891,03-06-2025,CUST0251,Customer 0251,West,Corporate,Office Supplies,Notebook,2,3446.8,0.15,904.55,Debit Card
+ORD00892,14-01-2025,CUST0152,Customer 0152,North,Consumer,Technology,Monitor,6,55167.16,0.15,14582.33,Credit Card
+ORD00893,06-07-2025,CUST0112,Customer 0112,West,Consumer,Office Supplies,Office Chair,3,5479.97,0.15,1397.71,Credit Card
+ORD00894,08-11-2025,CUST0160,Customer 0160,Central,Consumer,Office Supplies,Desk Organizer,10,17365.39,0.15,5624.84,UPI
+ORD00895,07-01-2025,CUST0308,Customer 0308,West,Consumer,Office Supplies,File Folder,1,2180.38,0.1,674.46,Credit Card
+ORD00896,03-01-2025,CUST0250,Customer 0250,South,Corporate,Accessories,USB Hub,2,3918.26,0.15,948.17,Credit Card
+ORD00897,21-04-2025,CUST0322,Customer 0322,South,Corporate,Technology,Monitor,2,17256.6,0.1,3225.44,UPI
+ORD00898,26-08-2025,CUST0217,Customer 0217,Central,Corporate,Accessories,Power Bank,2,7936.86,0.15,2197.85,Credit Card
+ORD00899,29-12-2025,CUST0042,Customer 0042,East,Small Business,Accessories,Power Bank,8,19965.83,0.05,4534.06,Net Banking
+ORD00900,27-08-2025,CUST0273,Customer 0273,East,Consumer,Technology,Keyboard,5,46520.65,0.15,10528.21,UPI
+ORD00901,01-10-2025,CUST0118,Customer 0118,South,Consumer,Office Supplies,Notebook,9,17500.2,0.15,4025.14,Cash
+ORD00902,21-10-2025,CUST0228,Customer 0228,South,Corporate,Accessories,Headset,9,39951.91,0,10941.94,Cash
+ORD00903,15-08-2025,CUST0074,Customer 0074,West,Small Business,Furniture,Desk,8,62401.37,0.2,8586.96,Credit Card
+ORD00904,15-01-2025,CUST0227,Customer 0227,Central,Corporate,Furniture,Conference Table,10,141739.19,0,24129.26,UPI
+ORD00905,11-07-2025,CUST0339,Customer 0339,Central,Consumer,Office Supplies,Office Chair,10,18456.13,0.1,4736.54,Net Banking
+ORD00906,29-04-2025,CUST0011,Customer 0011,West,Small Business,Accessories,Headset,9,19305.8,0,5323.5,UPI
+ORD00907,28-01-2025,CUST0134,Customer 0134,West,Corporate,Technology,Keyboard,5,67513.67,0,17155.53,Credit Card
+ORD00908,21-07-2025,CUST0159,Customer 0159,Central,Consumer,Technology,Monitor,5,60725.59,0.2,12763.55,Debit Card
+ORD00909,08-02-2025,CUST0030,Customer 0030,West,Consumer,Accessories,Power Bank,6,11735.02,0.15,2499.22,Credit Card
+ORD00910,30-09-2025,CUST0266,Customer 0266,North,Corporate,Office Supplies,Office Chair,3,4342.24,0.05,1062.12,UPI
+ORD00911,19-08-2025,CUST0391,Customer 0391,Central,Corporate,Office Supplies,Desk Organizer,8,12122.74,0.05,3444.3,UPI
+ORD00912,27-03-2025,CUST0038,Customer 0038,North,Corporate,Technology,Printer,10,165519.94,0.15,38223.58,Credit Card
+ORD00913,06-05-2025,CUST0237,Customer 0237,South,Small Business,Furniture,Bookshelf,1,8474.56,0.2,1866.31,Net Banking
+ORD00914,27-10-2025,CUST0036,Customer 0036,Central,Corporate,Accessories,Headset,8,14934.54,0.05,4130.3,Credit Card
+ORD00915,25-01-2025,CUST0068,Customer 0068,East,Consumer,Accessories,Webcam,1,2496.54,0.15,524.26,Net Banking
+ORD00916,25-05-2025,CUST0027,Customer 0027,East,Consumer,Office Supplies,Office Chair,6,8495.87,0.25,2346.87,UPI
+ORD00917,13-01-2025,CUST0263,Customer 0263,North,Consumer,Accessories,Webcam,9,22498.49,0.15,4891.59,Debit Card
+ORD00918,31-07-2025,CUST0132,Customer 0132,East,Corporate,Furniture,Conference Table,9,78651.88,0.1,12200.15,Debit Card
+ORD00919,25-01-2025,CUST0181,Customer 0181,East,Consumer,Accessories,Backpack,10,19927.27,0.2,4574.51,Debit Card
+ORD00920,09-03-2025,CUST0364,Customer 0364,South,Consumer,Office Supplies,Office Chair,1,1329.52,0,378.47,Debit Card
+ORD00921,08-03-2025,CUST0367,Customer 0367,Central,Corporate,Technology,Mouse,10,134632.62,0.15,25469.44,UPI
+ORD00922,21-08-2025,CUST0396,Customer 0396,East,Corporate,Accessories,USB Hub,2,3883.01,0,845.82,Cash
+ORD00923,19-04-2025,CUST0071,Customer 0071,East,Small Business,Furniture,Bookshelf,10,84467.43,0,15880.2,Debit Card
+ORD00924,26-05-2025,CUST0126,Customer 0126,North,Consumer,Technology,Laptop,4,58146.76,0,13879.21,UPI
+ORD00925,21-04-2025,CUST0138,Customer 0138,North,Consumer,Office Supplies,Notebook,5,4622.67,0.15,1103.37,Debit Card
+ORD00926,16-08-2025,CUST0135,Customer 0135,Central,Consumer,Technology,Laptop,3,52673.24,0.05,13348.06,UPI
+ORD00927,21-04-2025,CUST0383,Customer 0383,Central,Consumer,Technology,Monitor,9,158864.15,0.05,40418.37,Credit Card
+ORD00928,03-02-2025,CUST0057,Customer 0057,North,Corporate,Accessories,USB Hub,6,23266.36,0.05,4655.38,Debit Card
+ORD00929,21-04-2025,CUST0191,Customer 0191,West,Consumer,Technology,Monitor,9,133182.12,0.05,24650.89,Net Banking
+ORD00930,21-09-2025,CUST0120,Customer 0120,West,Small Business,Accessories,Webcam,10,23812.99,0.2,6341.75,Credit Card
+ORD00931,24-08-2025,CUST0036,Customer 0036,West,Corporate,Furniture,Office Sofa,10,97126.73,0.25,21618.36,Cash
+ORD00932,24-03-2025,CUST0072,Customer 0072,North,Consumer,Office Supplies,Desk Organizer,7,9272.67,0.15,2731.28,Credit Card
+ORD00933,11-02-2025,CUST0301,Customer 0301,East,Corporate,Technology,Monitor,8,79542,0,19511.51,UPI
+ORD00934,11-04-2025,CUST0016,Customer 0016,West,Consumer,Technology,Mouse,4,29907.22,0.1,5620.1,Debit Card
+ORD00935,06-01-2025,CUST0107,Customer 0107,Central,Small Business,Office Supplies,Pen Set,8,13055.97,0.15,3729.89,Cash
+ORD00936,29-06-2025,CUST0065,Customer 0065,Central,Consumer,Office Supplies,Pen Set,2,3819.54,0.15,950.69,Credit Card
+ORD00937,09-10-2025,CUST0116,Customer 0116,West,Consumer,Furniture,Desk,7,87322.88,0.05,14525.05,Credit Card
+ORD00938,16-11-2025,CUST0357,Customer 0357,South,Consumer,Accessories,USB Hub,7,32216.72,0.05,7175.89,UPI
+ORD00939,14-08-2025,CUST0329,Customer 0329,North,Corporate,Technology,Keyboard,7,60889.65,0,11632.28,UPI
+ORD00940,11-11-2025,CUST0188,Customer 0188,South,Consumer,Furniture,Bookshelf,10,130805.84,0,26212.73,Credit Card
+ORD00941,31-12-2025,CUST0005,Customer 0005,South,Corporate,Office Supplies,Pen Set,4,6455.1,0.15,1863.47,Net Banking
+ORD00942,17-08-2025,CUST0149,Customer 0149,East,Corporate,Technology,Mouse,10,131133.25,0.2,28799.17,Net Banking
+ORD00943,16-10-2025,CUST0055,Customer 0055,West,Consumer,Office Supplies,Office Chair,6,8144.84,0.15,2478.33,UPI
+ORD00944,30-05-2025,CUST0134,Customer 0134,East,Consumer,Technology,Printer,5,44315.31,0.1,7837.17,Credit Card
+ORD00945,04-10-2025,CUST0074,Customer 0074,South,Consumer,Office Supplies,Desk Organizer,1,2150.94,0.05,691.48,UPI
+ORD00946,17-07-2025,CUST0141,Customer 0141,West,Small Business,Technology,Keyboard,7,124562.3,0.05,27281.91,Credit Card
+ORD00947,11-03-2025,CUST0051,Customer 0051,South,Consumer,Accessories,Headset,8,30393.02,0.05,8824.33,UPI
+ORD00948,22-04-2025,CUST0357,Customer 0357,South,Corporate,Accessories,Backpack,9,38139.56,0.1,8691.07,Credit Card
+ORD00949,04-01-2025,CUST0387,Customer 0387,East,Corporate,Accessories,Power Bank,6,11283,0.25,3335.9,Net Banking
+ORD00950,16-12-2025,CUST0331,Customer 0331,South,Small Business,Furniture,Bookshelf,3,30798.46,0.2,5860.96,Net Banking
+ORD00951,27-11-2025,CUST0296,Customer 0296,West,Consumer,Furniture,Desk,7,52364.06,0.15,10904.27,Credit Card
+ORD00952,14-11-2025,CUST0279,Customer 0279,West,Consumer,Furniture,Office Sofa,10,94932.07,0.2,15885.73,Cash
+ORD00953,16-12-2025,CUST0322,Customer 0322,North,Consumer,Accessories,Webcam,10,40907.4,0.1,10636.96,UPI
+ORD00954,05-04-2025,CUST0091,Customer 0091,Central,Corporate,Technology,Mouse,3,35889.87,0.15,7493.63,UPI
+ORD00955,01-06-2025,CUST0175,Customer 0175,East,Consumer,Office Supplies,Pen Set,7,11640.39,0.1,3517.32,UPI
+ORD00956,07-11-2025,CUST0013,Customer 0013,South,Small Business,Accessories,Headset,2,5853.03,0.05,1176.5,UPI
+ORD00957,17-05-2025,CUST0397,Customer 0397,Central,Consumer,Technology,Keyboard,10,146568.42,0.05,35814.03,Credit Card
+ORD00958,04-09-2025,CUST0391,Customer 0391,West,Consumer,Accessories,Backpack,8,31105.25,0.1,6757.96,UPI
+ORD00959,31-08-2025,CUST0152,Customer 0152,South,Corporate,Office Supplies,Pen Set,6,14463.17,0.05,3654.02,Credit Card
+ORD00960,31-01-2025,CUST0307,Customer 0307,West,Consumer,Office Supplies,Desk Organizer,9,17466.7,0.15,4824.88,Debit Card
+ORD00961,09-02-2025,CUST0378,Customer 0378,North,Consumer,Furniture,Office Sofa,10,66438.89,0.05,9556.43,Debit Card
+ORD00962,17-08-2025,CUST0390,Customer 0390,East,Consumer,Office Supplies,Desk Organizer,5,9492.9,0.1,2912.62,Credit Card
+ORD00963,05-02-2025,CUST0245,Customer 0245,South,Consumer,Office Supplies,Notebook,6,11202.53,0.15,3619.56,Net Banking
+ORD00964,11-08-2025,CUST0227,Customer 0227,East,Corporate,Furniture,Bookshelf,4,55423.25,0.05,7646.5,UPI
+ORD00965,06-01-2025,CUST0201,Customer 0201,North,Consumer,Furniture,Office Sofa,7,79665.79,0.2,12065.83,Debit Card
+ORD00966,18-11-2025,CUST0355,Customer 0355,North,Consumer,Furniture,Cabinet,2,12408.21,0.1,2598.08,Credit Card
+ORD00967,08-08-2025,CUST0245,Customer 0245,West,Consumer,Office Supplies,File Folder,1,2620.78,0,715.91,UPI
+ORD00968,16-03-2025,CUST0373,Customer 0373,North,Consumer,Technology,Laptop,1,7482.94,0.15,1709.53,UPI
+ORD00969,04-01-2025,CUST0166,Customer 0166,West,Small Business,Office Supplies,File Folder,9,13503.81,0.05,3425.82,Net Banking
+ORD00970,01-12-2025,CUST0217,Customer 0217,South,Corporate,Accessories,USB Hub,3,10516.65,0.15,3140.67,Credit Card
+ORD00971,14-05-2025,CUST0072,Customer 0072,South,Consumer,Technology,Monitor,5,74184.33,0.15,16026.68,Credit Card
+ORD00972,28-04-2025,CUST0330,Customer 0330,East,Small Business,Office Supplies,Desk Organizer,4,8764.86,0.15,2364.76,Credit Card
+ORD00973,04-04-2025,CUST0193,Customer 0193,Central,Corporate,Technology,Mouse,4,25309.76,0.2,4922.63,Debit Card
+ORD00974,03-03-2025,CUST0079,Customer 0079,West,Small Business,Accessories,Webcam,10,40327.79,0,9706.13,Net Banking
+ORD00975,13-07-2025,CUST0185,Customer 0185,North,Consumer,Office Supplies,Office Chair,6,9892.03,0.15,3104.62,Cash
+ORD00976,01-12-2025,CUST0127,Customer 0127,Central,Consumer,Accessories,USB Hub,5,12464.31,0.15,3322.37,Cash
+ORD00977,22-07-2025,CUST0142,Customer 0142,Central,Consumer,Furniture,Office Sofa,8,95191.94,0.05,19154.41,Debit Card
+ORD00978,26-01-2025,CUST0215,Customer 0215,South,Consumer,Technology,Mouse,1,15284.42,0.15,3855.15,Debit Card
+ORD00979,22-06-2025,CUST0080,Customer 0080,West,Consumer,Accessories,Webcam,7,15620.39,0.05,4244.14,UPI
+ORD00980,27-10-2025,CUST0080,Customer 0080,Central,Corporate,Accessories,Headset,10,34147.61,0.05,9773.76,Debit Card
+ORD00981,13-05-2025,CUST0076,Customer 0076,North,Corporate,Office Supplies,Office Chair,6,13076.5,0.2,3832.1,Debit Card
+ORD00982,22-11-2025,CUST0166,Customer 0166,North,Corporate,Office Supplies,Notebook,10,25452.81,0.05,6393.82,UPI
+ORD00983,28-04-2025,CUST0113,Customer 0113,Central,Corporate,Office Supplies,Desk Organizer,9,17526.95,0,4811.18,Cash
+ORD00984,20-11-2025,CUST0108,Customer 0108,South,Corporate,Accessories,Headset,7,30293.74,0.1,8442.65,Debit Card
+ORD00985,02-10-2025,CUST0078,Customer 0078,Central,Small Business,Technology,Printer,8,155346.48,0,27828.05,Credit Card
+ORD00986,31-07-2025,CUST0284,Customer 0284,North,Consumer,Technology,Monitor,10,136113.17,0.1,33989.57,Credit Card
+ORD00987,13-08-2025,CUST0297,Customer 0297,Central,Consumer,Office Supplies,Pen Set,2,3631.03,0.1,1034.84,Credit Card
+ORD00988,20-01-2025,CUST0370,Customer 0370,Central,Consumer,Office Supplies,Desk Organizer,5,6783.96,0.15,2124.46,Cash
+ORD00989,23-04-2025,CUST0354,Customer 0354,Central,Consumer,Furniture,Cabinet,6,72704.64,0.15,12024.66,Debit Card
+ORD00990,20-05-2025,CUST0147,Customer 0147,East,Corporate,Office Supplies,Notebook,7,11344.35,0.1,3143.64,Net Banking
+ORD00991,16-02-2025,CUST0014,Customer 0014,South,Small Business,Technology,Laptop,9,113414.31,0.05,23518.05,Credit Card
+ORD00992,01-01-2025,CUST0123,Customer 0123,North,Small Business,Technology,Keyboard,6,85242.17,0.15,20965.2,Net Banking
+ORD00993,31-03-2025,CUST0267,Customer 0267,Central,Corporate,Furniture,Conference Table,5,61210.77,0.15,12543.53,Cash
+ORD00994,22-05-2025,CUST0251,Customer 0251,North,Consumer,Furniture,Bookshelf,7,71348.56,0.05,11203.5,Credit Card
+ORD00995,16-11-2025,CUST0109,Customer 0109,South,Small Business,Accessories,USB Hub,3,13166.08,0.05,3374.09,UPI
+ORD00996,07-02-2025,CUST0321,Customer 0321,South,Consumer,Accessories,Headset,8,26093.82,0,6178.46,UPI
+ORD00997,20-10-2025,CUST0336,Customer 0336,East,Small Business,Furniture,Desk,5,43424.18,0.1,6239.7,Credit Card
+ORD00998,19-05-2025,CUST0389,Customer 0389,West,Consumer,Technology,Monitor,7,105500.47,0.05,19497.9,Debit Card
+ORD00999,22-12-2025,CUST0020,Customer 0020,East,Consumer,Furniture,Office Sofa,5,35253.2,0,5770.96,UPI
+ORD01000,29-11-2025,CUST0283,Customer 0283,North,Corporate,Office Supplies,Pen Set,2,3483.61,0.15,1029.68,Credit Card
+ORD01001,16-09-2025,CUST0274,Customer 0274,North,Consumer,Technology,Laptop,8,86938.82,0.1,19011.84,Cash
+ORD01002,10-06-2025,CUST0273,Customer 0273,West,Consumer,Accessories,USB Hub,1,2943.71,0.15,732.62,Credit Card
+ORD01003,27-06-2025,CUST0342,Customer 0342,North,Consumer,Technology,Mouse,3,34697.76,0.05,6810.76,UPI
+ORD01004,10-01-2025,CUST0121,Customer 0121,North,Consumer,Furniture,Conference Table,2,19714.53,0.2,4451.78,UPI
+ORD01005,18-09-2025,CUST0383,Customer 0383,South,Small Business,Accessories,Webcam,8,25040.1,0.15,7495.76,UPI
+ORD01006,18-05-2025,CUST0041,Customer 0041,West,Consumer,Furniture,Cabinet,9,48636.19,0.15,9081.17,Debit Card
+ORD01007,21-06-2025,CUST0172,Customer 0172,West,Consumer,Technology,Printer,2,23951.87,0.2,5009.24,Net Banking
+ORD01008,13-01-2025,CUST0216,Customer 0216,Central,Corporate,Technology,Mouse,6,52536.31,0.2,13312.26,Debit Card
+ORD01009,17-06-2025,CUST0083,Customer 0083,East,Consumer,Furniture,Cabinet,8,46211.91,0.1,7599.83,Credit Card
+ORD01010,10-05-2025,CUST0256,Customer 0256,North,Consumer,Office Supplies,Pen Set,6,8418.78,0.2,2392.73,Debit Card
+ORD01011,25-03-2025,CUST0115,Customer 0115,South,Consumer,Office Supplies,Pen Set,1,1416.72,0.15,395.94,Net Banking
+ORD01012,17-11-2025,CUST0361,Customer 0361,Central,Consumer,Accessories,Backpack,1,1455.54,0.2,324.13,Cash
+ORD01013,15-11-2025,CUST0155,Customer 0155,East,Consumer,Furniture,Office Sofa,2,19336.38,0.05,3104.32,Credit Card
+ORD01014,11-04-2025,CUST0072,Customer 0072,Central,Corporate,Technology,Laptop,5,59092.68,0.2,14069.55,Net Banking
+ORD01015,25-11-2025,CUST0294,Customer 0294,West,Consumer,Accessories,Power Bank,1,3816.36,0.05,871.25,UPI
+ORD01016,30-09-2025,CUST0285,Customer 0285,North,Consumer,Accessories,Power Bank,2,4521.93,0.05,1136.18,Credit Card
+ORD01017,22-09-2025,CUST0227,Customer 0227,Central,Corporate,Accessories,Webcam,3,7750.49,0.1,1563.21,Credit Card
+ORD01018,07-02-2025,CUST0107,Customer 0107,North,Consumer,Technology,Mouse,9,76048.94,0.15,20412.79,UPI
+ORD01019,04-04-2025,CUST0280,Customer 0280,South,Consumer,Furniture,Desk,2,28219.14,0,5327.45,Credit Card
+ORD01020,05-04-2025,CUST0081,Customer 0081,North,Corporate,Accessories,Webcam,1,4723.87,0,1395.6,Cash
+ORD01021,01-11-2025,CUST0094,Customer 0094,South,Consumer,Technology,Mouse,3,64229,0,16842.33,Credit Card
+ORD01022,10-03-2025,CUST0001,Customer 0001,South,Corporate,Furniture,Bookshelf,10,70279.56,0.2,14962.03,UPI
+ORD01023,14-11-2025,CUST0262,Customer 0262,East,Consumer,Technology,Printer,6,102324.73,0.15,21017.7,Net Banking
+ORD01024,24-08-2025,CUST0028,Customer 0028,East,Consumer,Furniture,Desk,8,56721.75,0.1,7814.17,Debit Card
+ORD01025,30-11-2025,CUST0351,Customer 0351,South,Small Business,Technology,Keyboard,2,17456.46,0.25,3061.07,Debit Card
+ORD01026,17-05-2025,CUST0108,Customer 0108,North,Consumer,Office Supplies,Pen Set,7,9805.41,0.2,2504.1,Credit Card
+ORD01027,17-03-2025,CUST0359,Customer 0359,North,Consumer,Furniture,Cabinet,9,71228.28,0.2,14331.58,Debit Card
+ORD01028,04-02-2025,CUST0339,Customer 0339,North,Consumer,Technology,Monitor,2,36849,0.15,7321.21,Credit Card
+ORD01029,01-01-2025,CUST0094,Customer 0094,West,Consumer,Furniture,Desk,1,8418.4,0.1,1875.13,Credit Card
+ORD01030,23-10-2025,CUST0193,Customer 0193,East,Corporate,Office Supplies,File Folder,8,13223.7,0.1,3864.79,Debit Card
+ORD01031,16-11-2025,CUST0263,Customer 0263,East,Small Business,Furniture,Cabinet,7,79447.62,0.1,12952.99,Credit Card
+ORD01032,01-03-2025,CUST0294,Customer 0294,Central,Corporate,Office Supplies,File Folder,1,1889.43,0.05,459.36,Debit Card
+ORD01033,16-11-2025,CUST0157,Customer 0157,East,Consumer,Furniture,Bookshelf,2,21618.1,0.15,3359.92,Net Banking
+ORD01034,15-12-2025,CUST0368,Customer 0368,Central,Consumer,Accessories,Webcam,5,18154.55,0.2,5240.09,Credit Card
+ORD01035,24-11-2025,CUST0226,Customer 0226,North,Corporate,Furniture,Cabinet,9,92163.71,0.1,16514,UPI
+ORD01036,24-09-2025,CUST0241,Customer 0241,South,Small Business,Technology,Keyboard,7,109548.41,0,20559.57,Net Banking
+ORD01037,27-12-2025,CUST0109,Customer 0109,West,Consumer,Office Supplies,Desk Organizer,8,9100.97,0.15,2441.6,UPI
+ORD01038,17-08-2025,CUST0359,Customer 0359,West,Consumer,Furniture,Conference Table,10,70848.17,0.15,15164.69,Credit Card
+ORD01039,27-09-2025,CUST0260,Customer 0260,West,Corporate,Accessories,USB Hub,9,26359.64,0.25,7011.57,Debit Card
+ORD01040,12-11-2025,CUST0292,Customer 0292,South,Consumer,Office Supplies,Pen Set,6,11405.82,0.1,2799.01,UPI
+ORD01041,13-10-2025,CUST0120,Customer 0120,North,Small Business,Technology,Laptop,6,80570.83,0.25,20424.46,Cash
+ORD01042,18-10-2025,CUST0333,Customer 0333,North,Consumer,Accessories,USB Hub,9,25262.44,0.1,5104.26,UPI
+ORD01043,01-08-2025,CUST0111,Customer 0111,East,Consumer,Office Supplies,Office Chair,2,3017.29,0.15,947.6,Debit Card
+ORD01044,14-06-2025,CUST0346,Customer 0346,West,Consumer,Technology,Keyboard,3,39208.03,0.1,7651.5,Debit Card
+ORD01045,05-01-2025,CUST0069,Customer 0069,East,Consumer,Furniture,Conference Table,8,34045.55,0.2,6562.69,Credit Card
+ORD01046,05-12-2025,CUST0369,Customer 0369,Central,Consumer,Technology,Mouse,3,46370.43,0.05,10334.25,Debit Card
+ORD01047,19-03-2025,CUST0113,Customer 0113,North,Consumer,Technology,Keyboard,9,92963.84,0.15,19817.41,Credit Card
+ORD01048,03-03-2025,CUST0026,Customer 0026,Central,Consumer,Office Supplies,Notebook,9,19395.18,0.1,5085.99,Debit Card
+ORD01049,12-05-2025,CUST0282,Customer 0282,East,Small Business,Accessories,Power Bank,6,11666.55,0.05,3297.72,Net Banking
+ORD01050,30-03-2025,CUST0030,Customer 0030,Central,Consumer,Office Supplies,Office Chair,6,13641.83,0.1,3550.13,Net Banking
+ORD01051,25-08-2025,CUST0146,Customer 0146,Central,Corporate,Office Supplies,Notebook,6,14853.26,0,3670.03,Credit Card
+ORD01052,11-02-2025,CUST0023,Customer 0023,East,Consumer,Office Supplies,Desk Organizer,7,11174.32,0.1,3213.42,Debit Card
+ORD01053,30-03-2025,CUST0027,Customer 0027,North,Corporate,Furniture,Cabinet,2,9517.01,0.25,1323.83,UPI
+ORD01054,23-10-2025,CUST0393,Customer 0393,Central,Consumer,Technology,Laptop,6,81417.35,0.15,20724.13,UPI
+ORD01055,24-11-2025,CUST0312,Customer 0312,West,Small Business,Office Supplies,Desk Organizer,6,13352.6,0.1,4394.08,Credit Card
+ORD01056,22-10-2025,CUST0293,Customer 0293,North,Consumer,Office Supplies,Desk Organizer,5,10408.69,0.2,2539.23,Net Banking
+ORD01057,14-04-2025,CUST0186,Customer 0186,Central,Consumer,Furniture,Conference Table,6,53185.5,0.15,7398.45,Credit Card
+ORD01058,14-01-2025,CUST0393,Customer 0393,Central,Corporate,Technology,Monitor,2,25369.93,0.05,5958.75,Net Banking
+ORD01059,15-10-2025,CUST0063,Customer 0063,North,Consumer,Furniture,Office Sofa,5,43476.62,0.2,7378.88,UPI
+ORD01060,28-06-2025,CUST0345,Customer 0345,South,Consumer,Accessories,USB Hub,8,28749.52,0,6891.01,Credit Card
+ORD01061,05-05-2025,CUST0210,Customer 0210,Central,Corporate,Furniture,Cabinet,5,46834.74,0.2,9337.06,Cash
+ORD01062,19-12-2025,CUST0047,Customer 0047,South,Consumer,Furniture,Cabinet,1,7791.5,0.2,1179.99,UPI
+ORD01063,23-01-2025,CUST0345,Customer 0345,Central,Small Business,Accessories,Webcam,2,5254.82,0.1,1521.14,Credit Card
+ORD01064,04-03-2025,CUST0308,Customer 0308,South,Consumer,Furniture,Cabinet,10,111639.16,0.15,22665.48,Credit Card
+ORD01065,23-05-2025,CUST0071,Customer 0071,North,Consumer,Furniture,Conference Table,6,29603.27,0.2,4484.96,UPI
+ORD01066,02-06-2025,CUST0263,Customer 0263,West,Consumer,Technology,Keyboard,7,125009.37,0.15,21437.47,Credit Card
+ORD01067,25-05-2025,CUST0368,Customer 0368,North,Consumer,Technology,Laptop,2,18029.9,0.25,3134.71,UPI
+ORD01068,13-08-2025,CUST0245,Customer 0245,West,Consumer,Technology,Printer,7,112666.44,0.1,21230.51,Credit Card
+ORD01069,05-11-2025,CUST0147,Customer 0147,South,Corporate,Technology,Printer,3,50911.81,0,11480.71,UPI
+ORD01070,14-04-2025,CUST0345,Customer 0345,North,Small Business,Accessories,USB Hub,4,13000.12,0.1,3834.52,Credit Card
+ORD01071,14-04-2025,CUST0074,Customer 0074,South,Consumer,Technology,Mouse,8,90253.75,0.25,20332.64,UPI
+ORD01072,08-02-2025,CUST0370,Customer 0370,East,Consumer,Furniture,Conference Table,8,74828.74,0.05,11188.2,UPI
+ORD01073,17-07-2025,CUST0352,Customer 0352,Central,Consumer,Furniture,Bookshelf,8,68680.34,0.2,14888.16,Credit Card
+ORD01074,14-05-2025,CUST0202,Customer 0202,Central,Corporate,Technology,Monitor,1,18234.62,0,3616.49,Credit Card
+ORD01075,08-03-2025,CUST0361,Customer 0361,Central,Corporate,Technology,Printer,1,16008.92,0.15,3662.14,Credit Card
+ORD01076,28-06-2025,CUST0224,Customer 0224,Central,Consumer,Office Supplies,Office Chair,5,3975.73,0.2,1021.76,Debit Card
+ORD01077,11-02-2025,CUST0333,Customer 0333,South,Consumer,Accessories,Headset,3,7495.59,0.1,2000.82,Debit Card
+ORD01078,15-01-2025,CUST0021,Customer 0021,Central,Small Business,Technology,Keyboard,9,89604.77,0.2,16403.93,UPI
+ORD01079,21-04-2025,CUST0302,Customer 0302,South,Corporate,Office Supplies,File Folder,5,12485.16,0,4048.12,Cash
+ORD01080,06-06-2025,CUST0243,Customer 0243,East,Consumer,Technology,Mouse,2,33430.09,0.1,6874.51,UPI
+ORD01081,16-10-2025,CUST0096,Customer 0096,Central,Small Business,Technology,Keyboard,5,47357.1,0.1,10390.35,UPI
+ORD01082,19-08-2025,CUST0137,Customer 0137,North,Corporate,Accessories,USB Hub,4,10859.07,0.05,2287.41,Cash
+ORD01083,06-06-2025,CUST0293,Customer 0293,North,Consumer,Technology,Keyboard,7,119946.26,0.15,26091.27,Net Banking
+ORD01084,07-02-2025,CUST0241,Customer 0241,West,Consumer,Office Supplies,Pen Set,7,13141.17,0.15,4309.12,Debit Card
+ORD01085,07-04-2025,CUST0232,Customer 0232,Central,Consumer,Office Supplies,Desk Organizer,5,10762.13,0.05,3351.4,Debit Card
+ORD01086,16-10-2025,CUST0204,Customer 0204,North,Consumer,Accessories,Backpack,10,15259.46,0.25,3110.92,Net Banking
+ORD01087,11-09-2025,CUST0058,Customer 0058,North,Corporate,Office Supplies,Pen Set,7,8375.3,0.2,2181.02,Credit Card
+ORD01088,15-07-2025,CUST0018,Customer 0018,West,Consumer,Office Supplies,File Folder,6,11179.97,0.1,3347.89,UPI
+ORD01089,27-03-2025,CUST0141,Customer 0141,Central,Consumer,Technology,Monitor,2,34888.25,0.1,8066.89,UPI
+ORD01090,18-11-2025,CUST0275,Customer 0275,East,Small Business,Technology,Monitor,8,122771.68,0.1,30596.78,Credit Card
+ORD01091,10-01-2025,CUST0108,Customer 0108,Central,Corporate,Technology,Laptop,5,46790.63,0.05,9983.28,Net Banking
+ORD01092,05-01-2025,CUST0115,Customer 0115,South,Consumer,Technology,Monitor,10,124375.42,0.15,24563.01,Debit Card
+ORD01093,03-05-2025,CUST0031,Customer 0031,Central,Consumer,Furniture,Bookshelf,4,23248.51,0.2,3999.42,Debit Card
+ORD01094,26-11-2025,CUST0055,Customer 0055,East,Consumer,Accessories,Power Bank,7,11539.77,0.15,3298.42,Credit Card
+ORD01095,19-12-2025,CUST0366,Customer 0366,South,Consumer,Technology,Printer,1,16790.71,0.2,3444.86,Cash
+ORD01096,28-04-2025,CUST0224,Customer 0224,West,Consumer,Accessories,Headset,9,32830.46,0.2,7891.03,Debit Card
+ORD01097,21-10-2025,CUST0194,Customer 0194,East,Consumer,Office Supplies,File Folder,5,8386.52,0.1,2676.52,UPI
+ORD01098,08-06-2025,CUST0330,Customer 0330,North,Consumer,Technology,Mouse,6,76732.15,0.05,20124.4,UPI
+ORD01099,30-10-2025,CUST0308,Customer 0308,South,Consumer,Accessories,Webcam,4,13519.63,0.15,3891.89,Credit Card
+ORD01100,16-08-2025,CUST0287,Customer 0287,North,Consumer,Technology,Mouse,9,131560.91,0.15,30451.65,Net Banking
+ORD01101,31-12-2025,CUST0263,Customer 0263,East,Consumer,Office Supplies,Notebook,5,6174.91,0.15,1749.37,UPI
+ORD01102,04-08-2025,CUST0335,Customer 0335,East,Consumer,Furniture,Conference Table,3,43993.61,0,6777.98,Net Banking
+ORD01103,03-07-2025,CUST0149,Customer 0149,West,Small Business,Office Supplies,Pen Set,10,8367.29,0.2,1966.75,Debit Card
+ORD01104,15-01-2025,CUST0341,Customer 0341,West,Consumer,Technology,Keyboard,1,14223.22,0,3423.27,Credit Card
+ORD01105,06-06-2025,CUST0109,Customer 0109,West,Consumer,Technology,Keyboard,6,51404.74,0.05,11979.66,Credit Card
+ORD01106,16-05-2025,CUST0170,Customer 0170,Central,Corporate,Technology,Keyboard,8,150434.21,0.1,30254.83,Credit Card
+ORD01107,18-09-2025,CUST0018,Customer 0018,North,Corporate,Furniture,Desk,5,48175.29,0.25,7931.4,Debit Card
+ORD01108,06-06-2025,CUST0034,Customer 0034,North,Corporate,Accessories,Power Bank,6,24396.82,0,6468.07,UPI
+ORD01109,16-02-2025,CUST0219,Customer 0219,Central,Corporate,Technology,Monitor,4,63671.74,0.25,13649.41,Net Banking
+ORD01110,20-11-2025,CUST0265,Customer 0265,Central,Corporate,Technology,Keyboard,3,33246.69,0.1,7706.71,Debit Card
+ORD01111,28-11-2025,CUST0019,Customer 0019,North,Consumer,Office Supplies,Office Chair,7,16941.36,0,4459.49,Credit Card
+ORD01112,22-06-2025,CUST0110,Customer 0110,East,Corporate,Office Supplies,File Folder,4,4737.87,0.2,1452.93,Credit Card
+ORD01113,10-05-2025,CUST0067,Customer 0067,West,Corporate,Furniture,Office Sofa,10,123783.79,0.1,21870.25,Net Banking
+ORD01114,05-04-2025,CUST0300,Customer 0300,West,Small Business,Accessories,Headset,9,26409.15,0.15,6441.99,Debit Card
+ORD01115,25-04-2025,CUST0021,Customer 0021,Central,Corporate,Technology,Keyboard,5,87288.74,0.1,18749.12,Net Banking
+ORD01116,31-08-2025,CUST0259,Customer 0259,West,Small Business,Furniture,Conference Table,5,32677.34,0.2,6496.82,Cash
+ORD01117,19-10-2025,CUST0113,Customer 0113,Central,Consumer,Furniture,Cabinet,7,73062.49,0.1,12031.64,Net Banking
+ORD01118,09-10-2025,CUST0272,Customer 0272,West,Corporate,Accessories,Power Bank,2,4295.4,0.15,935.75,Net Banking
+ORD01119,26-10-2025,CUST0164,Customer 0164,West,Consumer,Technology,Mouse,3,49586.24,0.1,11077.35,UPI
+ORD01120,10-10-2025,CUST0271,Customer 0271,West,Corporate,Technology,Monitor,10,132290.09,0.15,27414.67,UPI
+ORD01121,10-03-2025,CUST0239,Customer 0239,North,Consumer,Technology,Laptop,4,64049.62,0.15,15188.11,Cash
+ORD01122,28-05-2025,CUST0086,Customer 0086,South,Corporate,Technology,Monitor,10,174431.61,0.1,30750.13,Debit Card
+ORD01123,11-01-2025,CUST0245,Customer 0245,South,Consumer,Technology,Mouse,8,158657.33,0.05,33153.45,Debit Card
+ORD01124,11-09-2025,CUST0031,Customer 0031,North,Consumer,Furniture,Office Sofa,6,33505.54,0.15,6570.87,UPI
+ORD01125,26-11-2025,CUST0113,Customer 0113,Central,Consumer,Accessories,Webcam,2,5641.45,0.1,1165.31,Credit Card
+ORD01126,26-12-2025,CUST0200,Customer 0200,South,Consumer,Furniture,Cabinet,8,107778.14,0.05,18754.95,Net Banking
+ORD01127,07-02-2025,CUST0301,Customer 0301,Central,Consumer,Furniture,Office Sofa,6,54826.56,0.05,8393.76,Net Banking
+ORD01128,14-05-2025,CUST0205,Customer 0205,East,Corporate,Technology,Keyboard,5,56772.05,0.1,14489.44,Debit Card
+ORD01129,19-07-2025,CUST0209,Customer 0209,Central,Small Business,Furniture,Office Sofa,1,6961.57,0.2,1183.35,UPI
+ORD01130,23-01-2025,CUST0315,Customer 0315,West,Consumer,Accessories,Webcam,7,15282.28,0.1,4029.22,Net Banking
+ORD01131,30-10-2025,CUST0122,Customer 0122,East,Corporate,Office Supplies,Desk Organizer,7,7112.7,0.05,2180.43,UPI
+ORD01132,12-12-2025,CUST0096,Customer 0096,South,Consumer,Technology,Mouse,10,188657.82,0.1,40379.41,Debit Card
+ORD01133,29-10-2025,CUST0066,Customer 0066,East,Corporate,Furniture,Office Sofa,2,11254.36,0,1978.59,UPI
+ORD01134,29-12-2025,CUST0002,Customer 0002,West,Consumer,Furniture,Desk,2,20583.83,0.15,3257.12,UPI
+ORD01135,06-08-2025,CUST0191,Customer 0191,Central,Consumer,Accessories,Headset,8,30752.36,0.2,8547.95,Debit Card
+ORD01136,21-05-2025,CUST0347,Customer 0347,South,Small Business,Office Supplies,Desk Organizer,1,1930.71,0.05,453.08,Cash
+ORD01137,14-04-2025,CUST0259,Customer 0259,East,Corporate,Office Supplies,Office Chair,1,994.01,0.2,301.16,UPI
+ORD01138,29-07-2025,CUST0315,Customer 0315,East,Corporate,Office Supplies,Pen Set,10,22693,0.1,6851.06,Net Banking
+ORD01139,21-04-2025,CUST0195,Customer 0195,North,Consumer,Office Supplies,Office Chair,5,8771.81,0.15,2180.03,Cash
+ORD01140,14-04-2025,CUST0215,Customer 0215,South,Consumer,Office Supplies,Office Chair,7,11476.92,0,2860.48,Net Banking
+ORD01141,12-11-2025,CUST0117,Customer 0117,South,Consumer,Accessories,Backpack,6,10629.52,0.1,2269.65,UPI
+ORD01142,20-06-2025,CUST0285,Customer 0285,South,Corporate,Technology,Keyboard,2,23215.26,0.15,5351.28,Debit Card
+ORD01143,22-12-2025,CUST0228,Customer 0228,South,Corporate,Technology,Printer,3,43995.26,0.1,11837.34,Credit Card
+ORD01144,20-11-2025,CUST0131,Customer 0131,Central,Consumer,Furniture,Bookshelf,8,47693.53,0.1,10402.9,Credit Card
+ORD01145,13-05-2025,CUST0186,Customer 0186,North,Consumer,Accessories,Power Bank,7,29692.78,0.05,8288.7,UPI
+ORD01146,20-10-2025,CUST0109,Customer 0109,North,Consumer,Accessories,Backpack,3,11299.89,0.1,3055.59,UPI
+ORD01147,24-11-2025,CUST0262,Customer 0262,North,Corporate,Accessories,Headset,4,14218.31,0.1,3482.04,Credit Card
+ORD01148,07-05-2025,CUST0113,Customer 0113,South,Corporate,Accessories,Power Bank,4,18569.29,0,3931.32,UPI
+ORD01149,16-04-2025,CUST0318,Customer 0318,East,Corporate,Accessories,Backpack,7,21607.49,0,6183.57,UPI
+ORD01150,02-04-2025,CUST0101,Customer 0101,West,Consumer,Furniture,Desk,4,26694.83,0.1,4967.79,UPI
+ORD01151,14-10-2025,CUST0032,Customer 0032,South,Consumer,Office Supplies,Notebook,1,2109.01,0.05,621.11,Net Banking
+ORD01152,20-02-2025,CUST0220,Customer 0220,West,Small Business,Office Supplies,File Folder,10,11209.74,0.15,3392.19,Credit Card
+ORD01153,29-01-2025,CUST0220,Customer 0220,Central,Consumer,Accessories,Headset,8,16485.93,0.1,3863.36,Credit Card
+ORD01154,23-10-2025,CUST0309,Customer 0309,North,Corporate,Furniture,Office Sofa,2,24347.16,0.05,4011.52,Cash
+ORD01155,24-10-2025,CUST0078,Customer 0078,Central,Consumer,Office Supplies,Pen Set,1,2507.03,0.1,705.5,Net Banking
+ORD01156,02-08-2025,CUST0174,Customer 0174,South,Small Business,Office Supplies,Pen Set,9,14496.83,0.15,3339.4,Cash
+ORD01157,24-09-2025,CUST0244,Customer 0244,East,Consumer,Office Supplies,Desk Organizer,7,14500.74,0.15,4692.14,Credit Card
+ORD01158,14-09-2025,CUST0306,Customer 0306,South,Corporate,Furniture,Bookshelf,8,51837.78,0.15,11735.26,UPI
+ORD01159,29-10-2025,CUST0034,Customer 0034,East,Consumer,Technology,Printer,6,64463.07,0.15,14483.48,Debit Card
+ORD01160,11-04-2025,CUST0292,Customer 0292,South,Consumer,Office Supplies,Notebook,1,1302.94,0.15,305.28,UPI
+ORD01161,12-12-2025,CUST0045,Customer 0045,North,Consumer,Accessories,Backpack,5,18059.91,0.2,3832.83,Net Banking
+ORD01162,20-04-2025,CUST0221,Customer 0221,West,Small Business,Office Supplies,Office Chair,10,8973.66,0.1,2153.88,Net Banking
+ORD01163,01-07-2025,CUST0248,Customer 0248,West,Consumer,Technology,Laptop,3,58027.88,0.05,15365.42,Debit Card
+ORD01164,09-11-2025,CUST0156,Customer 0156,South,Consumer,Office Supplies,Office Chair,7,9697.48,0.15,2725.06,UPI
+ORD01165,01-01-2025,CUST0292,Customer 0292,Central,Consumer,Office Supplies,Desk Organizer,5,11743.05,0.1,3046.53,Net Banking
+ORD01166,15-11-2025,CUST0298,Customer 0298,Central,Consumer,Furniture,Bookshelf,8,65991.96,0,13220.2,Net Banking
+ORD01167,24-02-2025,CUST0086,Customer 0086,Central,Consumer,Furniture,Conference Table,3,39355.12,0.05,5928.9,Cash
+ORD01168,29-05-2025,CUST0087,Customer 0087,North,Corporate,Technology,Monitor,4,63840.29,0.15,14510.86,Credit Card
+ORD01169,05-11-2025,CUST0164,Customer 0164,South,Consumer,Technology,Laptop,8,139063.57,0.15,35943.52,Credit Card
+ORD01170,17-05-2025,CUST0294,Customer 0294,South,Corporate,Office Supplies,File Folder,1,968.7,0.2,271.69,Net Banking
+ORD01171,21-07-2025,CUST0111,Customer 0111,South,Consumer,Accessories,USB Hub,4,14936.86,0.05,3363.99,Credit Card
+ORD01172,09-11-2025,CUST0093,Customer 0093,South,Small Business,Office Supplies,Pen Set,1,2508.98,0.1,652.03,Net Banking
+ORD01173,27-04-2025,CUST0314,Customer 0314,Central,Corporate,Accessories,Webcam,10,23267.17,0.15,6866.4,UPI
+ORD01174,03-06-2025,CUST0219,Customer 0219,North,Consumer,Technology,Printer,2,25696.95,0.05,4666.17,Debit Card
+ORD01175,18-10-2025,CUST0351,Customer 0351,West,Consumer,Office Supplies,Desk Organizer,5,12130.58,0.1,2861.36,Debit Card
+ORD01176,04-03-2025,CUST0313,Customer 0313,Central,Consumer,Office Supplies,File Folder,8,20219.16,0.05,5327.46,Credit Card
+ORD01177,01-09-2025,CUST0283,Customer 0283,West,Consumer,Accessories,Webcam,3,10036.89,0,2354.23,UPI
+ORD01178,25-01-2025,CUST0132,Customer 0132,North,Small Business,Furniture,Cabinet,2,14189.42,0,2606.46,Debit Card
+ORD01179,31-03-2025,CUST0097,Customer 0097,South,Corporate,Office Supplies,Desk Organizer,2,3269.96,0.15,805.82,Net Banking
+ORD01180,16-03-2025,CUST0180,Customer 0180,Central,Corporate,Furniture,Cabinet,5,55400.12,0.15,8667.19,UPI
+ORD01181,21-10-2025,CUST0213,Customer 0213,Central,Consumer,Office Supplies,Desk Organizer,3,5776.88,0.15,1700.94,Debit Card
+ORD01182,29-07-2025,CUST0211,Customer 0211,East,Corporate,Technology,Keyboard,4,72567.56,0.05,12377.08,UPI
+ORD01183,13-12-2025,CUST0196,Customer 0196,West,Consumer,Technology,Laptop,5,48233.37,0.1,10649.42,Net Banking
+ORD01184,17-01-2025,CUST0393,Customer 0393,East,Consumer,Accessories,USB Hub,3,10276.63,0.1,2735.82,Debit Card
+ORD01185,08-05-2025,CUST0337,Customer 0337,South,Consumer,Accessories,Headset,2,3701.86,0.25,853.65,UPI
+ORD01186,30-12-2025,CUST0214,Customer 0214,Central,Corporate,Office Supplies,Pen Set,9,21003.3,0.15,6326.6,UPI
+ORD01187,08-09-2025,CUST0176,Customer 0176,West,Consumer,Furniture,Cabinet,9,116982.13,0,26812.27,UPI
+ORD01188,28-06-2025,CUST0367,Customer 0367,South,Consumer,Office Supplies,File Folder,10,23672.23,0.15,6132.44,UPI
+ORD01189,01-07-2025,CUST0260,Customer 0260,Central,Corporate,Furniture,Office Sofa,3,17209.06,0.15,3445.77,Cash
+ORD01190,01-06-2025,CUST0180,Customer 0180,South,Consumer,Office Supplies,File Folder,8,10928.71,0.15,3137.04,UPI
+ORD01191,25-01-2025,CUST0036,Customer 0036,Central,Small Business,Office Supplies,Office Chair,5,5819.34,0.05,1480.06,Net Banking
+ORD01192,29-06-2025,CUST0106,Customer 0106,South,Small Business,Technology,Monitor,7,101112.73,0.2,23600.02,Net Banking
+ORD01193,17-07-2025,CUST0145,Customer 0145,North,Small Business,Technology,Monitor,8,131718.67,0,35167.45,Cash
+ORD01194,10-12-2025,CUST0378,Customer 0378,South,Small Business,Accessories,Power Bank,8,24928.63,0.1,6960.61,Net Banking
+ORD01195,10-06-2025,CUST0382,Customer 0382,North,Consumer,Accessories,Backpack,8,17412.98,0,3518.89,Debit Card
+ORD01196,26-06-2025,CUST0144,Customer 0144,Central,Consumer,Furniture,Cabinet,10,89256.29,0.2,19964.62,Net Banking
+ORD01197,12-10-2025,CUST0209,Customer 0209,North,Consumer,Office Supplies,Notebook,4,5182.01,0,1564.05,UPI
+ORD01198,04-03-2025,CUST0321,Customer 0321,South,Corporate,Technology,Mouse,5,56702.45,0.1,10004.15,Net Banking
+ORD01199,30-05-2025,CUST0131,Customer 0131,East,Consumer,Technology,Printer,7,65818.58,0,17605.63,Debit Card
+ORD01200,03-06-2025,CUST0275,Customer 0275,Central,Corporate,Office Supplies,Office Chair,8,6463.04,0.2,1876.42,UPI
+ORD01201,05-06-2025,CUST0274,Customer 0274,East,Small Business,Accessories,USB Hub,5,23526.32,0.05,6686.77,Net Banking
+ORD01202,18-02-2025,CUST0388,Customer 0388,Central,Consumer,Technology,Laptop,10,126055.57,0.1,32228.03,Debit Card
+ORD01203,03-12-2025,CUST0209,Customer 0209,Central,Corporate,Office Supplies,Notebook,5,10872,0.1,2602.14,Credit Card
+ORD01204,25-03-2025,CUST0125,Customer 0125,West,Small Business,Technology,Keyboard,4,69363.39,0.1,13681.56,Credit Card
+ORD01205,27-12-2025,CUST0304,Customer 0304,East,Consumer,Furniture,Bookshelf,5,52524.58,0.2,10391.8,Cash
+ORD01206,26-06-2025,CUST0347,Customer 0347,East,Consumer,Office Supplies,Pen Set,7,11482.29,0.2,3551.56,Credit Card
+ORD01207,28-05-2025,CUST0053,Customer 0053,North,Corporate,Office Supplies,Notebook,2,2821.28,0.1,824.54,UPI
+ORD01208,28-04-2025,CUST0325,Customer 0325,Central,Corporate,Accessories,Backpack,9,33202.92,0.05,6983.55,Debit Card
+ORD01209,08-12-2025,CUST0259,Customer 0259,West,Consumer,Office Supplies,Desk Organizer,4,3574.67,0.15,1121.64,Debit Card
+ORD01210,04-03-2025,CUST0030,Customer 0030,West,Consumer,Office Supplies,Pen Set,6,13240.67,0.15,3998.67,UPI
+ORD01211,08-07-2025,CUST0239,Customer 0239,West,Small Business,Technology,Laptop,5,93910.26,0,24676.26,Net Banking
+ORD01212,26-12-2025,CUST0001,Customer 0001,East,Corporate,Technology,Laptop,10,184664.59,0.1,44419.85,Debit Card
+ORD01213,18-02-2025,CUST0203,Customer 0203,West,Consumer,Accessories,Headset,2,6423.4,0.1,1483.34,Credit Card
+ORD01214,23-11-2025,CUST0015,Customer 0015,East,Consumer,Office Supplies,Notebook,3,6681.53,0.05,1668.24,Debit Card
+ORD01215,14-09-2025,CUST0206,Customer 0206,East,Corporate,Office Supplies,Office Chair,4,9445.52,0.15,2391.46,UPI
+ORD01216,12-08-2025,CUST0359,Customer 0359,West,Small Business,Furniture,Conference Table,9,81547.18,0.1,13898.7,UPI
+ORD01217,21-05-2025,CUST0073,Customer 0073,North,Consumer,Technology,Monitor,2,30850.63,0.1,6976.95,Debit Card
+ORD01218,03-08-2025,CUST0383,Customer 0383,East,Consumer,Accessories,Power Bank,9,21987.36,0.2,4813.82,Credit Card
+ORD01219,30-07-2025,CUST0209,Customer 0209,South,Corporate,Technology,Monitor,8,66428.8,0.05,15460.9,Debit Card
+ORD01220,14-11-2025,CUST0265,Customer 0265,East,Corporate,Furniture,Office Sofa,5,35315.16,0.15,7636.21,Credit Card
+ORD01221,01-02-2025,CUST0036,Customer 0036,Central,Consumer,Office Supplies,Notebook,2,2192.33,0.25,679.02,Credit Card
+ORD01222,07-06-2025,CUST0062,Customer 0062,Central,Consumer,Accessories,Headset,10,23550.51,0,6412.24,UPI
+ORD01223,12-10-2025,CUST0178,Customer 0178,East,Consumer,Accessories,Backpack,10,36419.46,0.15,8554.91,Credit Card
+ORD01224,01-11-2025,CUST0103,Customer 0103,East,Consumer,Furniture,Conference Table,4,23351.67,0.25,4600.9,Credit Card
+ORD01225,13-10-2025,CUST0185,Customer 0185,North,Consumer,Furniture,Cabinet,6,43492.2,0.15,8298.19,UPI
+ORD01226,24-05-2025,CUST0362,Customer 0362,South,Small Business,Accessories,Power Bank,10,20885.04,0.1,5531.4,UPI
+ORD01227,19-01-2025,CUST0329,Customer 0329,North,Consumer,Technology,Laptop,8,110383.67,0.05,26198.37,Debit Card
+ORD01228,18-01-2025,CUST0047,Customer 0047,South,Consumer,Technology,Monitor,10,110291.53,0.15,24785.13,UPI
+ORD01229,14-09-2025,CUST0272,Customer 0272,Central,Small Business,Office Supplies,Desk Organizer,4,7150.03,0.1,1905.52,Net Banking
+ORD01230,19-03-2025,CUST0059,Customer 0059,East,Corporate,Technology,Laptop,10,145596.69,0.1,26291.54,UPI
+ORD01231,24-06-2025,CUST0314,Customer 0314,East,Consumer,Accessories,Webcam,3,12026.43,0.15,3392.39,UPI
+ORD01232,13-07-2025,CUST0134,Customer 0134,North,Small Business,Accessories,Backpack,4,10236.72,0.2,2212.79,UPI
+ORD01233,23-04-2025,CUST0237,Customer 0237,West,Consumer,Furniture,Desk,5,29371.71,0,6456.56,Debit Card
+ORD01234,24-04-2025,CUST0113,Customer 0113,South,Corporate,Office Supplies,File Folder,3,4628.83,0.2,1292.24,UPI
+ORD01235,10-08-2025,CUST0001,Customer 0001,North,Consumer,Technology,Monitor,6,56385.45,0.1,14010.51,Credit Card
+ORD01236,15-06-2025,CUST0296,Customer 0296,North,Corporate,Office Supplies,Notebook,9,10582.31,0.1,2505.42,UPI
+ORD01237,15-11-2025,CUST0017,Customer 0017,West,Corporate,Furniture,Office Sofa,10,141167.45,0,27866.78,UPI
+ORD01238,12-05-2025,CUST0385,Customer 0385,North,Consumer,Accessories,Backpack,3,10840.99,0.15,2748.27,Net Banking
+ORD01239,21-09-2025,CUST0215,Customer 0215,North,Consumer,Furniture,Cabinet,1,7760.42,0.15,1086.27,Net Banking
+ORD01240,24-02-2025,CUST0010,Customer 0010,South,Consumer,Office Supplies,Notebook,1,963.72,0.2,229.14,Cash
+ORD01241,25-12-2025,CUST0390,Customer 0390,North,Consumer,Furniture,Conference Table,7,65086.9,0.15,10994.25,Credit Card
+ORD01242,11-05-2025,CUST0374,Customer 0374,West,Small Business,Accessories,Headset,4,12488.99,0.15,2921.15,Credit Card
+ORD01243,15-10-2025,CUST0122,Customer 0122,South,Corporate,Accessories,USB Hub,10,20644.31,0.2,5142.64,Debit Card
+ORD01244,23-09-2025,CUST0152,Customer 0152,East,Consumer,Technology,Printer,6,116540.8,0.05,25698.61,Cash
+ORD01245,11-06-2025,CUST0378,Customer 0378,South,Corporate,Technology,Printer,7,79487.57,0.1,18951.5,UPI
+ORD01246,28-03-2025,CUST0074,Customer 0074,South,Consumer,Office Supplies,Desk Organizer,9,19648.62,0.2,4535.3,Debit Card
+ORD01247,24-02-2025,CUST0128,Customer 0128,Central,Corporate,Technology,Keyboard,7,60850.52,0.05,10900.85,UPI
+ORD01248,15-10-2025,CUST0063,Customer 0063,South,Consumer,Furniture,Desk,7,37407.06,0.25,6172.16,Net Banking
+ORD01249,27-06-2025,CUST0114,Customer 0114,East,Corporate,Accessories,Webcam,5,9336.38,0.05,2479.88,Net Banking
+ORD01250,15-12-2025,CUST0354,Customer 0354,West,Consumer,Technology,Monitor,2,32395.52,0.15,5977.92,Credit Card
+ORD01251,08-01-2025,CUST0127,Customer 0127,West,Consumer,Furniture,Desk,2,23607.97,0.1,3733.73,Net Banking
+ORD01252,17-11-2025,CUST0341,Customer 0341,North,Corporate,Technology,Printer,10,73056.86,0.15,16271.95,Cash
+ORD01253,09-11-2025,CUST0121,Customer 0121,South,Consumer,Office Supplies,Pen Set,8,14424.95,0,4506.33,Net Banking
+ORD01254,04-09-2025,CUST0218,Customer 0218,North,Small Business,Furniture,Desk,9,104610.49,0.05,17593.86,Debit Card
+ORD01255,19-11-2025,CUST0383,Customer 0383,Central,Consumer,Furniture,Office Sofa,1,9217.4,0.1,1446.02,Cash
+ORD01256,12-09-2025,CUST0042,Customer 0042,East,Consumer,Technology,Keyboard,7,127385.54,0.15,32866.83,UPI
+ORD01257,24-11-2025,CUST0307,Customer 0307,South,Consumer,Accessories,USB Hub,1,3833.21,0.1,1141.49,Credit Card
+ORD01258,23-02-2025,CUST0315,Customer 0315,South,Corporate,Technology,Printer,5,69704.41,0.1,17835.79,Debit Card
+ORD01259,06-09-2025,CUST0148,Customer 0148,North,Consumer,Technology,Printer,4,75846.44,0.1,15409.65,UPI
+ORD01260,27-08-2025,CUST0378,Customer 0378,Central,Consumer,Technology,Monitor,1,15511.72,0.05,3531.51,Net Banking
+ORD01261,17-08-2025,CUST0020,Customer 0020,West,Small Business,Technology,Monitor,2,22624.01,0.05,4358.13,Credit Card
+ORD01262,08-03-2025,CUST0093,Customer 0093,Central,Consumer,Office Supplies,Office Chair,8,14608.1,0.15,3991.05,Debit Card
+ORD01263,20-02-2025,CUST0332,Customer 0332,North,Corporate,Office Supplies,File Folder,2,3977.94,0.1,1074.42,Credit Card
+ORD01264,07-04-2025,CUST0231,Customer 0231,South,Small Business,Technology,Monitor,4,56438.77,0,12813.57,Credit Card
+ORD01265,02-04-2025,CUST0197,Customer 0197,West,Consumer,Accessories,Power Bank,2,3503.16,0.15,1021.74,UPI
+ORD01266,21-09-2025,CUST0111,Customer 0111,East,Corporate,Furniture,Cabinet,7,48388.7,0.15,9703.91,Cash
+ORD01267,18-10-2025,CUST0166,Customer 0166,East,Consumer,Technology,Keyboard,10,91491.99,0.25,16996.36,Credit Card
+ORD01268,06-04-2025,CUST0336,Customer 0336,West,Small Business,Furniture,Office Sofa,1,4594.5,0.2,895.09,Credit Card
+ORD01269,29-03-2025,CUST0172,Customer 0172,Central,Consumer,Technology,Monitor,7,64743.72,0.25,13162.87,Debit Card
+ORD01270,19-03-2025,CUST0085,Customer 0085,Central,Consumer,Office Supplies,File Folder,4,4602.6,0,1254.74,Cash
+ORD01271,15-10-2025,CUST0293,Customer 0293,Central,Corporate,Technology,Monitor,9,128522.55,0,31276.71,Credit Card
+ORD01272,30-04-2025,CUST0026,Customer 0026,East,Consumer,Office Supplies,Desk Organizer,5,8549.21,0.2,2467.32,Net Banking
+ORD01273,29-10-2025,CUST0321,Customer 0321,West,Small Business,Technology,Printer,4,77133.59,0.05,20059.49,UPI
+ORD01274,14-06-2025,CUST0241,Customer 0241,East,Consumer,Furniture,Conference Table,9,78601.94,0,14713.08,UPI
+ORD01275,01-07-2025,CUST0255,Customer 0255,West,Corporate,Technology,Laptop,6,61165.95,0.05,11673.69,Net Banking
+ORD01276,11-08-2025,CUST0072,Customer 0072,Central,Consumer,Accessories,Webcam,10,33856.03,0.1,7702.83,Credit Card
+ORD01277,07-11-2025,CUST0033,Customer 0033,East,Consumer,Furniture,Cabinet,6,50631.08,0.05,8534.48,Credit Card
+ORD01278,07-01-2025,CUST0142,Customer 0142,East,Corporate,Furniture,Cabinet,3,15838.4,0.05,2500.42,Cash
+ORD01279,26-11-2025,CUST0021,Customer 0021,North,Consumer,Furniture,Desk,6,64279.76,0.2,9652.92,Credit Card
+ORD01280,20-09-2025,CUST0150,Customer 0150,North,Small Business,Technology,Laptop,5,81156.09,0.1,14030.73,UPI
+ORD01281,10-06-2025,CUST0293,Customer 0293,North,Consumer,Office Supplies,File Folder,8,11773.63,0.15,3183.62,Debit Card
+ORD01282,31-05-2025,CUST0014,Customer 0014,Central,Consumer,Furniture,Office Sofa,8,45865.64,0.05,9885.46,Debit Card
+ORD01283,26-03-2025,CUST0161,Customer 0161,South,Small Business,Technology,Printer,3,46869.99,0.2,10336.03,UPI
+ORD01284,27-05-2025,CUST0167,Customer 0167,East,Corporate,Office Supplies,Office Chair,6,7746.43,0.2,2369.2,Credit Card
+ORD01285,22-04-2025,CUST0162,Customer 0162,North,Consumer,Technology,Printer,5,84091.56,0.15,20360.29,UPI
+ORD01286,05-02-2025,CUST0250,Customer 0250,East,Consumer,Accessories,Power Bank,7,30594.45,0.05,7262.37,Net Banking
+ORD01287,12-10-2025,CUST0110,Customer 0110,West,Consumer,Furniture,Conference Table,3,16621.43,0.25,3091.4,Debit Card
+ORD01288,07-07-2025,CUST0212,Customer 0212,West,Consumer,Technology,Printer,3,53882.73,0,13212.37,UPI
+ORD01289,23-03-2025,CUST0043,Customer 0043,East,Consumer,Technology,Keyboard,6,61870.11,0.15,13219.26,UPI
+ORD01290,02-01-2025,CUST0051,Customer 0051,West,Consumer,Accessories,Webcam,10,37734.28,0.15,8197.58,UPI
+ORD01291,30-10-2025,CUST0117,Customer 0117,South,Corporate,Technology,Keyboard,1,14108.32,0.1,2705.69,Credit Card
+ORD01292,16-07-2025,CUST0105,Customer 0105,West,Consumer,Furniture,Bookshelf,3,18969.39,0.15,4217.23,Debit Card
+ORD01293,11-01-2025,CUST0289,Customer 0289,North,Consumer,Furniture,Office Sofa,10,101304.8,0,16427.47,UPI
+ORD01294,22-08-2025,CUST0111,Customer 0111,East,Corporate,Technology,Laptop,7,106358.99,0.15,25217.53,Debit Card
+ORD01295,14-07-2025,CUST0360,Customer 0360,West,Consumer,Furniture,Bookshelf,3,21767.77,0.1,3773.13,UPI
+ORD01296,29-04-2025,CUST0129,Customer 0129,South,Consumer,Accessories,Headset,7,21640.66,0.15,6103.88,Credit Card
+ORD01297,20-01-2025,CUST0246,Customer 0246,Central,Corporate,Technology,Monitor,8,110213.47,0.2,20237.11,UPI
+ORD01298,18-09-2025,CUST0051,Customer 0051,East,Corporate,Office Supplies,Notebook,3,6031.62,0.1,1976.52,UPI
+ORD01299,20-10-2025,CUST0374,Customer 0374,East,Corporate,Furniture,Desk,7,58426.17,0.05,10111.85,Credit Card
+ORD01300,13-09-2025,CUST0184,Customer 0184,East,Consumer,Furniture,Bookshelf,8,109911.03,0,19486.28,Net Banking
+ORD01301,10-08-2025,CUST0189,Customer 0189,West,Consumer,Furniture,Cabinet,7,66944.75,0.25,11561.13,Credit Card
+ORD01302,14-08-2025,CUST0110,Customer 0110,North,Corporate,Technology,Laptop,10,83163.96,0.15,19131.5,UPI
+ORD01303,22-02-2025,CUST0118,Customer 0118,West,Corporate,Accessories,Webcam,4,12355.81,0.2,2966.13,UPI
+ORD01304,21-12-2025,CUST0049,Customer 0049,North,Corporate,Technology,Monitor,4,35261.69,0.1,6976.5,Cash
+ORD01305,08-12-2025,CUST0268,Customer 0268,North,Consumer,Accessories,USB Hub,7,28765.26,0.1,6714.43,UPI
+ORD01306,30-12-2025,CUST0347,Customer 0347,South,Corporate,Accessories,Webcam,6,21335.16,0.25,5933.56,UPI
+ORD01307,07-10-2025,CUST0299,Customer 0299,East,Consumer,Accessories,Power Bank,9,30282.7,0.05,8980.39,Credit Card
+ORD01308,22-03-2025,CUST0076,Customer 0076,South,Corporate,Office Supplies,File Folder,2,2741.35,0.1,868.08,Net Banking
+ORD01309,21-07-2025,CUST0314,Customer 0314,North,Consumer,Accessories,Backpack,2,8179.89,0.15,2175.79,Credit Card
+ORD01310,07-06-2025,CUST0123,Customer 0123,South,Consumer,Technology,Mouse,1,15948.78,0.2,2728.78,Net Banking
+ORD01311,30-04-2025,CUST0120,Customer 0120,Central,Small Business,Technology,Monitor,9,113342.92,0.2,28180.56,Net Banking
+ORD01312,28-02-2025,CUST0137,Customer 0137,South,Small Business,Office Supplies,File Folder,9,20405.35,0.1,5484.07,Debit Card
+ORD01313,03-08-2025,CUST0303,Customer 0303,Central,Corporate,Technology,Printer,5,93837.3,0.1,19315.17,Credit Card
+ORD01314,08-05-2025,CUST0308,Customer 0308,North,Corporate,Office Supplies,Office Chair,7,12289.39,0.1,3635.14,Debit Card
+ORD01315,12-08-2025,CUST0381,Customer 0381,North,Small Business,Office Supplies,File Folder,9,18955.49,0.05,4569.19,Net Banking
+ORD01316,28-07-2025,CUST0077,Customer 0077,Central,Consumer,Furniture,Office Sofa,4,22090.23,0,3560.7,Credit Card
+ORD01317,25-04-2025,CUST0298,Customer 0298,North,Corporate,Technology,Laptop,5,32347.27,0.2,6144.24,UPI
+ORD01318,28-07-2025,CUST0111,Customer 0111,North,Small Business,Technology,Keyboard,6,113168.25,0.05,26401.38,Debit Card
+ORD01319,14-01-2025,CUST0249,Customer 0249,North,Consumer,Technology,Printer,2,20208.47,0,4332.05,Net Banking
+ORD01320,09-01-2025,CUST0194,Customer 0194,West,Consumer,Technology,Mouse,3,55138.59,0.1,9786.79,UPI
+ORD01321,09-02-2025,CUST0019,Customer 0019,West,Corporate,Office Supplies,Pen Set,4,6598.49,0,2160.55,UPI
+ORD01322,25-08-2025,CUST0376,Customer 0376,South,Consumer,Accessories,USB Hub,6,22039.78,0.25,4762.66,UPI
+ORD01323,08-10-2025,CUST0067,Customer 0067,Central,Corporate,Office Supplies,Desk Organizer,5,6666.37,0.15,2173.37,UPI
+ORD01324,25-12-2025,CUST0031,Customer 0031,East,Small Business,Technology,Printer,7,108076.28,0.1,18410.91,UPI
+ORD01325,20-07-2025,CUST0343,Customer 0343,South,Consumer,Technology,Monitor,5,57334.13,0.1,10313.64,UPI
+ORD01326,03-09-2025,CUST0308,Customer 0308,North,Corporate,Furniture,Office Sofa,4,31579.48,0.15,7116.66,Net Banking
+ORD01327,05-10-2025,CUST0271,Customer 0271,South,Corporate,Office Supplies,Notebook,5,11968.87,0.1,3948.34,Debit Card
+ORD01328,23-08-2025,CUST0364,Customer 0364,East,Consumer,Technology,Mouse,4,56821.44,0.1,10601.78,UPI
+ORD01329,04-01-2025,CUST0146,Customer 0146,East,Corporate,Furniture,Desk,8,83751.77,0.1,18110.32,UPI
+ORD01330,03-06-2025,CUST0287,Customer 0287,South,Small Business,Office Supplies,File Folder,10,21250.3,0.05,5644.86,UPI
+ORD01331,29-01-2025,CUST0251,Customer 0251,South,Consumer,Accessories,Power Bank,6,20911.18,0.05,4711.29,Cash
+ORD01332,19-04-2025,CUST0173,Customer 0173,South,Consumer,Accessories,Webcam,9,16514.07,0.25,3388.83,Credit Card
+ORD01333,08-04-2025,CUST0207,Customer 0207,Central,Consumer,Office Supplies,File Folder,10,24940.71,0,7737.05,Cash
+ORD01334,03-08-2025,CUST0131,Customer 0131,North,Consumer,Technology,Printer,10,135081.27,0.1,30291.24,Cash
+ORD01335,20-10-2025,CUST0355,Customer 0355,North,Consumer,Technology,Monitor,1,12126.94,0.05,3112.73,Credit Card
+ORD01336,16-03-2025,CUST0254,Customer 0254,South,Consumer,Accessories,Power Bank,2,4423.92,0.15,1184.69,Credit Card
+ORD01337,22-11-2025,CUST0109,Customer 0109,Central,Consumer,Accessories,Webcam,1,2137.96,0.25,576.54,Credit Card
+ORD01338,26-05-2025,CUST0377,Customer 0377,North,Consumer,Office Supplies,Pen Set,8,11704.53,0,2694.23,Credit Card
+ORD01339,08-05-2025,CUST0219,Customer 0219,West,Consumer,Technology,Monitor,4,66679.85,0.05,16392.74,UPI
+ORD01340,07-12-2025,CUST0367,Customer 0367,South,Consumer,Office Supplies,Desk Organizer,10,20133.5,0.1,5504.97,Credit Card
+ORD01341,11-02-2025,CUST0310,Customer 0310,East,Corporate,Accessories,Power Bank,7,17081.58,0.1,3575.54,UPI
+ORD01342,22-12-2025,CUST0237,Customer 0237,Central,Consumer,Technology,Monitor,6,52795.16,0.2,14016.63,Cash
+ORD01343,10-02-2025,CUST0294,Customer 0294,West,Consumer,Accessories,Backpack,6,10903.94,0.1,3234.46,UPI
+ORD01344,03-02-2025,CUST0381,Customer 0381,North,Consumer,Furniture,Desk,7,56103.49,0.2,10817.22,Net Banking
+ORD01345,17-01-2025,CUST0340,Customer 0340,North,Corporate,Technology,Printer,9,74568.17,0.2,12916.81,Credit Card
+ORD01346,14-06-2025,CUST0006,Customer 0006,North,Corporate,Office Supplies,Office Chair,5,11719.17,0.15,3746.86,Credit Card
+ORD01347,02-06-2025,CUST0184,Customer 0184,West,Corporate,Technology,Mouse,2,22973.13,0,4898.67,Net Banking
+ORD01348,17-03-2025,CUST0290,Customer 0290,North,Small Business,Technology,Monitor,1,13058.17,0.25,3476.45,UPI
+ORD01349,28-03-2025,CUST0066,Customer 0066,East,Corporate,Technology,Laptop,7,82493.9,0.05,18814.89,Credit Card
+ORD01350,27-04-2025,CUST0367,Customer 0367,West,Small Business,Furniture,Conference Table,7,59640.99,0,8865.12,Debit Card
+ORD01351,28-12-2025,CUST0185,Customer 0185,East,Consumer,Office Supplies,Pen Set,3,2622.91,0.15,854.75,Net Banking
+ORD01352,08-12-2025,CUST0303,Customer 0303,South,Corporate,Technology,Laptop,3,32775.39,0.1,7836.34,Credit Card
+ORD01353,27-01-2025,CUST0121,Customer 0121,Central,Corporate,Accessories,Webcam,4,10632.18,0.25,3061.07,Credit Card
+ORD01354,09-11-2025,CUST0242,Customer 0242,East,Small Business,Technology,Monitor,7,48627.63,0.1,9336.18,Cash
+ORD01355,14-10-2025,CUST0021,Customer 0021,North,Corporate,Furniture,Bookshelf,8,74662.1,0.2,11457.81,UPI
+ORD01356,14-05-2025,CUST0221,Customer 0221,West,Small Business,Furniture,Bookshelf,5,36583.72,0.1,5438.38,Debit Card
+ORD01357,07-08-2025,CUST0386,Customer 0386,North,Consumer,Office Supplies,Office Chair,2,3416.16,0.15,901.53,Debit Card
+ORD01358,17-06-2025,CUST0298,Customer 0298,East,Consumer,Office Supplies,File Folder,9,15572.46,0.2,4296.94,Debit Card
+ORD01359,08-04-2025,CUST0193,Customer 0193,South,Consumer,Furniture,Bookshelf,8,80890.73,0.2,12992.25,UPI
+ORD01360,25-09-2025,CUST0265,Customer 0265,South,Corporate,Office Supplies,Notebook,8,12782.31,0.1,3192.49,Credit Card
+ORD01361,25-08-2025,CUST0347,Customer 0347,West,Small Business,Office Supplies,Pen Set,1,872.62,0.15,203.81,Cash
+ORD01362,05-11-2025,CUST0357,Customer 0357,South,Consumer,Accessories,USB Hub,2,2980.67,0.2,790.5,Debit Card
+ORD01363,22-06-2025,CUST0375,Customer 0375,West,Small Business,Technology,Printer,2,13508.06,0.15,2914.92,Debit Card
+ORD01364,09-07-2025,CUST0198,Customer 0198,Central,Corporate,Accessories,USB Hub,1,1926.78,0.05,526.63,Credit Card
+ORD01365,02-05-2025,CUST0141,Customer 0141,South,Corporate,Office Supplies,Office Chair,5,10397.88,0.1,2812.13,Debit Card
+ORD01366,15-02-2025,CUST0019,Customer 0019,North,Corporate,Accessories,Headset,2,5009.64,0.15,1207.66,UPI
+ORD01367,05-03-2025,CUST0375,Customer 0375,West,Consumer,Furniture,Cabinet,9,90412.5,0.15,19850.71,Credit Card
+ORD01368,10-05-2025,CUST0238,Customer 0238,North,Corporate,Accessories,USB Hub,1,2417.83,0,659.17,Credit Card
+ORD01369,06-11-2025,CUST0175,Customer 0175,Central,Consumer,Furniture,Desk,2,13352.5,0.15,2248.51,Net Banking
+ORD01370,29-12-2025,CUST0015,Customer 0015,South,Corporate,Technology,Monitor,6,50660.62,0.2,10010.26,Credit Card
+ORD01371,12-07-2025,CUST0091,Customer 0091,North,Consumer,Technology,Printer,3,51052.45,0.05,10603.77,UPI
+ORD01372,03-11-2025,CUST0146,Customer 0146,South,Corporate,Furniture,Office Sofa,10,59625.38,0.15,11305.94,Net Banking
+ORD01373,30-06-2025,CUST0103,Customer 0103,East,Corporate,Technology,Monitor,8,163916.14,0.05,43856.47,UPI
+ORD01374,19-10-2025,CUST0111,Customer 0111,South,Consumer,Office Supplies,Desk Organizer,2,3584.23,0,932.03,Credit Card
+ORD01375,09-10-2025,CUST0153,Customer 0153,North,Consumer,Office Supplies,File Folder,5,4910.83,0.15,1340.15,Net Banking
+ORD01376,29-01-2025,CUST0326,Customer 0326,North,Consumer,Furniture,Conference Table,3,20194.61,0.1,4354.15,UPI
+ORD01377,29-05-2025,CUST0007,Customer 0007,North,Corporate,Technology,Printer,1,20688.25,0,4284.13,Debit Card
+ORD01378,24-09-2025,CUST0360,Customer 0360,South,Consumer,Technology,Laptop,2,26221.67,0.15,5329.96,Debit Card
+ORD01379,23-10-2025,CUST0091,Customer 0091,Central,Corporate,Office Supplies,Office Chair,7,6762.65,0.1,1871.22,Cash
+ORD01380,11-01-2025,CUST0223,Customer 0223,South,Small Business,Technology,Mouse,6,106559.44,0.15,25587.37,UPI
+ORD01381,13-06-2025,CUST0019,Customer 0019,Central,Consumer,Accessories,Headset,9,24734.49,0.1,5695.75,Credit Card
+ORD01382,23-04-2025,CUST0107,Customer 0107,South,Corporate,Technology,Monitor,10,114129.62,0.2,20003.19,Net Banking
+ORD01383,06-07-2025,CUST0180,Customer 0180,North,Corporate,Technology,Keyboard,3,54805.96,0.1,9928.28,Debit Card
+ORD01384,22-10-2025,CUST0283,Customer 0283,West,Consumer,Furniture,Desk,3,16439.06,0.1,2242.08,Credit Card
+ORD01385,20-08-2025,CUST0364,Customer 0364,North,Consumer,Furniture,Bookshelf,2,14084.68,0.05,3154.71,Credit Card
+ORD01386,15-08-2025,CUST0051,Customer 0051,West,Consumer,Furniture,Conference Table,8,58818.73,0.25,11599.93,UPI
+ORD01387,06-11-2025,CUST0338,Customer 0338,South,Small Business,Technology,Monitor,1,10699.02,0.2,1989.64,UPI
+ORD01388,08-04-2025,CUST0318,Customer 0318,North,Small Business,Accessories,Webcam,9,16042.05,0.15,4180.57,Credit Card
+ORD01389,24-02-2025,CUST0294,Customer 0294,North,Corporate,Technology,Printer,6,87495.52,0,16168.78,Credit Card
+ORD01390,21-04-2025,CUST0291,Customer 0291,Central,Consumer,Furniture,Bookshelf,3,23719.61,0.05,4244.08,Debit Card
+ORD01391,01-06-2025,CUST0021,Customer 0021,North,Consumer,Technology,Laptop,1,9499.81,0.2,2187,Credit Card
+ORD01392,03-09-2025,CUST0088,Customer 0088,West,Consumer,Office Supplies,Pen Set,8,10006.74,0.05,2445.23,Debit Card
+ORD01393,10-03-2025,CUST0016,Customer 0016,South,Consumer,Furniture,Cabinet,5,58141.09,0,10198.31,Credit Card
+ORD01394,08-11-2025,CUST0252,Customer 0252,West,Consumer,Office Supplies,File Folder,3,4910.12,0.15,1350.03,UPI
+ORD01395,16-10-2025,CUST0176,Customer 0176,West,Corporate,Technology,Printer,8,91877.02,0.1,17473.17,UPI
+ORD01396,07-09-2025,CUST0182,Customer 0182,South,Corporate,Furniture,Desk,10,91359.44,0.1,14201.1,UPI
+ORD01397,05-02-2025,CUST0398,Customer 0398,North,Small Business,Furniture,Office Sofa,3,35757.6,0.15,6849.38,UPI
+ORD01398,27-08-2025,CUST0115,Customer 0115,East,Consumer,Furniture,Desk,1,10636.33,0.2,1927.61,Net Banking
+ORD01399,28-05-2025,CUST0112,Customer 0112,South,Consumer,Technology,Printer,9,113232.8,0.1,30513.38,Debit Card
+ORD01400,15-08-2025,CUST0261,Customer 0261,West,Consumer,Office Supplies,Notebook,5,11462.87,0.1,3302.79,Net Banking
+ORD01401,01-09-2025,CUST0104,Customer 0104,East,Small Business,Technology,Laptop,4,43396.68,0.1,8367.27,Credit Card
+ORD01402,03-12-2025,CUST0146,Customer 0146,South,Small Business,Technology,Mouse,1,17264.87,0.05,3314.72,Cash
+ORD01403,31-12-2025,CUST0400,Customer 0400,North,Corporate,Accessories,Power Bank,8,32104.41,0.15,7224.15,UPI
+ORD01404,20-07-2025,CUST0203,Customer 0203,South,Corporate,Technology,Mouse,2,33648.1,0.1,8008.44,Cash
+ORD01405,03-06-2025,CUST0192,Customer 0192,West,Small Business,Furniture,Cabinet,2,18205.57,0.15,3756.72,Credit Card
+ORD01406,14-03-2025,CUST0254,Customer 0254,East,Consumer,Technology,Monitor,10,142047.79,0,30990.32,UPI
+ORD01407,20-07-2025,CUST0006,Customer 0006,Central,Small Business,Accessories,USB Hub,7,18924.15,0.1,5476.25,UPI
+ORD01408,23-10-2025,CUST0306,Customer 0306,West,Consumer,Technology,Keyboard,3,25448.6,0.2,4875.15,UPI
+ORD01409,17-01-2025,CUST0089,Customer 0089,North,Consumer,Technology,Laptop,5,82687.82,0.05,16147.56,Debit Card
+ORD01410,09-05-2025,CUST0269,Customer 0269,West,Small Business,Furniture,Cabinet,6,66514.69,0.2,14597.76,UPI
+ORD01411,05-08-2025,CUST0126,Customer 0126,Central,Consumer,Accessories,Headset,5,14141.53,0.1,3214.43,Cash
+ORD01412,02-03-2025,CUST0350,Customer 0350,South,Corporate,Office Supplies,Office Chair,4,6354.63,0.15,1538.65,UPI
+ORD01413,14-04-2025,CUST0144,Customer 0144,South,Consumer,Technology,Printer,3,22103.25,0.1,4638.72,UPI
+ORD01414,11-02-2025,CUST0046,Customer 0046,South,Consumer,Furniture,Desk,7,80490.32,0.2,14194.89,Debit Card
+ORD01415,25-01-2025,CUST0079,Customer 0079,East,Consumer,Technology,Keyboard,7,56728.51,0.15,12232.03,Credit Card
+ORD01416,08-02-2025,CUST0215,Customer 0215,North,Consumer,Technology,Printer,5,76531.02,0.05,14622.04,UPI
+ORD01417,18-10-2025,CUST0275,Customer 0275,Central,Consumer,Office Supplies,File Folder,8,18918.1,0.05,4977.91,Credit Card
+ORD01418,11-05-2025,CUST0128,Customer 0128,Central,Consumer,Technology,Keyboard,1,15176.19,0.1,2927.49,UPI
+ORD01419,17-08-2025,CUST0128,Customer 0128,East,Consumer,Accessories,Webcam,3,8292.11,0.15,1744.24,UPI
+ORD01420,18-04-2025,CUST0273,Customer 0273,South,Consumer,Accessories,Headset,4,13413.27,0.15,3809.18,UPI
+ORD01421,21-06-2025,CUST0208,Customer 0208,East,Corporate,Accessories,USB Hub,10,45998.69,0.05,10372.16,Net Banking
+ORD01422,12-04-2025,CUST0221,Customer 0221,East,Consumer,Furniture,Office Sofa,2,17221.21,0.15,2321.29,Debit Card
+ORD01423,20-12-2025,CUST0247,Customer 0247,North,Consumer,Furniture,Office Sofa,3,26034.4,0.15,4255.73,Credit Card
+ORD01424,12-01-2025,CUST0113,Customer 0113,Central,Corporate,Accessories,Webcam,10,23179.09,0.25,6339.47,UPI
+ORD01425,02-10-2025,CUST0215,Customer 0215,South,Small Business,Furniture,Bookshelf,6,39205.95,0.2,6417.68,Debit Card
+ORD01426,11-04-2025,CUST0082,Customer 0082,Central,Corporate,Technology,Laptop,2,17116.9,0.05,3318.5,Cash
+ORD01427,13-02-2025,CUST0372,Customer 0372,East,Small Business,Technology,Monitor,3,26743.22,0,6459,UPI
+ORD01428,01-11-2025,CUST0297,Customer 0297,South,Corporate,Accessories,Webcam,8,17916.83,0.15,5255.91,UPI
+ORD01429,17-01-2025,CUST0196,Customer 0196,East,Corporate,Furniture,Desk,5,48302.2,0.05,8912.89,Net Banking
+ORD01430,26-11-2025,CUST0371,Customer 0371,North,Consumer,Accessories,Backpack,10,30296.03,0,8595.21,Debit Card
+ORD01431,26-02-2025,CUST0391,Customer 0391,North,Consumer,Furniture,Conference Table,3,15727.79,0.05,2465.44,UPI
+ORD01432,07-11-2025,CUST0389,Customer 0389,North,Corporate,Office Supplies,File Folder,10,12052.84,0.2,3378.19,UPI
+ORD01433,30-10-2025,CUST0097,Customer 0097,Central,Small Business,Furniture,Bookshelf,9,86565.43,0.25,19318.19,Debit Card
+ORD01434,12-01-2025,CUST0137,Customer 0137,East,Corporate,Furniture,Desk,7,89908.9,0.1,17899.13,Debit Card
+ORD01435,14-11-2025,CUST0243,Customer 0243,South,Consumer,Technology,Keyboard,10,169035.03,0,29824.12,UPI
+ORD01436,21-03-2025,CUST0339,Customer 0339,South,Small Business,Office Supplies,Notebook,9,15482.57,0.15,4008.17,Credit Card
+ORD01437,04-08-2025,CUST0097,Customer 0097,Central,Consumer,Office Supplies,Desk Organizer,10,21183.37,0,5274.01,Credit Card
+ORD01438,05-12-2025,CUST0113,Customer 0113,North,Small Business,Technology,Mouse,5,55461.74,0.1,10535.44,UPI
+ORD01439,21-09-2025,CUST0126,Customer 0126,South,Corporate,Office Supplies,Desk Organizer,7,12478.62,0.25,3511.89,Credit Card
+ORD01440,29-05-2025,CUST0088,Customer 0088,North,Consumer,Furniture,Conference Table,6,58365.25,0.05,12633.1,Debit Card
+ORD01441,22-03-2025,CUST0111,Customer 0111,North,Consumer,Technology,Laptop,3,33310.34,0.15,7135.28,Debit Card
+ORD01442,03-08-2025,CUST0222,Customer 0222,West,Corporate,Technology,Keyboard,6,103561.67,0.05,17811.36,Credit Card
+ORD01443,17-07-2025,CUST0050,Customer 0050,West,Consumer,Accessories,Backpack,3,8774.13,0.15,2605.86,Credit Card
+ORD01444,19-07-2025,CUST0240,Customer 0240,West,Corporate,Office Supplies,Desk Organizer,10,22794.04,0.05,6525.41,UPI
+ORD01445,25-01-2025,CUST0380,Customer 0380,Central,Consumer,Accessories,Power Bank,4,6717.72,0.2,1373.3,Debit Card
+ORD01446,30-03-2025,CUST0061,Customer 0061,North,Consumer,Technology,Keyboard,3,45209.19,0.1,10731.53,Debit Card
+ORD01447,25-09-2025,CUST0271,Customer 0271,West,Corporate,Furniture,Desk,6,29692.51,0.1,5147.32,Credit Card
+ORD01448,23-05-2025,CUST0134,Customer 0134,South,Corporate,Furniture,Cabinet,5,43572.72,0.1,8437.2,Debit Card
+ORD01449,28-02-2025,CUST0056,Customer 0056,East,Consumer,Technology,Monitor,9,100492.36,0,24817.76,Credit Card
+ORD01450,31-12-2025,CUST0354,Customer 0354,East,Small Business,Accessories,Webcam,1,2103.15,0,570.5,UPI
+ORD01451,26-01-2025,CUST0321,Customer 0321,South,Consumer,Office Supplies,Office Chair,5,5835.51,0.1,1793.94,UPI
+ORD01452,16-02-2025,CUST0201,Customer 0201,Central,Small Business,Furniture,Conference Table,9,97159.13,0,15136.13,UPI
+ORD01453,15-10-2025,CUST0286,Customer 0286,West,Consumer,Office Supplies,Notebook,3,3382.7,0.2,1071.45,UPI
+ORD01454,23-09-2025,CUST0282,Customer 0282,East,Consumer,Technology,Monitor,3,42656.33,0.15,8248.11,Credit Card
+ORD01455,16-01-2025,CUST0140,Customer 0140,South,Corporate,Technology,Laptop,2,22579.53,0.2,5929.4,UPI
+ORD01456,18-07-2025,CUST0358,Customer 0358,East,Small Business,Technology,Keyboard,6,50309.37,0.05,9809.79,Credit Card
+ORD01457,09-10-2025,CUST0123,Customer 0123,East,Consumer,Furniture,Cabinet,7,65202.65,0.1,8533.56,UPI
+ORD01458,27-03-2025,CUST0287,Customer 0287,South,Consumer,Technology,Keyboard,6,93152.2,0.25,24583.62,UPI
+ORD01459,07-09-2025,CUST0167,Customer 0167,West,Corporate,Office Supplies,Desk Organizer,6,9027.31,0.15,2164.37,UPI
+ORD01460,27-09-2025,CUST0281,Customer 0281,East,Consumer,Furniture,Bookshelf,10,78278.71,0.2,16572.6,Cash
+ORD01461,01-12-2025,CUST0394,Customer 0394,Central,Consumer,Technology,Mouse,9,98946.84,0.2,21505.32,Net Banking
+ORD01462,27-04-2025,CUST0007,Customer 0007,East,Consumer,Furniture,Conference Table,1,7305.49,0.1,1258.26,UPI
+ORD01463,07-01-2025,CUST0244,Customer 0244,East,Consumer,Office Supplies,Notebook,8,10907.09,0.05,3544.72,UPI
+ORD01464,17-05-2025,CUST0098,Customer 0098,North,Corporate,Technology,Monitor,7,98302.05,0.2,17106.98,UPI
+ORD01465,25-06-2025,CUST0398,Customer 0398,South,Consumer,Office Supplies,Notebook,1,898.26,0.1,269.91,UPI
+ORD01466,24-11-2025,CUST0272,Customer 0272,Central,Consumer,Furniture,Bookshelf,8,87539.17,0.15,19130.87,Debit Card
+ORD01467,11-11-2025,CUST0048,Customer 0048,East,Consumer,Accessories,Backpack,4,16151.56,0.15,3289.74,Credit Card
+ORD01468,03-08-2025,CUST0226,Customer 0226,East,Consumer,Accessories,Power Bank,1,2767.23,0.1,635.59,UPI
+ORD01469,23-03-2025,CUST0364,Customer 0364,North,Consumer,Technology,Printer,1,8995.02,0.25,2049.49,Cash
+ORD01470,11-08-2025,CUST0207,Customer 0207,West,Consumer,Office Supplies,Pen Set,7,6987.1,0.2,2296.53,UPI
+ORD01471,13-04-2025,CUST0164,Customer 0164,West,Consumer,Technology,Monitor,2,26773.21,0.05,5493.61,UPI
+ORD01472,30-09-2025,CUST0306,Customer 0306,Central,Consumer,Office Supplies,Desk Organizer,10,8500.05,0.2,2471.54,Credit Card
+ORD01473,14-01-2025,CUST0115,Customer 0115,East,Small Business,Accessories,Backpack,5,17019.32,0.2,4606.33,Net Banking
+ORD01474,08-06-2025,CUST0032,Customer 0032,East,Consumer,Office Supplies,Pen Set,4,7130.09,0.05,2111.14,Debit Card
+ORD01475,01-06-2025,CUST0344,Customer 0344,East,Corporate,Technology,Monitor,9,135522.38,0.1,27159.64,UPI
+ORD01476,18-04-2025,CUST0199,Customer 0199,Central,Corporate,Accessories,Headset,3,5441.67,0.15,1623.53,UPI
+ORD01477,07-07-2025,CUST0065,Customer 0065,South,Small Business,Furniture,Desk,6,41017.4,0.05,7106.19,UPI
+ORD01478,28-10-2025,CUST0041,Customer 0041,Central,Corporate,Technology,Mouse,5,70107.63,0.15,16271.1,Cash
+ORD01479,08-04-2025,CUST0089,Customer 0089,Central,Consumer,Technology,Laptop,10,81832.16,0.1,20207.46,Debit Card
+ORD01480,11-05-2025,CUST0216,Customer 0216,South,Consumer,Technology,Mouse,6,75984.78,0.1,17692.81,UPI
+ORD01481,20-10-2025,CUST0031,Customer 0031,East,Consumer,Technology,Keyboard,9,136459.08,0.2,26591.35,Net Banking
+ORD01482,20-06-2025,CUST0323,Customer 0323,East,Small Business,Office Supplies,Desk Organizer,1,1165.54,0.1,381.28,Credit Card
+ORD01483,02-07-2025,CUST0133,Customer 0133,South,Consumer,Office Supplies,Pen Set,6,9870.33,0,3111.45,Cash
+ORD01484,30-12-2025,CUST0157,Customer 0157,East,Small Business,Accessories,Power Bank,6,21488.93,0.15,4404.34,Credit Card
+ORD01485,08-02-2025,CUST0162,Customer 0162,South,Consumer,Office Supplies,Office Chair,5,6944,0.05,1653.03,Debit Card
+ORD01486,15-01-2025,CUST0023,Customer 0023,East,Consumer,Technology,Mouse,9,59465.16,0.2,11356.29,Credit Card
+ORD01487,04-01-2025,CUST0019,Customer 0019,Central,Corporate,Accessories,USB Hub,5,15707.68,0.2,4144.44,Net Banking
+ORD01488,15-12-2025,CUST0184,Customer 0184,North,Consumer,Furniture,Bookshelf,3,20156.66,0.15,4447.94,Cash
+ORD01489,29-07-2025,CUST0139,Customer 0139,North,Consumer,Technology,Laptop,6,52144.13,0.05,10919.87,UPI
+ORD01490,10-06-2025,CUST0261,Customer 0261,Central,Small Business,Office Supplies,Office Chair,6,12416.68,0.1,3321.09,Credit Card
+ORD01491,16-01-2025,CUST0067,Customer 0067,East,Consumer,Office Supplies,File Folder,5,7247.44,0.25,1710.38,Credit Card
+ORD01492,18-04-2025,CUST0137,Customer 0137,Central,Consumer,Furniture,Office Sofa,9,106800.19,0.15,16854.99,Credit Card
+ORD01493,07-11-2025,CUST0208,Customer 0208,West,Consumer,Accessories,USB Hub,6,11813.92,0.15,3440.45,Cash
+ORD01494,15-08-2025,CUST0266,Customer 0266,West,Corporate,Furniture,Cabinet,6,62790.49,0,10685.16,Credit Card
+ORD01495,19-06-2025,CUST0361,Customer 0361,South,Consumer,Accessories,USB Hub,2,7859.37,0.2,2178.08,Credit Card
+ORD01496,03-02-2025,CUST0112,Customer 0112,West,Consumer,Technology,Mouse,6,55329.34,0.05,10315.01,UPI
+ORD01497,08-09-2025,CUST0103,Customer 0103,West,Consumer,Technology,Keyboard,1,7504.59,0.1,1920.66,UPI
+ORD01498,04-09-2025,CUST0365,Customer 0365,West,Small Business,Accessories,Webcam,3,11015.34,0.05,2331.68,Credit Card
+ORD01499,26-09-2025,CUST0225,Customer 0225,North,Consumer,Technology,Keyboard,1,14760.9,0.2,3659.07,Debit Card
+ORD01500,21-05-2025,CUST0098,Customer 0098,West,Corporate,Office Supplies,Pen Set,4,6488.69,0,2126.3,UPI
